@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 14, 2026
+title: Latest 15 Papers - June 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mana: Dexterous Manipulation of Articulated Tools](https://arxiv.org/abs/2606.13677v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Page: https://zhaohengyin.github.io/mana</p></details> |
-| **[Improving Robotic Generalist Policies via Flow Reversal Steering](https://arxiv.org/abs/2606.13675v1)** | 2026-06-11 |  |
-| **[Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks](https://arxiv.org/abs/2606.13621v1)** | 2026-06-11 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 7 tables. Under review at JAIR. Code: https://github.com/AchrafHsain7/Bastion</p></details> |
-| **[Distribution-Agnostic Robust Trajectory Optimization via Chance-Constrained Reinforcement Learning](https://arxiv.org/abs/2606.13605v1)** | 2026-06-11 | <details><summary>Prepr...</summary><p>Preprint. 39 pages, 16 figures</p></details> |
-| **[Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for Objective-Weight Adaptation in Three-Sided Dispatch](https://arxiv.org/abs/2606.13604v1)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Reinforcement Learning from World Feedback (RLxF)</p></details> |
-| **[ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding](https://arxiv.org/abs/2506.01274v2)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project page: https://interlive-team.github.io/ReFoCUS/</p></details> |
-| **[RoboNaldo: Accurate, Stable and Powerful Humanoid Soccer Shooting via Motion-Guided Curriculum Reinforcement Learning](https://arxiv.org/abs/2606.11092v3)** | 2026-06-11 |  |
-| **[Learning to Contest: Decentralized Robust Fairness in Cooperative MARL via Cross-Attention](https://arxiv.org/abs/2606.06162v2)** | 2026-06-11 | 11 pages, 10 figures |
-| **[Reinforcement Learning for Neural Model Editing](https://arxiv.org/abs/2606.13461v1)** | 2026-06-11 |  |
-| **[Mechanical Conscience: A Mathematical Framework for Dependability of Machine Intelligenc](https://arxiv.org/abs/2605.03847v2)** | 2026-06-11 | <details><summary>9 pag...</summary><p>9 pages, 2 figures. Preprint</p></details> |
-| **[IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generation and Editing](https://arxiv.org/abs/2606.13368v1)** | 2026-06-11 |  |
-| **[DWM-RO: Decentralized World Models with Reasoning Offloading for SWIPT-enabled Satellite-Terrestrial HetNets](https://arxiv.org/abs/2511.05972v3)** | 2026-06-11 |  |
-| **[From Passive Generation to Investigation: A Proactive Scientific Peer Review Agent](https://arxiv.org/abs/2606.13349v1)** | 2026-06-11 |  |
-| **[ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Learning](https://arxiv.org/abs/2606.13316v1)** | 2026-06-11 | <details><summary>24 pa...</summary><p>24 pages, including 13 pages of main text and 11 pages of appendix</p></details> |
-| **[ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance](https://arxiv.org/abs/2606.13304v1)** | 2026-06-11 |  |
+| **[Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2606.14693v1)** | 2026-06-12 |  |
+| **[CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](https://arxiv.org/abs/2606.14691v1)** | 2026-06-12 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2026</p></details> |
+| **[PERRY: Policy Evaluation with Confidence Intervals using Auxiliary Data](https://arxiv.org/abs/2507.20068v2)** | 2026-06-12 |  |
+| **[AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition](https://arxiv.org/abs/2606.14674v1)** | 2026-06-12 |  |
+| **[HPSv3++: Scaling Reward Models Across the Full Spectrum of Diffusion Model Capabilities](https://arxiv.org/abs/2606.14657v1)** | 2026-06-12 |  |
+| **[Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning](https://arxiv.org/abs/2604.18419v5)** | 2026-06-12 |  |
+| **[Micro-Swarm Locomotion Optimization in Dynamic Flow using Multi-Objective Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.25025v2)** | 2026-06-12 |  |
+| **[Improving Robotic Generalist Policies via Flow Reversal Steering](https://arxiv.org/abs/2606.13675v2)** | 2026-06-12 |  |
+| **[ParkourFormer: Integrating Predictive Supervision and Sequence Modeling into Parkour Locomotion](https://arxiv.org/abs/2605.25782v3)** | 2026-06-12 | <details><summary>Proje...</summary><p>Project Homepage: https://mronaldo-gif.github.io/parkourformer.github.io/</p></details> |
+| **[Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency](https://arxiv.org/abs/2606.14609v1)** | 2026-06-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables. Preprint version</p></details> |
+| **[A Statistical and Machine Learning Framework for Operational Threshold Detection and Deployable Dispatch Controller Development in Hydrogen Multi-Energy Systems](https://arxiv.org/abs/2606.14601v1)** | 2026-06-12 | 17 pages, 12 figures |
+| **[VISTA: View-Consistent Self-Verified Training for GUI Grounding](https://arxiv.org/abs/2606.14579v1)** | 2026-06-12 |  |
+| **[X-OPD: Cross-Modal On-Policy Distillation for Capability Alignment in Speech LLMs](https://arxiv.org/abs/2603.24596v3)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
+| **[Tackling GNARLy Problems: Graph Neural Algorithmic Reasoning Reimagined through Reinforcement Learning](https://arxiv.org/abs/2509.18930v3)** | 2026-06-12 |  |
+| **[Unsupervised Learning of Efficient Exploration: Pre-training Adaptive Policies via Self-Imposed Goals](https://arxiv.org/abs/2601.19810v2)** | 2026-06-12 | <details><summary>ICLR ...</summary><p>ICLR 2026; v2 adds link to code: https://github.com/Octavio-Pappalardo/ulee-jax</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator](https://arxiv.org/abs/2506.05797v2)** | 2026-06-12 |  |
+| **[Generalizing GNNs with Tokenized Mixture of Experts](https://arxiv.org/abs/2602.09258v2)** | 2026-06-12 | Accepted to KDD 2026 |
+| **[When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More](https://arxiv.org/abs/2606.14476v1)** | 2026-06-12 | <details><summary>9 pag...</summary><p>9 pages, 2 figures. Under review at TMLR</p></details> |
+| **[Can Deep Neural Networks Improve Compression of Very Large Scientific Data?](https://arxiv.org/abs/2606.14353v1)** | 2026-06-12 |  |
+| **[Efficient Code Analysis via Graph Representation Learning-Guided Large Language Models](https://arxiv.org/abs/2601.12890v3)** | 2026-06-12 |  |
+| **[Curvature-Informed Potential Energy Surface for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/2606.14217v1)** | 2026-06-12 |  |
+| **[MP3: Multi-Period Pattern Pre-training for Spatio-Temporal Forecasting](https://arxiv.org/abs/2606.13119v2)** | 2026-06-12 |  |
+| **[Quantile-Free Uncertainty Quantification in Graph Neural Networks](https://arxiv.org/abs/2605.04847v2)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[Temporally Consistent Graph Q-Networks for Intelligent Network Control](https://arxiv.org/abs/2606.13848v1)** | 2026-06-11 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Accepted to the 6G AI-RAN Workshop at IEEE INFOCOM 2026. The final published version will be available via IEEE Xplore</p></details> |
 | **[Understanding Truncated Positional Encodings for Graph Neural Networks](https://arxiv.org/abs/2606.13671v1)** | 2026-06-11 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, ICML 2026</p></details> |
 | **[Clustering Node Attributed Networks with Graph Neural Networks and Self Learning](https://arxiv.org/abs/2606.13444v1)** | 2026-06-11 |  |
 | **[OR-Action: Multi-Role Video Understanding with Fine-Grained Actions](https://arxiv.org/abs/2606.13332v1)** | 2026-06-11 |  |
-| **[MP3: Multi-Period Pattern Pre-training forSpatio-Temporal Forecasting](https://arxiv.org/abs/2606.13119v1)** | 2026-06-11 |  |
 | **[PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation](https://arxiv.org/abs/2512.21227v3)** | 2026-06-11 | 53 pages, 6 figures |
 | **[Physics-Aware Auxiliary Losses Improve Out-of-Distribution Generalization of a GNN Synthesizability Filter](https://arxiv.org/abs/2606.12651v1)** | 2026-06-10 |  |
 | **[Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems](https://arxiv.org/abs/2603.29515v2)** | 2026-06-10 |  |
-| **[Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](https://arxiv.org/abs/2606.11946v1)** | 2026-06-10 | 37 pages |
-| **[Modelling magnetic material properties with uncertainty-aware neural networks](https://arxiv.org/abs/2606.11870v1)** | 2026-06-10 | <details><summary>pre p...</summary><p>pre print, unreviewed version</p></details> |
-| **[SwarmSense-DNN: A Trustworthy and Decentralized Neural Framework for Proactive Anomaly Defense in Consumer IoT](https://arxiv.org/abs/2606.11803v1)** | 2026-06-10 | 11 pages, 14 figures |
-| **[GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](https://arxiv.org/abs/2510.04567v3)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the GFM @ ICML 2026 Workshop</p></details> |
-| **[DroneShield-AI: A Multi-Modal Sensor Fusion Framework for Real-Time Autonomous Drone Threat Detection, Behavioral Intent Classification, and Swarm Intelligence in Contested Airspace](https://arxiv.org/abs/2606.11687v1)** | 2026-06-10 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 11 tables. Code available at https://github.com/bayizeremarius/DroneShield-AI</p></details> |
-| **[LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560v1)** | 2026-06-10 | <details><summary>10 pa...</summary><p>10 pages, Accepted at PAKDD 2066 Tutorial</p></details> |
-| **[CableRobotGraphSim: A Graph Neural Network for Modeling Partially Observable Cable-Driven Robot Dynamics](https://arxiv.org/abs/2602.21331v2)** | 2026-06-09 |  |
-| **[Analog Quantum Asynchronous Event-Based Graph Neural Network](https://arxiv.org/abs/2606.11000v1)** | 2026-06-09 | <details><summary>31 pa...</summary><p>31 pages, 8 figures, initial version</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
