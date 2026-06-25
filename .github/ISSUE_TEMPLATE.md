@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2026
+title: Latest 15 Papers - June 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning](https://arxiv.org/abs/2606.24636v1)** | 2026-06-23 | 10 pages, 4 figures |
-| **[Themis: An explainable AI-enabled framework for Reinforcement Learning with Human Feedback](https://arxiv.org/abs/2606.24622v1)** | 2026-06-23 | <details><summary>The e...</summary><p>The extended version of a paper published at the 2026 IEEE Conference on Artificial Intelligence (CAI). Includes an additional appendix with extended derivations and supplementary results. The main paper has 8 pages, 6 figures, 1 table</p></details> |
-| **[ViTexQA: A Multi-Frame Temporal Perception Dataset for Video Text Question Answering](https://arxiv.org/abs/2606.24602v1)** | 2026-06-23 | Accepted by ECCV2026 |
-| **[ASALT: Adaptive State Alignment for Lateral Transfer in Multi-agent Reinforcement Learning](https://arxiv.org/abs/2606.24601v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at RLC 2026 conference</p></details> |
-| **[Precision Physical Activity Prescription via Reinforcement Learning for Functional Actions](https://arxiv.org/abs/2605.19208v2)** | 2026-06-23 |  |
-| **[PointVG-R: Internalizing Geometric Reasoning in MLLMs for Precise Pointing Localization via Visual Chain of Thought](https://arxiv.org/abs/2606.24539v1)** | 2026-06-23 |  |
-| **[Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation](https://arxiv.org/abs/2606.24515v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to the 4th International Workshop on Generalizing from Limited Resources in the Open World (GLOW @ IJCAI 2026)</p></details> |
-| **[video-SALMONN-R$^3$: Learning to ReWatch, ReAsk, and ReAnswer for Efficient Video Understanding](https://arxiv.org/abs/2606.24477v1)** | 2026-06-23 |  |
-| **[NoContactNoWorries: Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation](https://arxiv.org/abs/2606.24450v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2026</p></details> |
-| **[BRAVR: An AP-Assisted Online DRL Mechanism for Interactive VR Bitrate Adaptation over Wi-Fi](https://arxiv.org/abs/2606.24389v1)** | 2026-06-23 |  |
-| **[Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation](https://arxiv.org/abs/2606.24369v1)** | 2026-06-23 | <details><summary>14 pa...</summary><p>14 pages, 18 figures, 1 table</p></details> |
-| **[Managing Task Execution for Unknown Workloads in Batteryless IoT: A Hardware-Agnostic Evaluation](https://arxiv.org/abs/2606.24340v1)** | 2026-06-23 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Sustainable Computing</p></details> |
-| **[Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment](https://arxiv.org/abs/2606.24331v1)** | 2026-06-23 |  |
-| **[MyoInteract: A Framework for Fast Prototyping of Biomechanical HCI Tasks using Reinforcement Learning](https://arxiv.org/abs/2602.15245v2)** | 2026-06-23 | <details><summary>Publi...</summary><p>Published at Designing Interactive Systems (DIS) 2026</p></details> |
-| **[Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](https://arxiv.org/abs/2605.01482v3)** | 2026-06-23 |  |
+| **[Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data](https://arxiv.org/abs/2606.25894v1)** | 2026-06-24 |  |
+| **[Reinforcement Learning Improves Traversal of Parametric Knowledge in LLMs](https://arxiv.org/abs/2511.05933v2)** | 2026-06-24 | ` |
+| **[Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents](https://arxiv.org/abs/2606.25852v1)** | 2026-06-24 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 5 tables. Under review at EMNLP 2026</p></details> |
+| **[MiniOpt: Reasoning to Model and Solve General Optimization Problems with Limited Resources](https://arxiv.org/abs/2606.25832v1)** | 2026-06-24 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 11 tables, project: https://github.com/Hsiang-1/MiniOpt</p></details> |
+| **[Safe Learning Control with Optimality and Stability Guarantees](https://arxiv.org/abs/2501.15373v2)** | 2026-06-24 | 16 pages, 6 figures |
+| **[StairMaster: Learning to Conquer Risky Hollow Stairs for Agile Quadrupedal Robots](https://arxiv.org/abs/2606.25765v1)** | 2026-06-24 | 9 pages, 9 figures |
+| **[OPERA: Aligning Open-Ended Reasoning via Objective Perplexity-based Reinforcement Learning](https://arxiv.org/abs/2606.25757v1)** | 2026-06-24 | 21 pages, 8 figures |
+| **[Memory-Efficient Policy Libraries with Low-Rank Adaptation in Reinforcement Learning](https://arxiv.org/abs/2606.25700v1)** | 2026-06-24 |  |
+| **[Bias Fitting to Mitigate Length Bias of Reward Model in RLHF](https://arxiv.org/abs/2505.12843v2)** | 2026-06-24 | <details><summary>16 pa...</summary><p>16 pages, 12 figures. Accepted to ACL 2026</p></details> |
+| **[Power-Budgeted Underwater Vehicle Control via Constrained Reinforcement Learning](https://arxiv.org/abs/2606.25680v1)** | 2026-06-24 | 10 pages, 10 figures |
+| **[RoDyn: Taming Interactive Robot-Dynamic 2.5D World Model for Robotic Manipulation](https://arxiv.org/abs/2510.09036v2)** | 2026-06-24 |  |
+| **[Low-Complexity Policy Tessellations in Structured Markov Decision Processes](https://arxiv.org/abs/2606.25593v1)** | 2026-06-24 |  |
+| **[FeVOS: Foresight Expression Video Object Segmentation](https://arxiv.org/abs/2606.25585v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Homepage: https://henghuiding.com/FeVOS/</p></details> |
+| **[ConPress: Learning Efficient Reasoning from Multi-Question Contextual Pressure](https://arxiv.org/abs/2602.01472v2)** | 2026-06-24 |  |
+| **[daVinci-kernel: Co-Evolving Skill Selection, Summarization, and Utilization via RL for GPU Kernel Optimization](https://arxiv.org/abs/2606.16497v2)** | 2026-06-24 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KIGNet: Physics-Motivated Multi-Graph Representation Learning for Explainable Jet Tagging](https://arxiv.org/abs/2512.07420v3)** | 2026-06-24 | 23 pages, 4 figures |
+| **[Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](https://arxiv.org/abs/2606.25589v1)** | 2026-06-24 | 12 pages |
+| **[Ramanujan Graph Rewiring with Non Negative Resistance Curvature](https://arxiv.org/abs/2606.21333v2)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at ECML PKDD 2026 (Research Track)</p></details> |
+| **[Latency-Aware Service Placement using Neural Combinatorial Optimisers for Edge--Cloud Systems](https://arxiv.org/abs/2606.25553v1)** | 2026-06-24 |  |
+| **[Learning Structural Hardness for Combinatorial Auctions: Instance-Dependent Algorithm Selection via Graph Neural Networks](https://arxiv.org/abs/2602.14772v2)** | 2026-06-24 | <details><summary>The r...</summary><p>The research confirmed a foreordained result</p></details> |
+| **[RQ-SAFE: Coupled Request-Resource Scheduling for Online Edge SFC-DAGs](https://arxiv.org/abs/2606.25467v1)** | 2026-06-24 | 26 pages,8 figures |
 | **[A Fair Evaluation of Graph Foundation Models for Node Property Prediction](https://arxiv.org/abs/2606.24509v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at The Workshop on Graph Foundation Models at ICML 2026</p></details> |
+| **[Auto-Configured Explainable Graph Neural Networks for Multi-Site Pollution Prediction](https://arxiv.org/abs/2606.24978v1)** | 2026-06-23 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 6 tables</p></details> |
+| **[Convex--Concave Quadratic Spectral Filtering for Graph Neural Networks](https://arxiv.org/abs/2606.24956v1)** | 2026-06-23 |  |
 | **[Point-Voxel Absorbing Graph Representation Learning for Event Stream based Recognition](https://arxiv.org/abs/2306.05239v3)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted by International Conference on Robotics and Learning (ICRL) 2026</p></details> |
 | **[SEAGAN: domain-Specific and Edge-Aware Graph Attention Network for Dynamic Plant Processes](https://arxiv.org/abs/2606.19623v2)** | 2026-06-23 |  |
 | **[Generating adversarial inputs for a graph neural network model of AC power flow](https://arxiv.org/abs/2602.17975v2)** | 2026-06-23 |  |
 | **[Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](https://arxiv.org/abs/2505.13087v2)** | 2026-06-22 | <details><summary>Inter...</summary><p>International Conference on Machine Learning, Seoul, 2026</p></details> |
 | **[Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients](https://arxiv.org/abs/2606.23834v1)** | 2026-06-22 | 31 pages, 16 figures |
 | **[Reconstructing GRACE Terrestrial Water Storage with Spatio-Temporal Graph Neural Networks: An Application to South America](https://arxiv.org/abs/2606.23833v1)** | 2026-06-22 |  |
-| **[SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations](https://arxiv.org/abs/2606.23548v1)** | 2026-06-22 | 19 pages, 10 figures |
-| **[Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Networks with Group Lasso Regularization](https://arxiv.org/abs/2507.03318v3)** | 2026-06-22 | 15 pages, 8 figures |
-| **[Rethinking Molecular Graph Backdoors under Chemistry-aware Admission](https://arxiv.org/abs/2606.23361v1)** | 2026-06-22 | 30 pages |
-| **[Seam-to-Graph Reconstruction for Garment Configuration Alignment](https://arxiv.org/abs/2606.15171v2)** | 2026-06-22 | 11 pages, 9 figures |
-| **[TaLK: Text-attributed Graph Dataset Distillation via Coupling Language Model with Graph-Aware Kernel](https://arxiv.org/abs/2606.22975v1)** | 2026-06-22 |  |
-| **[Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](https://arxiv.org/abs/2606.22922v1)** | 2026-06-22 | <details><summary>21 pa...</summary><p>21 pages, 15 figures, 3 tables. Accepted at ICML 2026</p></details> |
-| **[GRADE: Graph Representation of LLM Agent Dependency and Execution](https://arxiv.org/abs/2606.22741v1)** | 2026-06-22 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 8 tables. Code: https://github.com/yzhao062/grade</p></details> |
-| **[Revealing the Pitfalls and Re-Evaluating the Advancement of Heterophilic Graph Learning](https://arxiv.org/abs/2409.05755v3)** | 2026-06-21 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2407.09618</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
