@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2026
+title: Latest 15 Papers - June 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reinforcement Learning without Ground-Truth Solutions can Improve LLMs](https://arxiv.org/abs/2606.27369v1)** | 2026-06-25 |  |
+| **[Bridging Performance and Generalization in Reinforcement Learning for Agile Flight](https://arxiv.org/abs/2606.27348v1)** | 2026-06-25 |  |
+| **[VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity](https://arxiv.org/abs/2606.27344v1)** | 2026-06-25 |  |
+| **[Sculpting NeRF Geometry: Human-Preference Fine-Tuning of a 3D-Aware Face GAN](https://arxiv.org/abs/2606.27305v1)** | 2026-06-25 |  |
+| **[Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search](https://arxiv.org/abs/2606.27291v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 Workshop on AI Agent for Information Retrieval (Agent4IR)</p></details> |
 | **[Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes](https://arxiv.org/abs/2606.27210v1)** | 2026-06-25 |  |
 | **[Automating Potential-based Reward Shaping with Vision Language Model Guidance](https://arxiv.org/abs/2606.27180v1)** | 2026-06-25 |  |
 | **[Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)](https://arxiv.org/abs/2606.27163v1)** | 2026-06-25 | <details><summary>Solut...</summary><p>Solution of the LeHome Challenge at ICRA 2026</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Graph Reinforcement Learning for Calibration-Aware Quantum Circuit Routing](https://arxiv.org/abs/2606.12816v3)** | 2026-06-25 | <details><summary>Submi...</summary><p>Submitted to IEEE Quantum Week International Workshop on AI for Circuit Synthesis, Optimization, and Discovery 2026. Code is available: https://github.com/YTomar79/calibration-aware-rl-routing</p></details> |
 | **[SymQNet: Amortized Acquisition for Low-Latency Adaptive Hamiltonian Learning](https://arxiv.org/abs/2606.12808v3)** | 2026-06-25 | <details><summary>Submi...</summary><p>Submitted to IEEE QCE Quantum Week International Workshop on Quantum Computing and Reinforcement Learning 2026. Code is available: https://github.com/YTomar79/symqnet_quantum</p></details> |
 | **[State Representation Matters in Deep Reinforcement Learning: Application to Energy Trading](https://arxiv.org/abs/2606.27032v1)** | 2026-06-25 |  |
-| **[Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization](https://arxiv.org/abs/2606.27025v1)** | 2026-06-25 |  |
-| **[Adaptive Utility driven Resource Orchestration for Resilient AI (AURORA-AI)](https://arxiv.org/abs/2606.27005v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted at IEEE Research and Technologies for Society and Industry 2026 conference</p></details> |
-| **[RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning](https://arxiv.org/abs/2606.26997v1)** | 2026-06-25 | 15 pages |
-| **[NASimJax: A GPU-Accelerated Policy Learning Framework for Penetration Testing](https://arxiv.org/abs/2603.19864v2)** | 2026-06-25 | <details><summary>26 pa...</summary><p>26 pages, 11 figures. Code available at [https://github.com/raphsimon/NASimJax](https://github.com/raphsimon/NASimJax)</p></details> |
-| **[Training Language Models to Use Prolog as a Tool](https://arxiv.org/abs/2512.07407v3)** | 2026-06-25 | <details><summary>ACL 2...</summary><p>ACL 2026 Findings (change from last version: corrected year in this comment)</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
