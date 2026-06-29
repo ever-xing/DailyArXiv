@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 28, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reinforcement Learning without Ground-Truth Solutions can Improve LLMs](https://arxiv.org/abs/2606.27369v1)** | 2026-06-25 |  |
-| **[Bridging Performance and Generalization in Reinforcement Learning for Agile Flight](https://arxiv.org/abs/2606.27348v1)** | 2026-06-25 |  |
-| **[VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity](https://arxiv.org/abs/2606.27344v1)** | 2026-06-25 |  |
-| **[Sculpting NeRF Geometry: Human-Preference Fine-Tuning of a 3D-Aware Face GAN](https://arxiv.org/abs/2606.27305v1)** | 2026-06-25 |  |
-| **[Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search](https://arxiv.org/abs/2606.27291v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 Workshop on AI Agent for Information Retrieval (Agent4IR)</p></details> |
-| **[Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes](https://arxiv.org/abs/2606.27210v1)** | 2026-06-25 |  |
-| **[Automating Potential-based Reward Shaping with Vision Language Model Guidance](https://arxiv.org/abs/2606.27180v1)** | 2026-06-25 |  |
-| **[Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)](https://arxiv.org/abs/2606.27163v1)** | 2026-06-25 | <details><summary>Solut...</summary><p>Solution of the LeHome Challenge at ICRA 2026</p></details> |
-| **[Learning Robust Penetration Testing Policies under Partial Observability: A systematic evaluation](https://arxiv.org/abs/2509.20008v2)** | 2026-06-25 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) https://openreview.net/forum?id=YkUV7wfk19. 25 pages, 8 figures. Code and StochNASim environment are available at https://github.com/raphsimon/StochNASim</p></details> |
-| **[Heavy-Ball Q-Learning with Residual Weighting Correction](https://arxiv.org/abs/2606.27112v1)** | 2026-06-25 |  |
-| **[Normalizing Flows are Capable Models for Continuous Control](https://arxiv.org/abs/2505.23527v4)** | 2026-06-25 | <details><summary>Proje...</summary><p>Project page with code - https://rajghugare19.github.io/nf4rl/</p></details> |
-| **[Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models](https://arxiv.org/abs/2510.09976v2)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
-| **[Graph Reinforcement Learning for Calibration-Aware Quantum Circuit Routing](https://arxiv.org/abs/2606.12816v3)** | 2026-06-25 | <details><summary>Submi...</summary><p>Submitted to IEEE Quantum Week International Workshop on AI for Circuit Synthesis, Optimization, and Discovery 2026. Code is available: https://github.com/YTomar79/calibration-aware-rl-routing</p></details> |
-| **[SymQNet: Amortized Acquisition for Low-Latency Adaptive Hamiltonian Learning](https://arxiv.org/abs/2606.12808v3)** | 2026-06-25 | <details><summary>Submi...</summary><p>Submitted to IEEE QCE Quantum Week International Workshop on Quantum Computing and Reinforcement Learning 2026. Code is available: https://github.com/YTomar79/symqnet_quantum</p></details> |
-| **[State Representation Matters in Deep Reinforcement Learning: Application to Energy Trading](https://arxiv.org/abs/2606.27032v1)** | 2026-06-25 |  |
+| **[When are LLMs Sufficient Policy Optimizers for Sequential RL Tasks?](https://arxiv.org/abs/2605.30719v2)** | 2026-06-26 |  |
+| **[Deep Reinforcement Learning-Enhanced Event-Triggered Data-Driven Predictive Control for a 3D Cable-Driven Soft Robotic Arm](https://arxiv.org/abs/2606.26048v2)** | 2026-06-26 |  |
+| **[Learning Stable In-Grasp Manipulation in a Non-Dropping Action Space](https://arxiv.org/abs/2606.28196v1)** | 2026-06-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training](https://arxiv.org/abs/2606.26102v2)** | 2026-06-26 |  |
+| **[Joint Reward Modeling: Internalizing Chain-of-Thought for Efficient Visual Reward Models](https://arxiv.org/abs/2602.07533v3)** | 2026-06-26 |  |
+| **[SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing](https://arxiv.org/abs/2606.26872v2)** | 2026-06-26 |  |
+| **[Tandem Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2606.28166v1)** | 2026-06-26 | <details><summary>21 pa...</summary><p>21 pages,7 figures,8 tables</p></details> |
+| **[EchoSonar-R: A Multi-View Reasoning-Enabled Model for Disease Classification and Report Generation in Echocardiography](https://arxiv.org/abs/2606.28164v1)** | 2026-06-26 |  |
+| **[Regularized Reward-Punishment Reinforcement Learning](https://arxiv.org/abs/2606.28152v1)** | 2026-06-26 |  |
+| **[Uncertainty-Aware Reward Discounting for Mitigating Reward Hacking](https://arxiv.org/abs/2604.26360v2)** | 2026-06-26 | <details><summary>46 pa...</summary><p>46 pages, 16 figures, 6 tables</p></details> |
+| **[Relating Reinforcement Learning to Dynamic Programming-Based Planning](https://arxiv.org/abs/2603.07844v2)** | 2026-06-26 | <details><summary>43 pa...</summary><p>43 pages, 8 figures, World Symposium on the Algorithmic Foundations of Robotics (WAFR 2026); added requested reviewer changes</p></details> |
+| **[TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL](https://arxiv.org/abs/2606.28016v1)** | 2026-06-26 |  |
+| **[ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models](https://arxiv.org/abs/2603.19466v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
+| **[Two-Stage Fine-Tuning for Protein Sequence Generation with Targeted Amino-Acid Composition](https://arxiv.org/abs/2606.27939v1)** | 2026-06-26 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, ICML 2026 Workshop GenBio</p></details> |
+| **[DIVER: Reinforced Diffusion Breaks Imitation Bottlenecks in End-to-End Autonomous Driving](https://arxiv.org/abs/2507.04049v5)** | 2026-06-26 | 17 pages, 10 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection](https://arxiv.org/abs/2606.28134v1)** | 2026-06-26 |  |
+| **[Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](https://arxiv.org/abs/2606.25956v2)** | 2026-06-26 | <details><summary>8 1/2...</summary><p>8 1/2 pages + 2 pages of references. Accepted for MICCAI 2026. This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution is published in, and available online at, the external reference provided below. Changes from v1: Fixed author list formatting and funding information</p></details> |
+| **[Estimating condition number with Graph Neural Networks](https://arxiv.org/abs/2603.10277v4)** | 2026-06-26 |  |
+| **[Graph Neural Networks for Predicting Solvability of Finite Groups](https://arxiv.org/abs/2606.07619v2)** | 2026-06-26 | 7 pages, 3 tables |
+| **[Effects of relational graph modularity and depth on the learning performance of neural networks](https://arxiv.org/abs/2507.10005v2)** | 2026-06-25 | 12 pages, 7 figures |
 | **[Graph Neural Networks Applications Across Domains: All Insights You Need](https://arxiv.org/abs/2606.27202v1)** | 2026-06-25 |  |
 | **[Explaining Temporal Graph Neural Networks via Feature-induced Information Flow](https://arxiv.org/abs/2606.27201v1)** | 2026-06-25 |  |
 | **[Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs](https://arxiv.org/abs/2606.27126v1)** | 2026-06-25 |  |
@@ -33,14 +38,9 @@ labels: documentation
 | **[Learning to Select Maximum Clique Algorithms: From Traditional Machine Learning to a Dual-Channel Hybrid Neural Architecture](https://arxiv.org/abs/2508.08005v4)** | 2026-06-25 | 14 pages, 8 figures |
 | **[Zero-Shot Size Transfer for Neural ODEs on Sparse Random Graphs: Graphon Limits and Adjoint Convergence](https://arxiv.org/abs/2606.26662v1)** | 2026-06-25 |  |
 | **[Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation](https://arxiv.org/abs/2604.13354v3)** | 2026-06-25 | <details><summary>Full ...</summary><p>Full article including supplementary information, 56 pages, 9 figures</p></details> |
-| **[Estimating condition number with Graph Neural Networks](https://arxiv.org/abs/2603.10277v3)** | 2026-06-24 |  |
 | **[A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks](https://arxiv.org/abs/2606.26212v1)** | 2026-06-24 |  |
 | **[A Hybrid TGN-SEAL Model for Dynamic Graph Link Prediction](https://arxiv.org/abs/2602.14239v3)** | 2026-06-24 |  |
-| **[Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](https://arxiv.org/abs/2606.25956v1)** | 2026-06-24 | <details><summary>8 1/2...</summary><p>8 1/2 pages + 2 pages of references. Accepted for MICCAI 2026. This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution is published in, and available online at, the external reference provided below</p></details> |
 | **[KIGNet: Physics-Motivated Multi-Graph Representation Learning for Explainable Jet Tagging](https://arxiv.org/abs/2512.07420v3)** | 2026-06-24 | 23 pages, 4 figures |
-| **[Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](https://arxiv.org/abs/2606.25589v1)** | 2026-06-24 | 12 pages |
-| **[Ramanujan Graph Rewiring with Non Negative Resistance Curvature](https://arxiv.org/abs/2606.21333v2)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at ECML PKDD 2026 (Research Track)</p></details> |
-| **[Latency-Aware Service Placement using Neural Combinatorial Optimisers for Edge--Cloud Systems](https://arxiv.org/abs/2606.25553v1)** | 2026-06-24 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
