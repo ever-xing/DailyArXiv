@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](https://arxiv.org/abs/2606.32032v1)** | 2026-06-30 | <details><summary>Code:...</summary><p>Code: https://github.com/yale-nlp/RLMF</p></details> |
-| **[TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.32017v1)** | 2026-06-30 |  |
-| **[OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation](https://arxiv.org/abs/2606.31993v1)** | 2026-06-30 | <details><summary>Proje...</summary><p>Project website: https://robin-lab.cs.utexas.edu/oopsieverse/. The first two authors contributed equally; order decided by dice roll. Accepted to Robotics: Science and Systems (RSS 2026)</p></details> |
-| **[GR2 Technical Report](https://arxiv.org/abs/2606.31984v1)** | 2026-06-30 | 18 pages, 10 figures |
-| **[LiteResearcher: A Scalable Agentic RL Training Framework for Deep Research Agent](https://arxiv.org/abs/2604.17931v3)** | 2026-06-30 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Adapting Generalist Robot Policies with Semantic Reinforcement Learning](https://arxiv.org/abs/2606.31958v1)** | 2026-06-30 | <details><summary>Websi...</summary><p>Website: https://semantic-action-rl.github.io/</p></details> |
-| **[LeCropFollow: Latent Space Planning for Navigation in Unstructured Crop Fields](https://arxiv.org/abs/2606.31941v1)** | 2026-06-30 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables. Github Repo: https://github.com/Felipe-Tommaselli/lecropfollow</p></details> |
-| **[End-to-End Efficient RL for Linear Bellman Complete MDPs with Deterministic Transitions](https://arxiv.org/abs/2603.23461v2)** | 2026-06-30 |  |
-| **[The HydroGym Reinforcement Learning Platform for Fluid Dynamics](https://arxiv.org/abs/2512.17534v2)** | 2026-06-30 |  |
-| **[Learning Locomotion on Discrete Terrain via Minimal Proximity Sensing](https://arxiv.org/abs/2606.31912v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at IROS 2026</p></details> |
-| **[CoDex: Learning Compositional Dexterous Functional Manipulation without Demonstrations](https://arxiv.org/abs/2606.31909v1)** | 2026-06-30 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics and Automation (ICRA) 2026. Project page: https://robin-lab.cs.utexas.edu/CoDex/</p></details> |
-| **[Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models](https://arxiv.org/abs/2606.31846v1)** | 2026-06-30 |  |
-| **[Compositional Concept-Based Neuron-Level Interpretability for Deep Reinforcement Learning](https://arxiv.org/abs/2502.00684v2)** | 2026-06-30 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted by PAKDD 2026. The final authenticated version is available online at Springer</p></details> |
-| **[Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](https://arxiv.org/abs/2606.31825v1)** | 2026-06-30 |  |
-| **[Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR](https://arxiv.org/abs/2606.31813v1)** | 2026-06-30 | <details><summary>30 pa...</summary><p>30 pages, accepted to ICML 2026</p></details> |
+| **[Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](https://arxiv.org/abs/2607.01084v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[AutoRestTest at the SBFT 2026 Tool Competition](https://arxiv.org/abs/2607.01063v1)** | 2026-07-01 | <details><summary>2 pag...</summary><p>2 pages, 1 figure. Published in the 19th Search-Based and Fuzz Testing Workshop (SBFT '26), co-located with ICSE 2026</p></details> |
+| **[AMBUSH: Collaborative Capture in Complex Environments with Neural Acceleration](https://arxiv.org/abs/2607.01029v1)** | 2026-07-01 |  |
+| **[From Holistic Evaluation to Structured Criteria: Rubrics Across the Evolving LLM Landscape](https://arxiv.org/abs/2606.08625v2)** | 2026-07-01 |  |
+| **[DRL-Based Joint Beamforming and Surface Shape Optimization for Flexible Intelligent Metasurface-Aided ISAC Systems](https://arxiv.org/abs/2607.00951v1)** | 2026-07-01 |  |
+| **[Human-Machine Collaboration on Generative Meta-Learning: Model and Algorithm](https://arxiv.org/abs/2607.00926v1)** | 2026-07-01 |  |
+| **[Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination](https://arxiv.org/abs/2607.00924v1)** | 2026-07-01 |  |
+| **[Reward function compression facilitates goal-dependent reinforcement learning](https://arxiv.org/abs/2509.06810v3)** | 2026-07-01 |  |
+| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](https://arxiv.org/abs/2502.12756v6)** | 2026-07-01 | <details><summary>This ...</summary><p>This paper is accepted at ECML-PKDD 2026</p></details> |
+| **[EFlow: Learning Evidence Flow for Long-Video Reasoning with Adaptive Reflection](https://arxiv.org/abs/2607.00867v1)** | 2026-07-01 |  |
+| **[HiComm: Hierarchical Communication for Multi-agent Reinforcement Learning](https://arxiv.org/abs/2606.29126v2)** | 2026-07-01 | <details><summary>23 pa...</summary><p>23 pages, 7 tables, under review</p></details> |
+| **[OpenReward: Learning to Reward Long-form Agentic Tasks via Reinforcement Learning](https://arxiv.org/abs/2510.24636v3)** | 2026-07-01 |  |
+| **[From Pixels to Temporal Correlations: Learning Informative Representations for Reinforcement Learning Pre-training](https://arxiv.org/abs/2607.00811v1)** | 2026-07-01 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Accepted by ACM MM 2025</p></details> |
+| **[Local Motion Matters: A Deconstruct-Recompose Paradigm for Reinforcement Learning Pre-training from Videos](https://arxiv.org/abs/2607.00808v1)** | 2026-07-01 | 20 pages, 16 figures |
+| **[Task-Relevant Representation Decoupling for Visual Reinforcement Learning Generalization](https://arxiv.org/abs/2607.00796v1)** | 2026-07-01 | 23 pages, 13 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Improving Neural Pruning: A Graph Neural Network Framework for Scalable Mixed Bundle Pricing](https://arxiv.org/abs/2509.22557v3)** | 2026-07-01 |  |
+| **[Multi-Label Node Classification with Label Influence Propagation](https://arxiv.org/abs/2607.00671v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
 | **[Nazrin: An Atomic Neural Proof Automation Tactic in Lean 4](https://arxiv.org/abs/2602.18767v3)** | 2026-06-30 | 16 pages, 10 figures |
 | **[LEO Satellite Network Orchestration with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2606.31950v1)** | 2026-06-30 |  |
 | **[Structural Preservation and the Logical Expressiveness of Graph Neural Networks](https://arxiv.org/abs/2606.17882v2)** | 2026-06-30 | 20 pages |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Generation of Uncertainty-Aware High-Level Spatial Concepts in Factorized 3D Scene Graphs via Graph Neural Networks](https://arxiv.org/abs/2409.11972v4)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted at IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[Maximum entropy temporal networks](https://arxiv.org/abs/2509.02098v7)** | 2026-06-29 | 21 pages, 32 figures |
 | **[T3R: Deeper Test-Time Adaptation for Graph Neural Networks via Gradient Rotation](https://arxiv.org/abs/2606.30011v1)** | 2026-06-29 |  |
-| **[Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks](https://arxiv.org/abs/2405.00742v2)** | 2026-06-29 | 19 pages,8 figures |
-| **[GLIP: Graph and LLM Joint Pretraining for Graph-Level Tasks](https://arxiv.org/abs/2606.29773v1)** | 2026-06-29 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
