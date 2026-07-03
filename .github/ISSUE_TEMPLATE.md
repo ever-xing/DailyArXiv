@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2026
+title: Latest 15 Papers - July 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](https://arxiv.org/abs/2607.01084v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[AutoRestTest at the SBFT 2026 Tool Competition](https://arxiv.org/abs/2607.01063v1)** | 2026-07-01 | <details><summary>2 pag...</summary><p>2 pages, 1 figure. Published in the 19th Search-Based and Fuzz Testing Workshop (SBFT '26), co-located with ICSE 2026</p></details> |
-| **[AMBUSH: Collaborative Capture in Complex Environments with Neural Acceleration](https://arxiv.org/abs/2607.01029v1)** | 2026-07-01 |  |
-| **[From Holistic Evaluation to Structured Criteria: Rubrics Across the Evolving LLM Landscape](https://arxiv.org/abs/2606.08625v2)** | 2026-07-01 |  |
-| **[DRL-Based Joint Beamforming and Surface Shape Optimization for Flexible Intelligent Metasurface-Aided ISAC Systems](https://arxiv.org/abs/2607.00951v1)** | 2026-07-01 |  |
-| **[Human-Machine Collaboration on Generative Meta-Learning: Model and Algorithm](https://arxiv.org/abs/2607.00926v1)** | 2026-07-01 |  |
-| **[Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination](https://arxiv.org/abs/2607.00924v1)** | 2026-07-01 |  |
-| **[Reward function compression facilitates goal-dependent reinforcement learning](https://arxiv.org/abs/2509.06810v3)** | 2026-07-01 |  |
-| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](https://arxiv.org/abs/2502.12756v6)** | 2026-07-01 | <details><summary>This ...</summary><p>This paper is accepted at ECML-PKDD 2026</p></details> |
-| **[EFlow: Learning Evidence Flow for Long-Video Reasoning with Adaptive Reflection](https://arxiv.org/abs/2607.00867v1)** | 2026-07-01 |  |
-| **[HiComm: Hierarchical Communication for Multi-agent Reinforcement Learning](https://arxiv.org/abs/2606.29126v2)** | 2026-07-01 | <details><summary>23 pa...</summary><p>23 pages, 7 tables, under review</p></details> |
-| **[OpenReward: Learning to Reward Long-form Agentic Tasks via Reinforcement Learning](https://arxiv.org/abs/2510.24636v3)** | 2026-07-01 |  |
-| **[From Pixels to Temporal Correlations: Learning Informative Representations for Reinforcement Learning Pre-training](https://arxiv.org/abs/2607.00811v1)** | 2026-07-01 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Accepted by ACM MM 2025</p></details> |
-| **[Local Motion Matters: A Deconstruct-Recompose Paradigm for Reinforcement Learning Pre-training from Videos](https://arxiv.org/abs/2607.00808v1)** | 2026-07-01 | 20 pages, 16 figures |
-| **[Task-Relevant Representation Decoupling for Visual Reinforcement Learning Generalization](https://arxiv.org/abs/2607.00796v1)** | 2026-07-01 | 23 pages, 13 figures |
+| **[Precision Recall Controllable Radiology Report Generation via Hybrid Natural Language and Clinical Reward Learning](https://arxiv.org/abs/2606.21447v3)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
+| **[Hybridizing a Grouping Metaheuristic with Reinforcement Learning for the One-Dimensional Bin Packing Problem](https://arxiv.org/abs/2607.02315v1)** | 2026-07-02 | 10 pages, 7 figures |
+| **[Learning-based Multi-agent Race Strategies in Formula 1](https://arxiv.org/abs/2602.23056v2)** | 2026-07-02 |  |
+| **[SPADER: Step-wise Peer Advantage with Diversity-Aware Exploration Rewards for Multi-Answer Question Answering](https://arxiv.org/abs/2606.00593v2)** | 2026-07-02 |  |
+| **[One More Time: Revisiting Neural Quantum States from a Reinforcement Learning Perspective](https://arxiv.org/abs/2607.02292v1)** | 2026-07-02 | 34 pages, 11 figures |
+| **[Optimizing Visual Generative Models via Distribution-wise Rewards](https://arxiv.org/abs/2607.02291v1)** | 2026-07-02 | ICML 2026 Main |
+| **[Generalization in offline RL: The structure is more important than the amount of pessimism](https://arxiv.org/abs/2607.02288v1)** | 2026-07-02 |  |
+| **[DDPO-VC: Speaker De-Identification via Diffusion Denoising Policy Optimization](https://arxiv.org/abs/2606.15313v2)** | 2026-07-02 |  |
+| **[DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation](https://arxiv.org/abs/2607.02220v1)** | 2026-07-02 |  |
+| **[Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning](https://arxiv.org/abs/2607.02205v1)** | 2026-07-02 | 15 pages, 6 figures |
+| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v2)** | 2026-07-02 |  |
+| **[Playing 20 Question Game with Policy-Based Reinforcement Learning](https://arxiv.org/abs/1808.07645v5)** | 2026-07-02 |  |
+| **[BuilderBench: The Building Blocks of Intelligent Agents](https://arxiv.org/abs/2510.06288v4)** | 2026-07-02 | <details><summary>Blogp...</summary><p>Blogpost: https://rajghugare19.github.io/builderbench and Code: https://github.com/rajghugare19/builderbench</p></details> |
+| **[Composite Reward Design in PPO-Driven Adaptive Filtering](https://arxiv.org/abs/2506.06323v2)** | 2026-07-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 table, 26th International Conference on Computational Science - Workshops (MLDADS-26) ,Keywords: Reinforcement learning, Adaptive filtering, Noise reduction, PPO</p></details> |
+| **[On the Role of Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v4)** | 2026-07-02 | <details><summary>ICML ...</summary><p>ICML 2026, Website: https://rajghugare19.github.io/computation-rl/index.html</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility](https://arxiv.org/abs/2607.02212v1)** | 2026-07-02 |  |
+| **[SA-HGNN: Sample-Adaptive Hyperbolic Graph Neural Network for EEG-Based Depression Recognition](https://arxiv.org/abs/2607.02063v1)** | 2026-07-02 |  |
+| **[From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485v2)** | 2026-07-02 |  |
+| **[Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion](https://arxiv.org/abs/2607.01777v1)** | 2026-07-02 |  |
+| **[A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](https://arxiv.org/abs/2601.04509v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Spatial Support Matters: Geometry-Aware Graph Fusion for Rainfall Field Reconstruction](https://arxiv.org/abs/2607.01621v1)** | 2026-07-02 | <details><summary>Submi...</summary><p>Submitted to WACV 2027, applications track</p></details> |
+| **[EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation](https://arxiv.org/abs/2607.01584v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 AI for Science Workshop</p></details> |
+| **[Robust and Explainable 3D Mode Shape Recognition Using Region-Aware Graph Neural Networks](https://arxiv.org/abs/2607.01522v1)** | 2026-07-01 |  |
+| **[Crystalite: A Lightweight Transformer for Efficient Crystal Modeling](https://arxiv.org/abs/2604.02270v2)** | 2026-07-01 | <details><summary>39 pa...</summary><p>39 pages, 13 figures. Code available at: https://github.com/joshrosie/crystalite</p></details> |
+| **[PETIMOT: A Novel Framework for Inferring Protein Motions from Sparse Data Using SE(3)-Equivariant Graph Neural Networks](https://arxiv.org/abs/2504.02839v2)** | 2026-07-01 |  |
 | **[Self-Improving Neural Pruning: A Graph Neural Network Framework for Scalable Mixed Bundle Pricing](https://arxiv.org/abs/2509.22557v3)** | 2026-07-01 |  |
 | **[Multi-Label Node Classification with Label Influence Propagation](https://arxiv.org/abs/2607.00671v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
 | **[Nazrin: An Atomic Neural Proof Automation Tactic in Lean 4](https://arxiv.org/abs/2602.18767v3)** | 2026-06-30 | 16 pages, 10 figures |
 | **[LEO Satellite Network Orchestration with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2606.31950v1)** | 2026-06-30 |  |
 | **[Structural Preservation and the Logical Expressiveness of Graph Neural Networks](https://arxiv.org/abs/2606.17882v2)** | 2026-06-30 | 20 pages |
-| **[Prompting Robot Teams with Natural Language](https://arxiv.org/abs/2509.24575v2)** | 2026-06-30 | <details><summary>This ...</summary><p>This paper has been accepted for publication at IEEE Robotics and Automation Letters. Please, when citing the paper, refer to the official version</p></details> |
-| **[Relational and Sequential Conformal Inference for Energy Time Series over Graphs via Foundation Models](https://arxiv.org/abs/2606.31804v1)** | 2026-06-30 | Under-review |
-| **[DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks](https://arxiv.org/abs/2602.03981v2)** | 2026-06-30 |  |
-| **[Enhancing Graph Representations with Neighborhood-Contextualized Message-Passing](https://arxiv.org/abs/2511.11046v3)** | 2026-06-30 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research</p></details> |
-| **[Optimization Algorithms for Joint OFDM Waveform Design and RIS Configuration in 6G Networks: From Convex Relaxation to Foundation Models](https://arxiv.org/abs/2606.31334v1)** | 2026-06-30 | 22 pages |
-| **[TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning](https://arxiv.org/abs/2606.31166v1)** | 2026-06-30 |  |
-| **[Data-Driven Modeling and Control for Tethered Space Systems with Koopman-Informed Graphs](https://arxiv.org/abs/2606.29825v2)** | 2026-06-30 | 11 pages |
-| **[Generation of Uncertainty-Aware High-Level Spatial Concepts in Factorized 3D Scene Graphs via Graph Neural Networks](https://arxiv.org/abs/2409.11972v4)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted at IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[Maximum entropy temporal networks](https://arxiv.org/abs/2509.02098v7)** | 2026-06-29 | 21 pages, 32 figures |
-| **[T3R: Deeper Test-Time Adaptation for Graph Neural Networks via Gradient Rotation](https://arxiv.org/abs/2606.30011v1)** | 2026-06-29 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
