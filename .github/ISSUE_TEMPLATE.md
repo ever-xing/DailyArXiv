@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 03, 2026
+title: Latest 15 Papers - July 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seek to Segment: Active Perception for Panoramic Referring Segmentation](https://arxiv.org/abs/2607.02497v1)** | 2026-07-02 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://henghuiding.com/APRS/</p></details> |
+| **[Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning](https://arxiv.org/abs/2607.02490v1)** | 2026-07-02 |  |
+| **[Learning Agile Intruder Interception using Differentiable Quadrotor Dynamics](https://arxiv.org/abs/2607.02472v1)** | 2026-07-02 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, 6 tables</p></details> |
+| **[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435v2)** | 2026-07-02 |  |
+| **[Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](https://arxiv.org/abs/2607.01232v2)** | 2026-07-02 |  |
+| **[Optimizing RAG Rerankers with LLM Feedback via Reinforcement Learning](https://arxiv.org/abs/2604.02091v2)** | 2026-07-02 | 17 pages |
+| **[WorldSample: Closed-loop Real-robot RL with World Modelling](https://arxiv.org/abs/2607.02431v1)** | 2026-07-02 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, conference paper</p></details> |
+| **[Wiki-R1: Incentivizing Multimodal Reasoning for Knowledge-based VQA via Data and Sampling Curriculum](https://arxiv.org/abs/2603.05256v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 26, code and weights are publicly available</p></details> |
+| **[DecompRL: Solving Harder Problems by Learning Modular Code Generation](https://arxiv.org/abs/2607.02390v1)** | 2026-07-02 |  |
 | **[Precision Recall Controllable Radiology Report Generation via Hybrid Natural Language and Clinical Reward Learning](https://arxiv.org/abs/2606.21447v3)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[Hybridizing a Grouping Metaheuristic with Reinforcement Learning for the One-Dimensional Bin Packing Problem](https://arxiv.org/abs/2607.02315v1)** | 2026-07-02 | 10 pages, 7 figures |
 | **[Learning-based Multi-agent Race Strategies in Formula 1](https://arxiv.org/abs/2602.23056v2)** | 2026-07-02 |  |
 | **[SPADER: Step-wise Peer Advantage with Diversity-Aware Exploration Rewards for Multi-Answer Question Answering](https://arxiv.org/abs/2606.00593v2)** | 2026-07-02 |  |
 | **[One More Time: Revisiting Neural Quantum States from a Reinforcement Learning Perspective](https://arxiv.org/abs/2607.02292v1)** | 2026-07-02 | 34 pages, 11 figures |
 | **[Optimizing Visual Generative Models via Distribution-wise Rewards](https://arxiv.org/abs/2607.02291v1)** | 2026-07-02 | ICML 2026 Main |
-| **[Generalization in offline RL: The structure is more important than the amount of pessimism](https://arxiv.org/abs/2607.02288v1)** | 2026-07-02 |  |
-| **[DDPO-VC: Speaker De-Identification via Diffusion Denoising Policy Optimization](https://arxiv.org/abs/2606.15313v2)** | 2026-07-02 |  |
-| **[DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation](https://arxiv.org/abs/2607.02220v1)** | 2026-07-02 |  |
-| **[Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning](https://arxiv.org/abs/2607.02205v1)** | 2026-07-02 | 15 pages, 6 figures |
-| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v2)** | 2026-07-02 |  |
-| **[Playing 20 Question Game with Policy-Based Reinforcement Learning](https://arxiv.org/abs/1808.07645v5)** | 2026-07-02 |  |
-| **[BuilderBench: The Building Blocks of Intelligent Agents](https://arxiv.org/abs/2510.06288v4)** | 2026-07-02 | <details><summary>Blogp...</summary><p>Blogpost: https://rajghugare19.github.io/builderbench and Code: https://github.com/rajghugare19/builderbench</p></details> |
-| **[Composite Reward Design in PPO-Driven Adaptive Filtering](https://arxiv.org/abs/2506.06323v2)** | 2026-07-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 table, 26th International Conference on Computational Science - Workshops (MLDADS-26) ,Keywords: Reinforcement learning, Adaptive filtering, Noise reduction, PPO</p></details> |
-| **[On the Role of Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v4)** | 2026-07-02 | <details><summary>ICML ...</summary><p>ICML 2026, Website: https://rajghugare19.github.io/computation-rl/index.html</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
