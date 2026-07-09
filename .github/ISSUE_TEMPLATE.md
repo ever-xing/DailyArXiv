@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2026
+title: Latest 15 Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Definition and Roadmap for World Models](https://arxiv.org/abs/2607.06401v1)** | 2026-07-07 | <details><summary>Techn...</summary><p>Technical report, 58 pages, 10 figures</p></details> |
-| **[Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning](https://arxiv.org/abs/2604.18419v6)** | 2026-07-07 |  |
-| **[Learning to Throw Objects Safely in Multi-Obstacle Environments](https://arxiv.org/abs/2607.06388v1)** | 2026-07-07 | <details><summary>This ...</summary><p>This paper has been presented at the IEEE International Conference on Robotics & Automation (ICRA), 2026</p></details> |
-| **[HERB: Human-augmented Efficient Reinforcement learning for Bin-packing](https://arxiv.org/abs/2504.16595v2)** | 2026-07-07 | 8 pages, 8 Figures |
-| **[Hierarchical Multi-Agent Reinforcement Learning for Carbon-Aware AI Data Centers in Power Distribution Systems](https://arxiv.org/abs/2607.03324v2)** | 2026-07-07 |  |
-| **[LAMP: Latent Motion Prior-Guided Real-World Learning for Dexterous Hand Manipulation](https://arxiv.org/abs/2607.06323v1)** | 2026-07-07 | 17 pages, 11 figures |
-| **[Nemotron-Labs-3-Puzzle-75B-A9B: Compressing Hybrid MoE LLMs](https://arxiv.org/abs/2607.04371v2)** | 2026-07-07 |  |
-| **[Streaming Reinforcement Learning under Partial Observability with Real-Time Recurrent Learning](https://arxiv.org/abs/2605.24709v2)** | 2026-07-07 | 16 pages, 4 figures |
-| **[Policy Improvement Reinforcement Learning](https://arxiv.org/abs/2604.00860v5)** | 2026-07-07 |  |
-| **[Preference-Calibrated Human-in-the-Loop Reinforcement Learning for Robotic Manipulation](https://arxiv.org/abs/2606.03949v2)** | 2026-07-07 |  |
-| **[Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions](https://arxiv.org/abs/2607.06230v1)** | 2026-07-07 |  |
-| **[Information Gain-based Rollout Policy Optimization: An Adaptive Tree-Structured Rollout Approach for Multi-Turn LLM Agents](https://arxiv.org/abs/2607.06223v1)** | 2026-07-07 |  |
-| **[Improving LLM-Generated Process Model Quality Through Reinforcement Learning: The Role of Reward Function Design](https://arxiv.org/abs/2607.06175v1)** | 2026-07-07 | 21 pages, 5 figures |
-| **[CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training](https://arxiv.org/abs/2607.02998v2)** | 2026-07-07 |  |
-| **[CurateEvo: Data-Curation Evolving for Agentic Post-Training](https://arxiv.org/abs/2607.06140v1)** | 2026-07-07 |  |
+| **[Weak-to-Strong Generalization via Direct On-Policy Distillation](https://arxiv.org/abs/2607.05394v2)** | 2026-07-08 | <details><summary>Proje...</summary><p>Project Page: https://bytedtsinghua-sia.github.io/Direct-OPD/</p></details> |
+| **[Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF](https://arxiv.org/abs/2607.07693v1)** | 2026-07-08 | <details><summary>19 pa...</summary><p>19 pages, 18 figures, 4 tables. Submission under review. A shorter, non-archival 4-page abstract version of this work was accepted to CVPR 2026 Workshops (GCV, CVEU)</p></details> |
+| **[Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning](https://arxiv.org/abs/2607.07690v1)** | 2026-07-08 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 8 tables</p></details> |
+| **[Unlearning to Protect: A Distilled Reinforcement Learning Framework with Privacy-Preserving Feature Unlearning and XAI for IoT Security](https://arxiv.org/abs/2607.07635v1)** | 2026-07-08 |  |
+| **[PHaul: A PPO-based forwarding agent for Sub6 enhanced Integrated Access and Backhaul networks](https://arxiv.org/abs/2607.07584v1)** | 2026-07-08 |  |
+| **[EFlow: Learning Evidence Flow for Long-Video Reasoning with Adaptive Reflection](https://arxiv.org/abs/2607.00867v2)** | 2026-07-08 |  |
+| **[Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.07508v1)** | 2026-07-08 |  |
+| **[Thinking Seeds: Leveraging Historical Diversity for Position-Aware RL in LLMs](https://arxiv.org/abs/2601.21476v2)** | 2026-07-08 |  |
+| **[Reward-Adaptive Iterative Discovery: A Case Study on Automated Game Testing for NHL26](https://arxiv.org/abs/2607.07498v1)** | 2026-07-08 | <details><summary>Reinf...</summary><p>Reinforcement Learning Conference - Reinforcement Learning and Video Games Workshop 2026</p></details> |
+| **[RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://arxiv.org/abs/2601.05249v4)** | 2026-07-08 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project page: https://ntuneillee.github.io/research/rl-awb/</p></details> |
+| **[EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2602.23802v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://arxiv.org/abs/2607.07459v1)** | 2026-07-08 |  |
+| **[RLVP: Penalize the Path, Reward the Outcome](https://arxiv.org/abs/2607.07435v1)** | 2026-07-08 |  |
+| **[BUS: Brain-Inspired Unsupervised Self-Reflection for Advanced Multimodal Reasoning](https://arxiv.org/abs/2607.07361v1)** | 2026-07-08 |  |
+| **[R^3: Advertisement Compliance Rectification via Group-Relative Experience Extractor and Curriculum Reinforcement](https://arxiv.org/abs/2607.07318v1)** | 2026-07-08 | <details><summary>ACL 2...</summary><p>ACL 2026 (Poster, Industry Track)</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Any-Dimensional Learning by Sampling](https://arxiv.org/abs/2607.07680v1)** | 2026-07-08 |  |
+| **[Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions](https://arxiv.org/abs/2607.07611v1)** | 2026-07-08 |  |
+| **[Low Latency GNN Accelerator for Quantum Error Correction](https://arxiv.org/abs/2603.22149v3)** | 2026-07-08 |  |
+| **[Stability of Flow Models for Graph Signals](https://arxiv.org/abs/2607.07510v1)** | 2026-07-08 | <details><summary>Submi...</summary><p>Submitted to the IEEE Transactions on Signal Processing</p></details> |
+| **[From Beats to Breaches:How Offensive AI Infers Sensitive User Information from Playlists](https://arxiv.org/abs/2605.04724v2)** | 2026-07-08 | <details><summary>This ...</summary><p>This paper is accepted at IEEE EuroS&P 2026</p></details> |
+| **[Structural Adversarial Attacks on Relational Deep Learning under Integrity Constraints](https://arxiv.org/abs/2607.07089v1)** | 2026-07-08 | <details><summary>To be...</summary><p>To be presented at the VLDB Workshop AI for Databases</p></details> |
+| **[Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory](https://arxiv.org/abs/2604.09320v2)** | 2026-07-08 | <details><summary>Under...</summary><p>Under review with The Journal of Chemical Physics. Main text: 23 pages, 11 figures, and 1 table. Supplementary Materials: 29 pages, 6 figures, 15 tables, 4 pseudo-algorithms</p></details> |
+| **[Generative Diffusion Models of Stochastic Graph Signals](https://arxiv.org/abs/2607.06833v1)** | 2026-07-07 | <details><summary>Submi...</summary><p>Submitted to and under review by IEEE Transactions on Signal Processing</p></details> |
+| **[Hardware-aware Graph Neural Networks prunning for embedded event-based vision](https://arxiv.org/abs/2607.06739v1)** | 2026-07-07 |  |
+| **[CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models](https://arxiv.org/abs/2607.06534v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://oceansdepp.github.io/cairn_web/</p></details> |
 | **[Visual graphs for image classification: does the structure affect performance?](https://arxiv.org/abs/2607.06295v1)** | 2026-07-07 |  |
 | **[GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning](https://arxiv.org/abs/2601.20753v4)** | 2026-07-07 |  |
 | **[Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings](https://arxiv.org/abs/2607.05736v1)** | 2026-07-07 | 14 pages, 3 figures |
 | **[Counterfactual Methods for Detecting Unfairness in Anti-Money Laundering Algorithms](https://arxiv.org/abs/2607.05101v1)** | 2026-07-06 |  |
 | **[FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training](https://arxiv.org/abs/2607.05095v1)** | 2026-07-06 |  |
-| **[Hyperparameter Transfer in Graph Neural Networks](https://arxiv.org/abs/2607.05017v1)** | 2026-07-06 |  |
-| **[Multi-Robot Open Adaptive Teaming Across Unseen Environments, Partners, and Scales](https://arxiv.org/abs/2607.04972v1)** | 2026-07-06 |  |
-| **[Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction](https://arxiv.org/abs/2607.04912v1)** | 2026-07-06 |  |
-| **[A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration](https://arxiv.org/abs/2504.11907v3)** | 2026-07-06 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted at the 24th European Control Conference (ECC)</p></details> |
-| **[GenShin: Guiding Rational Liposome Design by Ranking Liposomal Protein Corona through a Docking-Pose-Free GNN](https://arxiv.org/abs/2504.13853v2)** | 2026-07-06 | 31 pages,4 figures |
-| **[Measuring What Matters: A Unified Evaluation Framework for GNN Explainability](https://arxiv.org/abs/2607.04600v1)** | 2026-07-06 |  |
-| **[AULLM++: Structured-Token-Conditioned Large Language Models for Micro-Expression Action Unit Detection](https://arxiv.org/abs/2603.08387v2)** | 2026-07-05 |  |
-| **[On Preserving Geometrical Invariance for Superpixel Image Classification using Graph Transformer](https://arxiv.org/abs/2607.04262v1)** | 2026-07-05 |  |
-| **[Target-Aware Interaction-Guided Reinforcement Learning for Black-Box Node Injection Attacks on Graph Neural Networks](https://arxiv.org/abs/2607.04091v1)** | 2026-07-05 |  |
-| **[Graph Unitary Message Passing](https://arxiv.org/abs/2403.11199v2)** | 2026-07-04 | TMLR |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
