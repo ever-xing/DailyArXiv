@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2026
+title: Latest 15 Papers - July 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](https://arxiv.org/abs/2607.15273v1)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project Page: https://harahan.github.io/meanflownft-project-page/, GitHub: https://github.com/Harahan/MeanFlowNFT, Hugging Face: https://huggingface.co/Harahan/MeanFlowNFT</p></details> |
 | **[Mask-Aware Policy Gradients for Diffusion Language Models](https://arxiv.org/abs/2607.15200v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
 | **[On-Policy Delta Distillation](https://arxiv.org/abs/2607.15161v1)** | 2026-07-16 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 12 tables</p></details> |
 | **[Concept-Guided Spatial Regularization for World Models in Atari Pong](https://arxiv.org/abs/2607.15142v1)** | 2026-07-16 | 16 pages, 5 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking](https://arxiv.org/abs/2607.15004v1)** | 2026-07-16 |  |
 | **[SMC-ES: Automated synthesis of formally verified control policies](https://arxiv.org/abs/2607.15003v1)** | 2026-07-16 |  |
 | **[Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation](https://arxiv.org/abs/2607.14962v1)** | 2026-07-16 |  |
-| **[UniSteer: Unified Noise Steering for Efficient Human-Guided VLA Adaptation](https://arxiv.org/abs/2605.10821v2)** | 2026-07-16 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
