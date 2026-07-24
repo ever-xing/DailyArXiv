@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[S3: Stable Subgoal Selection by Constraining Uncertainty of Coarse Dynamics in Hierarchical Reinforcement Learning](https://arxiv.org/abs/2607.19232v1)** | 2026-07-21 | <details><summary>Manus...</summary><p>Manuscript accepted to the Eighteenth Workshop on Adaptive and Learning Agents (ALA), at the 25th International Conference of Autonomous Agents and Multi Agent Systems 2026</p></details> |
-| **[The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation](https://arxiv.org/abs/2607.19226v1)** | 2026-07-21 |  |
-| **[Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards](https://arxiv.org/abs/2607.19219v1)** | 2026-07-21 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 9 tables</p></details> |
-| **[ARMOR: Stabilizing On-Policy LLM RL with Off-Policy Anchor Samples](https://arxiv.org/abs/2607.10481v2)** | 2026-07-21 |  |
-| **[Conservative Query and Adaptive Regularization for Offline RL Under Uncertainty Estimation](https://arxiv.org/abs/2607.19199v1)** | 2026-07-21 | Accepted by ECAI2025 |
-| **[Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning](https://arxiv.org/abs/2607.19181v1)** | 2026-07-21 | <details><summary>Code ...</summary><p>Code available at https://github.com/aixiuxiuxiu/Legal-MT-SFT-RL</p></details> |
-| **[Coherence in Control: Bridging Many-Core Mapping and Routing through Cost Unification](https://arxiv.org/abs/2607.19158v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted by EMSOFT 2026</p></details> |
-| **[Comparative Study of Multi-Agent Actor-Critic Algorithms in Parameterized Action Reinforcement Learning](https://arxiv.org/abs/2607.19117v1)** | 2026-07-21 | 9 pages, 2 figures |
-| **[ORCHID: Fairness-Aware Orchestration in Mission-Critical Air-Ground Integrated Networks](https://arxiv.org/abs/2602.09994v2)** | 2026-07-21 | <details><summary>18 pa...</summary><p>18 pages, 8 figures, 1 Table. Full research paper proposing a resilient two-stage orchestration framework for collaborative UAV-GBS deployment in mission-critical Air-Ground Integrated Networks (AGINs). This revised version introduces a game-theoretic approach (Egalitarian Bargaining Game) and an aerodynamic energy model to enhance system robustness. Under review at an IEEE journal</p></details> |
-| **[A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents](https://arxiv.org/abs/2607.07753v2)** | 2026-07-21 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 6 tables</p></details> |
-| **[AgentJet: A Distributed Swarm Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.04484v2)** | 2026-07-21 | <details><summary>Techn...</summary><p>Technical report, 32 pages</p></details> |
-| **[Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation](https://arxiv.org/abs/2607.19044v1)** | 2026-07-21 | 13 pages, 4 figures |
-| **[DobicVLM: Aligning Chest X-Ray Report Generation with Clinically-Grounded Programmatic Rewards via Group Relative Policy Optimization](https://arxiv.org/abs/2607.18988v1)** | 2026-07-21 |  |
-| **[Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio](https://arxiv.org/abs/2607.18985v1)** | 2026-07-21 |  |
-| **[Fishing Out Free Riders: Shapley-Based Reward Attribution for Parallel Reasoning via Reinforcement Learning](https://arxiv.org/abs/2607.18979v1)** | 2026-07-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 8 Tables</p></details> |
+| **[Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections](https://arxiv.org/abs/2607.21488v1)** | 2026-07-23 |  |
+| **[AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://arxiv.org/abs/2607.21461v1)** | 2026-07-23 |  |
+| **[ARCO: Adaptive Rubrics with Co-Evolution for Multi-Step LLM-Based Agents](https://arxiv.org/abs/2606.21262v2)** | 2026-07-23 |  |
+| **[PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.21419v1)** | 2026-07-23 |  |
+| **[Error Amplification Limits ANN-to-SNN Conversion in Continuous Control](https://arxiv.org/abs/2601.21778v3)** | 2026-07-23 | Accepted by ICML2026 |
+| **[Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind](https://arxiv.org/abs/2604.11666v2)** | 2026-07-23 | <details><summary>First...</summary><p>First two authors contributed equally. Code: https://github.com/The-Inscrutable-X/AIDoubleAgentDefenders</p></details> |
+| **[DISCO: Distributed Spectrum Compliance and Orchestration for Scalable IoT Coexistence](https://arxiv.org/abs/2607.21387v1)** | 2026-07-23 |  |
+| **[How Many Bits Can an Adapter Write? Measuring the Capacity and Memorization of Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2607.21351v1)** | 2026-07-23 |  |
+| **[Exploiting Exogenous Structure for Sample-Efficient Reinforcement Learning](https://arxiv.org/abs/2409.14557v4)** | 2026-07-23 | 70 pages |
+| **[Non-Stationary Functional Bilevel Optimization](https://arxiv.org/abs/2601.15363v2)** | 2026-07-23 |  |
+| **[PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026v2)** | 2026-07-23 | <details><summary>To ap...</summary><p>To appear in COLM 2026</p></details> |
+| **[Expert Behavior Prior Reinforcement Learning](https://arxiv.org/abs/2607.21302v1)** | 2026-07-23 |  |
+| **[SuperFlow: Training Flow Matching Models with RL on the Fly](https://arxiv.org/abs/2512.17951v3)** | 2026-07-23 | <details><summary>This ...</summary><p>This article is withdrawn because it was submitted to arXiv without obtaining the consent of all listed authors</p></details> |
+| **[Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs](https://arxiv.org/abs/2509.14257v3)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. The title has been changed from "From Correction to Mastery: Reinforced Distillation of Large Language Model Agents" to "Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs"; the camera-ready version has been uploaded</p></details> |
+| **[FORGE-plus: Force-Budgeted Recovery for Contact-Rich Assembly with a Frozen LLM Supervisor](https://arxiv.org/abs/2607.21227v1)** | 2026-07-23 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ATLAS: A Foundation Neural Sampler for Amorphous Materials](https://arxiv.org/abs/2607.19198v1)** | 2026-07-21 |  |
-| **[Parallel Noising in Neural Markov Logic Networks](https://arxiv.org/abs/2607.19126v1)** | 2026-07-21 |  |
-| **[GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks](https://arxiv.org/abs/2607.19083v1)** | 2026-07-21 |  |
-| **[Node-as-Agent: Graph Agentic Network](https://arxiv.org/abs/2508.00429v5)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, work in progress</p></details> |
-| **[Graph Neural Network-based Algorithm Selection for the Traveling Salesman Problem: A Systematic Study of Cost and Rank Losses under Distinct Budget Regimes](https://arxiv.org/abs/2607.18632v1)** | 2026-07-21 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, and 5 tables. Submitted to the European Journal of Operational Research</p></details> |
-| **[GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots](https://arxiv.org/abs/2607.18591v1)** | 2026-07-20 |  |
-| **[Attacking Graph Foundation Models Through Their Shared Representation](https://arxiv.org/abs/2607.18567v1)** | 2026-07-20 |  |
-| **[Budgeted Indirect Adversarial Attack on Graph-Based Anomaly Detection in Sensor Networks](https://arxiv.org/abs/2509.17987v2)** | 2026-07-20 | 11 pages |
-| **[Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity](https://arxiv.org/abs/2607.12269v2)** | 2026-07-20 |  |
-| **[AHEAD: Advancing Multi-Class Label Aggregation with Interpretable Cross-Annotator Modeling](https://arxiv.org/abs/2607.18465v1)** | 2026-07-20 |  |
-| **[mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks](https://arxiv.org/abs/2601.02451v2)** | 2026-07-20 |  |
-| **[ClouDens: Operational Context-Aware Anomaly Detection for Large-scale Cloud System Monitoring](https://arxiv.org/abs/2607.18127v1)** | 2026-07-20 | 16 pages |
-| **[Sobek: Streaming Equivariant Tensor Product Convolutions](https://arxiv.org/abs/2607.18074v1)** | 2026-07-20 |  |
-| **[Packet-Loss Robust 3D Gaussian Compression via Atomic Packaging and GNN-based Error Concealment](https://arxiv.org/abs/2607.17916v1)** | 2026-07-20 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 3 tables</p></details> |
-| **[DIB-OD: Preserving the Invariant Core for Robust Heterogeneous Graph Adaptation via Decoupled Information Bottleneck and Online Distillation](https://arxiv.org/abs/2604.10882v2)** | 2026-07-20 |  |
+| **[NeuraLSP: A Neural Spectral Preconditioner for Accelerating PDE Solvers](https://arxiv.org/abs/2601.20174v3)** | 2026-07-23 |  |
+| **[Revisiting Degree-Corrected Spectral Clustering: a Condition-Free Spectral Analysis and Extension](https://arxiv.org/abs/2607.21435v1)** | 2026-07-23 |  |
+| **[Towards Faithful Graph Explanations with Synergistic Edge Effects via Granular Balls](https://arxiv.org/abs/2607.21381v1)** | 2026-07-23 | 11pages 24 figures |
+| **[Graph Neural Network Force Fields (GPTFF-mol) for Organic Molecules from Optimization Trajectories (OpenGEM26)](https://arxiv.org/abs/2607.21369v1)** | 2026-07-23 |  |
+| **[ARGON: A GNN-Empowered Compilation Framework for Scalable Neutral Atom Computing](https://arxiv.org/abs/2607.21216v1)** | 2026-07-23 |  |
+| **[Identifying Good Rules for Efficient SAT Encodings of Single-Constant Multiplication Using Machine Learning](https://arxiv.org/abs/2607.21188v1)** | 2026-07-23 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
+| **[Boltzmann generators for amorphous particle systems](https://arxiv.org/abs/2512.16607v2)** | 2026-07-23 | <details><summary>30 pa...</summary><p>30 pages, 10 figures. V2 considerably expands the results compared to v1</p></details> |
+| **[Demographically-Informed Heat-Mortality Risk Curves via Risk Graph Neural Networks](https://arxiv.org/abs/2607.21131v1)** | 2026-07-23 |  |
+| **[A Polynomial Architecture-Attribution Co-Design Framework for Exact Aumann-Shapley Attribution in GNNs](https://arxiv.org/abs/2607.21094v1)** | 2026-07-23 | It has 23 pages |
+| **[Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields](https://arxiv.org/abs/2607.20321v2)** | 2026-07-23 | 51 pages, 27 figures |
+| **[Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery](https://arxiv.org/abs/2607.20857v1)** | 2026-07-23 |  |
+| **[GAUGER: Generalized Regression Adjustment via Graph-Weighted Exposure-Level Residualization for Design-Based Inference Under Interference](https://arxiv.org/abs/2607.19627v2)** | 2026-07-23 |  |
+| **[TAC: Hybrid IAM Privilege Escalation Detection](https://arxiv.org/abs/2304.14540v9)** | 2026-07-23 |  |
+| **[Cardinality-Decomposed Loss: Matching Training Objectives to Relation Structure in Heterogeneous Recommendation Graphs](https://arxiv.org/abs/2607.20737v1)** | 2026-07-22 |  |
+| **[OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems](https://arxiv.org/abs/2507.03853v2)** | 2026-07-22 | 6 figures |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
