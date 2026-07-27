@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 26, 2026
+title: Latest 15 Papers - July 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Drive As You Like: Multi-Head Diffusion with Reinforcement Learning for Personalized Driving](https://arxiv.org/abs/2508.16947v2)** | 2026-07-23 | <details><summary>Has b...</summary><p>Has been submitted to AAAI 2026</p></details> |
-| **[MIRROR: Learning from the Other View for Multi-Modal Reasoning](https://arxiv.org/abs/2607.21552v1)** | 2026-07-23 |  |
-| **[Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections](https://arxiv.org/abs/2607.21488v1)** | 2026-07-23 |  |
-| **[AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://arxiv.org/abs/2607.21461v1)** | 2026-07-23 |  |
-| **[ARCO: Adaptive Rubrics with Co-Evolution for Multi-Step LLM-Based Agents](https://arxiv.org/abs/2606.21262v2)** | 2026-07-23 |  |
-| **[PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.21419v1)** | 2026-07-23 |  |
-| **[Error Amplification Limits ANN-to-SNN Conversion in Continuous Control](https://arxiv.org/abs/2601.21778v3)** | 2026-07-23 | Accepted by ICML2026 |
-| **[Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind](https://arxiv.org/abs/2604.11666v2)** | 2026-07-23 | <details><summary>First...</summary><p>First two authors contributed equally. Code: https://github.com/The-Inscrutable-X/AIDoubleAgentDefenders</p></details> |
-| **[DISCO: Distributed Spectrum Compliance and Orchestration for Scalable IoT Coexistence](https://arxiv.org/abs/2607.21387v1)** | 2026-07-23 |  |
-| **[How Many Bits Can an Adapter Write? Measuring the Capacity and Memorization of Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2607.21351v1)** | 2026-07-23 |  |
-| **[Exploiting Exogenous Structure for Sample-Efficient Reinforcement Learning](https://arxiv.org/abs/2409.14557v4)** | 2026-07-23 | 70 pages |
-| **[Non-Stationary Functional Bilevel Optimization](https://arxiv.org/abs/2601.15363v2)** | 2026-07-23 |  |
-| **[PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026v2)** | 2026-07-23 | <details><summary>To ap...</summary><p>To appear in COLM 2026</p></details> |
-| **[Expert Behavior Prior Reinforcement Learning](https://arxiv.org/abs/2607.21302v1)** | 2026-07-23 |  |
-| **[SuperFlow: Training Flow Matching Models with RL on the Fly](https://arxiv.org/abs/2512.17951v3)** | 2026-07-23 | <details><summary>This ...</summary><p>This article is withdrawn because it was submitted to arXiv without obtaining the consent of all listed authors</p></details> |
+| **[Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills](https://arxiv.org/abs/2607.22529v1)** | 2026-07-24 |  |
+| **[Explainable Reinforcement Learning for assisting Air Traffic Controllers](https://arxiv.org/abs/2607.22525v1)** | 2026-07-24 | <details><summary>11 pa...</summary><p>11 pages (10-page paper plus 1 cover/citation page), 4 figures, 1 table; published in AINA 2025</p></details> |
+| **[Learning to Reason for Factuality](https://arxiv.org/abs/2508.05618v2)** | 2026-07-24 | ICML 2026 |
+| **[Replacing Tunable Parameters in Weather and Climate Models with State-Dependent Functions using Reinforcement Learning](https://arxiv.org/abs/2601.04268v3)** | 2026-07-24 | 79 pages, 24 figures |
+| **[Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning](https://arxiv.org/abs/2607.18722v3)** | 2026-07-24 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 9 tables</p></details> |
+| **[Learning to Prepare Molecular Ground States with Transformer Models](https://arxiv.org/abs/2607.22468v1)** | 2026-07-24 |  |
+| **[Self-Guided Process Reward Optimization with Redefined Step-wise Advantage for Process Reinforcement Learning](https://arxiv.org/abs/2507.01551v3)** | 2026-07-24 |  |
+| **[Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](https://arxiv.org/abs/2605.22142v3)** | 2026-07-24 |  |
+| **[Conformal Constraint Tightening for Chance-Constrained Motion Planning with Unknown Dynamics](https://arxiv.org/abs/2607.22409v1)** | 2026-07-24 |  |
+| **[Active few-shot segmentation by reinforcing data selection](https://arxiv.org/abs/2607.22371v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted at EMA4MICCAI 2026 - The 2nd MICCAI Workshop on Efficient Medical AI</p></details> |
+| **[Integrated Order Dispatching and Routing for Last-Mile Pickup via Deep Reinforcement Learning](https://arxiv.org/abs/2607.22356v1)** | 2026-07-24 |  |
+| **[Embodiment-Induced Coordination Regimes in Tabular Multi-Agent Q-Learning](https://arxiv.org/abs/2601.17454v2)** | 2026-07-24 |  |
+| **[Optimising Neural Speech Codecs for 300bps Communication using Reinforcement Learning](https://arxiv.org/abs/2605.19541v2)** | 2026-07-24 |  |
+| **[LayoutLite: Token-Level Implicit Layout Analysis for Efficient Document OCR](https://arxiv.org/abs/2607.22200v1)** | 2026-07-24 | 11 pages, 7 figures |
+| **[Deconstructing Off-Policy Ratios: Entropy-Scaled Trust Regions for Asynchronous Reinforcement Learning](https://arxiv.org/abs/2607.22186v1)** | 2026-07-24 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Local-Global Geometric Insights for Graph Neural Networks via Entropic Curvature](https://arxiv.org/abs/2607.22381v1)** | 2026-07-24 |  |
+| **[Efficient Recommendations via Graph Coarsening and Label Propagation](https://arxiv.org/abs/2607.22287v1)** | 2026-07-24 |  |
+| **[A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks](https://arxiv.org/abs/2606.26212v2)** | 2026-07-24 |  |
+| **[LatentFlow: Visual Analytics for Latent Space Analysis in Molecular Graph Neural Networks](https://arxiv.org/abs/2607.21941v1)** | 2026-07-24 |  |
+| **[Remedying Coarsening-Based GNN Training under Heterophily via Adaptive Complementary Enhancement](https://arxiv.org/abs/2607.21885v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted at the 42nd Conference on Uncertainty in Artificial Intelligence, UAI 2026</p></details> |
+| **[A Graph-Based Control Interface for Traffic Signals on Heterogeneous Road Networks](https://arxiv.org/abs/2607.21831v1)** | 2026-07-23 | <details><summary>9 pag...</summary><p>9 pages, including 3 appendix pages, 5 figures. Code: https://github.com/BertilBraun/GNN-Traffic-Signal-Control</p></details> |
+| **[Fast State-Augmented Learning for Wireless Resource Allocation with Dual Variable Regression](https://arxiv.org/abs/2506.18748v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Signal Processing (TSP)</p></details> |
 | **[Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling](https://arxiv.org/abs/2607.21561v1)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted to Graph Foundation Models workshop at ICML '26. Contains 8 pages, 4 figures</p></details> |
 | **[NeuraLSP: A Neural Spectral Preconditioner for Accelerating PDE Solvers](https://arxiv.org/abs/2601.20174v3)** | 2026-07-23 |  |
 | **[Revisiting Degree-Corrected Spectral Clustering: a Condition-Free Spectral Analysis and Extension](https://arxiv.org/abs/2607.21435v1)** | 2026-07-23 |  |
@@ -34,13 +41,6 @@ labels: documentation
 | **[ARGON: A GNN-Empowered Compilation Framework for Scalable Neutral Atom Computing](https://arxiv.org/abs/2607.21216v1)** | 2026-07-23 |  |
 | **[Identifying Good Rules for Efficient SAT Encodings of Single-Constant Multiplication Using Machine Learning](https://arxiv.org/abs/2607.21188v1)** | 2026-07-23 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
 | **[Boltzmann generators for amorphous particle systems](https://arxiv.org/abs/2512.16607v2)** | 2026-07-23 | <details><summary>30 pa...</summary><p>30 pages, 10 figures. V2 considerably expands the results compared to v1</p></details> |
-| **[Demographically-Informed Heat-Mortality Risk Curves via Risk Graph Neural Networks](https://arxiv.org/abs/2607.21131v1)** | 2026-07-23 |  |
-| **[A Polynomial Architecture-Attribution Co-Design Framework for Exact Aumann-Shapley Attribution in GNNs](https://arxiv.org/abs/2607.21094v1)** | 2026-07-23 | It has 23 pages |
-| **[Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields](https://arxiv.org/abs/2607.20321v2)** | 2026-07-23 | 51 pages, 27 figures |
-| **[Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery](https://arxiv.org/abs/2607.20857v1)** | 2026-07-23 |  |
-| **[GAUGER: Generalized Regression Adjustment via Graph-Weighted Exposure-Level Residualization for Design-Based Inference Under Interference](https://arxiv.org/abs/2607.19627v2)** | 2026-07-23 |  |
-| **[TAC: Hybrid IAM Privilege Escalation Detection](https://arxiv.org/abs/2304.14540v9)** | 2026-07-23 |  |
-| **[Cardinality-Decomposed Loss: Matching Training Objectives to Relation Structure in Heterogeneous Recommendation Graphs](https://arxiv.org/abs/2607.20737v1)** | 2026-07-22 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
