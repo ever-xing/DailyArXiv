@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,33 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GORDON: Graph-based Object-centric Rewards for Decomposition of Long-Horizon Manipulation](https://arxiv.org/abs/2608.03753v1)** | 2026-08-04 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, preprint. Project page: https://andreaprotopapa.github.io/graph-reward-learning/</p></details> |
-| **[PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud](https://arxiv.org/abs/2608.03682v1)** | 2026-08-04 | 25 pages, 9 figures |
-| **[DiagLoop: A Counterfactual Data Flywheel with Stage-Localized Reinforcement for Diagnostic LLMs](https://arxiv.org/abs/2608.03674v1)** | 2026-08-04 | 9 pages, 2 figures |
-| **[CausalOPD: First-Wrong-Step Supervision for Distilling Causal Chain Reasoning](https://arxiv.org/abs/2608.03673v1)** | 2026-08-04 | 9 pages, 2 figures |
-| **[Group Perspective Matters: Regulating Debate Relationships Can Mitigate Blind Conformity in Multi-Agent Debate](https://arxiv.org/abs/2608.03648v1)** | 2026-08-04 |  |
-| **[Is Inter-Seed Cross-Play Enough? Evaluating the Robustness of Zero-Shot Coordination Algorithms to Implementation Details](https://arxiv.org/abs/2608.03644v1)** | 2026-08-04 |  |
-| **[Language-Specialized Multi-Teacher On-Policy Distillation for Multilingual LLM-Based ASR](https://arxiv.org/abs/2608.03610v1)** | 2026-08-04 |  |
-| **[SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs](https://arxiv.org/abs/2608.03573v1)** | 2026-08-04 | <details><summary>Code:...</summary><p>Code: https://github.com/GaryStack/Parallel-RL</p></details> |
-| **[Robust General Utility for Reinforcement Learning](https://arxiv.org/abs/2608.03562v1)** | 2026-08-04 |  |
-| **[Hi-TTRL: Regulating Consensus with Hints for Test-Time Reinforcement Learning](https://arxiv.org/abs/2608.03545v1)** | 2026-08-04 | 15 pages, 7 figures |
-| **[Training Documents Reranker with Search Rubrics for Deep Research Agent](https://arxiv.org/abs/2608.03527v1)** | 2026-08-04 | 28 pages |
-| **[Hybrid LLM-Augmented Reinforcement Learning Agents for Complex Sequential Decision Tasks](https://arxiv.org/abs/2608.03502v1)** | 2026-08-04 | 16 pages, 12 figures |
-| **[Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution](https://arxiv.org/abs/2608.03483v1)** | 2026-08-04 | <details><summary>Proje...</summary><p>Project page: https://fleetfootwork.github.io/BCP/</p></details> |
-| **[ToolLIFT: Lifting Tool-Specific Trajectories into Function-Level Graphs for Generalizable Tool Planning](https://arxiv.org/abs/2608.03468v1)** | 2026-08-04 |  |
-| **[When Correct Solutions Repeat: Rarity-Aware Credit Redistribution for GRPO](https://arxiv.org/abs/2608.03467v1)** | 2026-08-04 |  |
+| **[Arnold: A multi-task, multi-embodiment muscle transformer policy](https://arxiv.org/abs/2508.18066v2)** | 2026-08-05 | <details><summary>B.A.,...</summary><p>B.A., A.S.C. and M.S. contributed equally. Code is available at https://github.com/amathislab/arnold</p></details> |
+| **[Communication-Enhanced Tutoring for Efficient Decentralized Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.13661v4)** | 2026-08-05 | <details><summary>Submi...</summary><p>Submitted for AAAI 2027</p></details> |
+| **[ORACLE: A Multi-Objective Reinforcement Learning-Based Analog Circuit Design Optimizer with Large Language Models-Guided Exploration](https://arxiv.org/abs/2608.04999v1)** | 2026-08-05 |  |
+| **[BashCoder-R1: Towards Robust and Explainable Bash Code Generation with Robustness-Aware Group Relative Policy Optimization](https://arxiv.org/abs/2606.27733v2)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2026</p></details> |
+| **[WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models](https://arxiv.org/abs/2608.04964v1)** | 2026-08-05 | <details><summary>https...</summary><p>https://nevsnev.github.io/Worldcycle/</p></details> |
+| **[SpecRoll: Fast-Slow Verifier-Feedback Adaptation for Speculative Reinforcement Learning Rollouts](https://arxiv.org/abs/2608.04962v1)** | 2026-08-05 |  |
+| **[Reinforcement Learning and Consumption-Savings Behavior](https://arxiv.org/abs/2510.20748v2)** | 2026-08-05 | 41 pages, 10 figures |
+| **[FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation](https://arxiv.org/abs/2511.07322v3)** | 2026-08-05 | AAAI 2026 |
+| **[State2State: Environment-Derived Mid-Training for LLM Agents](https://arxiv.org/abs/2608.04934v1)** | 2026-08-05 | Work in progress |
+| **[PRIMAL3: Pathfinding via Reinforcement and Imitation Multi-Agent Learning - Leveraging LaCAM3](https://arxiv.org/abs/2608.04905v1)** | 2026-08-05 | Under Review |
+| **[Bi-Level Reinforcement Learning Pathway for Sim-to-Real Optimality](https://arxiv.org/abs/2510.17709v2)** | 2026-08-05 |  |
+| **[GFlowNet Training by Policy Gradients](https://arxiv.org/abs/2408.05885v3)** | 2026-08-05 | <details><summary>ArVix...</summary><p>ArVix version of the paper accepted by ICML 2024</p></details> |
+| **[ArtChart: Faithful Artistic Chart Generation with Integrated Text Rendering](https://arxiv.org/abs/2607.16060v2)** | 2026-08-05 |  |
+| **[Bidirectional Resource Scheduling for Disaggregated and Asynchronous RL Post-Training](https://arxiv.org/abs/2607.09207v2)** | 2026-08-05 | 16 pages |
+| **[Privileged, but Biased: How PI-Conditioned Teachers Break Self-Distillation](https://arxiv.org/abs/2608.04794v1)** | 2026-08-05 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](https://arxiv.org/abs/2607.03798v3)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 as a spotlight paper with oral presentation</p></details> |
+| **[Tropical Algebraic Geometry for Neuronal Representations: An Arakelov-Green Measure Based Descriptor for Graph Learning](https://arxiv.org/abs/2608.04460v1)** | 2026-08-05 |  |
+| **[Taming Treewidth DP with Modulators: A General Booster for Graph Heuristics](https://arxiv.org/abs/2608.04446v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of IJCAI 2026</p></details> |
+| **[Galaxy Phase-Space and Field-Level Cosmology: The Strength of Semi-Analytic Models](https://arxiv.org/abs/2512.10222v2)** | 2026-08-05 | 24 pages, 6 figures |
+| **[Geometry-Informed Parameter-Efficient Fine-Tuning of Pre-trained Molecular GNNs for Blood-Brain Barrier Permeability Prediction](https://arxiv.org/abs/2608.04257v1)** | 2026-08-04 |  |
+| **[Topology-Aware Reasoning over Incomplete Knowledge Graph with Graph-Based Soft Prompting](https://arxiv.org/abs/2604.12503v2)** | 2026-08-04 | 17 pages, 2 figures |
+| **[Patients-like-me: A Variational LM--GNN Framework for Explainable Clinical Prediction](https://arxiv.org/abs/2608.04193v1)** | 2026-08-04 |  |
+| **[Spatiotemporal Graph Transformer for Traffic Intelligence in Edge Computing](https://arxiv.org/abs/2608.04075v1)** | 2026-08-04 | 12 pages, 10 figures |
 | **[GORDON: Graph-based Object-centric Rewards for Decomposition of Long-Horizon Manipulation](https://arxiv.org/abs/2608.03753v1)** | 2026-08-04 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, preprint. Project page: https://andreaprotopapa.github.io/graph-reward-learning/</p></details> |
 | **[Learning and Clustering on Temporal Graphs: Principles, Primitives, and Pooling](https://arxiv.org/abs/2608.03696v1)** | 2026-08-04 | <details><summary>4 pag...</summary><p>4 pages, 1 figure. Accepted at ECML PKDD 2026 (Nectar Track)</p></details> |
 | **[Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs](https://arxiv.org/abs/2510.15428v2)** | 2026-08-04 |  |
@@ -33,14 +41,6 @@ labels: documentation
 | **[GraphCliff: Short-Long Range Gating for Modeling Critical Activity Changes Caused by Subtle Molecular Differences](https://arxiv.org/abs/2511.03170v3)** | 2026-08-04 | 12 pages |
 | **[Graph Neural Planning and Predictive Control for Multi-Robot Communication-Constrained Unlabeled Motion Planning](https://arxiv.org/abs/2605.19209v2)** | 2026-08-03 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted at the IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
 | **[Benchmarking Sheaf Neural Networks for Inductive Tasks](https://arxiv.org/abs/2608.02558v1)** | 2026-08-03 |  |
-| **[K-STEMIT: Knowledge-Informed Spatio-Temporal Efficient Multi-Branch Graph Neural Network for Subsurface Stratigraphy Thickness Estimation from Radar Data](https://arxiv.org/abs/2604.09922v2)** | 2026-08-03 |  |
-| **[Network Information Enhances Unreliable News Domain Detection](https://arxiv.org/abs/2608.02399v1)** | 2026-08-03 |  |
-| **[Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning](https://arxiv.org/abs/2608.02168v1)** | 2026-08-03 |  |
-| **[CoRe-GNN: Multilevel Message passing on Coarsened graphs](https://arxiv.org/abs/2608.02128v1)** | 2026-08-03 |  |
-| **[KING: Embodiment-Aware Kinematic Graph Neural Network for Unified Motion Representation of Legged and Wheeled Robots](https://arxiv.org/abs/2608.01015v1)** | 2026-08-02 | IROS 2026 |
-| **[Nonlinear Laplacians Improve Signed-Directed Graph Learning](https://arxiv.org/abs/2608.00836v1)** | 2026-08-01 |  |
-| **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v2)** | 2026-08-01 | Under Review |
-| **[GNN-RSMA: An Interference Management Framework for a Large-Scale HAPS Network](https://arxiv.org/abs/2608.00380v1)** | 2026-08-01 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
