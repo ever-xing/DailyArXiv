@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 07, 2026
+title: Latest 15 Papers - August 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://arxiv.org/abs/2607.28609v2)** | 2026-08-06 | Work in progress |
+| **[Fast Rates for Inverse Reinforcement Learning](https://arxiv.org/abs/2605.14599v2)** | 2026-08-06 |  |
+| **[RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction](https://arxiv.org/abs/2608.06310v1)** | 2026-08-06 |  |
 | **[Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning](https://arxiv.org/abs/2608.06276v1)** | 2026-08-06 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, and 5 tables</p></details> |
 | **[DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models](https://arxiv.org/abs/2608.06243v1)** | 2026-08-06 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 9 tables. Code at https://github.com/DBtxy/DASH-OPSD</p></details> |
 | **[Robust Scene Transfer for PointGoal Navigation via Privileged Sensor Guided Contrastive Learning](https://arxiv.org/abs/2606.05506v2)** | 2026-08-06 | <details><summary>8 pag...</summary><p>8 pages, Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Does Latent Context Help? A Controlled Evaluation of Inverse Reinforcement Learning in Arctic Shipping](https://arxiv.org/abs/2608.06105v1)** | 2026-08-06 |  |
 | **[Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval](https://arxiv.org/abs/2608.06060v1)** | 2026-08-06 | <details><summary>26 pa...</summary><p>26 pages,10 figures,14 Tables</p></details> |
 | **[Cross-Layer Optimization and System-Level Design of Next-Generation Wireless Networks via Intelligent RAN Control](https://arxiv.org/abs/2608.02067v2)** | 2026-08-06 | <details><summary>206 p...</summary><p>206 pages, 69 figures</p></details> |
-| **[Hybrid-Adaptive Thread Tuning to Mitigate Simulation Execution Bottlenecks in High-Performance Reinforcement Learning Inference](https://arxiv.org/abs/2608.06025v1)** | 2026-08-06 |  |
-| **[ProDVI: Programmatic Dynamics Priors for Value Network Initialization](https://arxiv.org/abs/2608.06015v1)** | 2026-08-06 |  |
-| **[OneEmo: A Unified Multimodal Reasoning Model for Emotion Perception, Understanding, and Interaction](https://arxiv.org/abs/2608.06013v1)** | 2026-08-06 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
