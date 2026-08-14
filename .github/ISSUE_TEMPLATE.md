@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics](https://arxiv.org/abs/2608.11201v1)** | 2026-08-11 | 27 pages, 15 figures |
-| **[Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation](https://arxiv.org/abs/2608.11191v1)** | 2026-08-11 |  |
-| **[Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education](https://arxiv.org/abs/2605.15850v3)** | 2026-08-11 |  |
-| **[SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning](https://arxiv.org/abs/2608.09138v2)** | 2026-08-11 | <details><summary>10 pa...</summary><p>10 pages, 12 figures. This arXiv version includes an appendix with qualitative simulation rollouts and additional ablations. Published at ICRA 2025</p></details> |
-| **[Scheduling Mixed RL Rollouts Beyond Prefix Locality](https://arxiv.org/abs/2608.11152v1)** | 2026-08-11 |  |
-| **[Measure the Sim-to-Real Gap: Designing an Affordable Real-World Benchmark Platform for Reinforcement Learning in AIoT Systems](https://arxiv.org/abs/2607.10309v2)** | 2026-08-11 |  |
-| **[Efficient Hypergradient Descent for Inverse Reinforcement Learning](https://arxiv.org/abs/2608.11052v1)** | 2026-08-11 |  |
-| **[SearchArt: Training Long-Horizon Search Agent with Scalable Synthetic and Verified Task](https://arxiv.org/abs/2607.24850v2)** | 2026-08-11 |  |
-| **[Auto-exploration for online reinforcement learning](https://arxiv.org/abs/2512.06244v4)** | 2026-08-11 | <details><summary>31 pa...</summary><p>31 pages. Added remark about on-policy sampling with function approximation</p></details> |
-| **[ConRub-Med: Reinforcement Learning with Consensus Rubrics for Open-Ended Medical Question Answering](https://arxiv.org/abs/2608.10996v1)** | 2026-08-11 |  |
-| **[Bayesian Symbolic Regression with Entropic Reinforcement Learning](https://arxiv.org/abs/2608.09617v2)** | 2026-08-11 | <details><summary>UAI 2...</summary><p>UAI 2026. Code available at https://github.com/jaggbow/ERRLESS</p></details> |
-| **[Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes](https://arxiv.org/abs/2608.10954v1)** | 2026-08-11 | Accepted by IJCV |
-| **[Partially Observable Learning for Multi-Platform Dispatch Optimization](https://arxiv.org/abs/2608.10897v1)** | 2026-08-11 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 8 tables</p></details> |
-| **[IndexTTS 2.5 Technical Report](https://arxiv.org/abs/2601.03888v5)** | 2026-08-11 | 11 pages, 4 figures |
-| **[MIRA: Medical Image Reflection for Agentic Diagnosis](https://arxiv.org/abs/2608.10827v1)** | 2026-08-11 |  |
+| **[A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation](https://arxiv.org/abs/2512.06547v4)** | 2026-08-12 |  |
+| **[One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL](https://arxiv.org/abs/2608.12253v1)** | 2026-08-12 | 41 pages, 28 figures |
+| **[ForgeryVCR: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization](https://arxiv.org/abs/2602.14098v2)** | 2026-08-12 |  |
+| **[SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward](https://arxiv.org/abs/2608.12220v1)** | 2026-08-12 | 26 pages, 5 figures |
+| **[Machine Learning-Based Cyber Defense for Cloud Infrastructure: An Adaptive Deep Q-Network Architecture for Intelligent Intrusion Detection and Automated Threat Mitigation](https://arxiv.org/abs/2608.12190v1)** | 2026-08-12 | <details><summary>THis ...</summary><p>THis paper already peer reviewed</p></details> |
+| **[RoutePack: Expert Placement and Attention-Aware Data Packing for MoE Reinforcement Learning](https://arxiv.org/abs/2608.12146v1)** | 2026-08-12 |  |
+| **[Diffusion-Guided Cooperative Policy Learning for Target Tracking Based on Underwater Mobile Agent Networks](https://arxiv.org/abs/2603.29426v2)** | 2026-08-12 |  |
+| **[Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL](https://arxiv.org/abs/2608.12063v1)** | 2026-08-12 |  |
+| **[On the Definition of Intelligence](https://arxiv.org/abs/2507.22423v3)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at AGI-25. v2: Enhanced mathematical rigor and conceptual clarity; terminology was refined from "category"/"sample" to "concept"/"entity", and the concept-fibre-entity relationship was clarified. v3: Added a reference to subsequent mathematical development in Similarity Field Theory (arXiv:2509.18218); main results and conclusions unchanged</p></details> |
+| **[Token-Level Credit Assignment Optimization for Generative Document Retrieval](https://arxiv.org/abs/2608.12049v1)** | 2026-08-12 |  |
+| **[Retry, Switch, or Abstain? Learning Strategy-Aware Tool-Use Policies via Controlled Error Injection](https://arxiv.org/abs/2608.11977v1)** | 2026-08-12 |  |
+| **[LoongReflect: Boosting Long-Horizon Reflection in Search Agents via Global Perspective Distillation](https://arxiv.org/abs/2608.11967v1)** | 2026-08-12 | 15 pages, 8 figures |
+| **[LODESTAR: Trustworthy Entropy Is Navigated, Not Merely Measured -- Reinforced Polarizer Keeps a Frozen LLM from Being Confidently Misled by the Wrong Evidence](https://arxiv.org/abs/2608.11922v1)** | 2026-08-12 | 28 pages, 3 figures |
+| **[HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion](https://arxiv.org/abs/2608.11913v1)** | 2026-08-12 | 31 pages |
+| **[Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians](https://arxiv.org/abs/2608.11911v1)** | 2026-08-12 | 22 pages main text |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Variational Mixture of Graph Neural Experts for Alzheimer's Disease Recognition across Frequency Bands in EEG Brain Networks](https://arxiv.org/abs/2510.11917v4)** | 2026-08-12 |  |
+| **[Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion](https://arxiv.org/abs/2608.12083v1)** | 2026-08-12 |  |
+| **[CGRL: Causal-Guided Representation Learning for Node-Level Out-of-Distribution Generalization](https://arxiv.org/abs/2603.24304v3)** | 2026-08-12 |  |
+| **[Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning](https://arxiv.org/abs/2608.02168v2)** | 2026-08-12 |  |
+| **[Defending against Model Extraction for GNNs with Model Reprogramming](https://arxiv.org/abs/2608.11495v1)** | 2026-08-11 | Accepted by KDD 2026 |
+| **[Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity](https://arxiv.org/abs/2607.12269v3)** | 2026-08-11 |  |
 | **[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](https://arxiv.org/abs/2607.03798v4)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 as a spotlight paper with oral presentation</p></details> |
 | **[AgForce Enables Antigen-conditioned Generative Antibody Design](https://arxiv.org/abs/2605.21610v2)** | 2026-08-11 |  |
 | **[3D Weighted Geometric Graph Neural Networks for Sheep Facial Pain Assessment](https://arxiv.org/abs/2608.11050v1)** | 2026-08-11 |  |
@@ -35,12 +41,6 @@ labels: documentation
 | **[RankFormer: A Propose-then-Select Transformer for Multi-Agent Multimodal Trajectory Prediction](https://arxiv.org/abs/2604.07126v3)** | 2026-08-11 | 11 pages, 5 figures |
 | **[A Graph Neural Network--Guided Genetic Algorithm for Physical Internet Supply Chain Optimization under Cost Uncertainty](https://arxiv.org/abs/2608.10245v1)** | 2026-08-10 | 6 pages |
 | **[Learning to Triage Vulnerability Reports from Program Analysis: An Empirical Study in Node.js](https://arxiv.org/abs/2510.20739v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026). The version of record is available at https://doi.org/10.1145/3832783.3837503</p></details> |
-| **[Implicit Virtual Leader: Decentralized Vision-Only Relative Pose Estimation for Multi-Robot Formations](https://arxiv.org/abs/2607.15708v2)** | 2026-08-10 |  |
-| **[LEED: Local Embedding Evolution Distance for over-smoothing estimation and virtual node selection in GNN](https://arxiv.org/abs/2608.09596v1)** | 2026-08-10 | 10 pages, journal |
-| **[Leveraging Teleconnections with Physics-Informed Graph Attention Networks for Long-Range Extreme Rainfall Forecasting in Thailand](https://arxiv.org/abs/2510.12328v7)** | 2026-08-10 |  |
-| **[N2NMatcher: Towards Inlining-Resilient Binary Decomposition and Module Matching](https://arxiv.org/abs/2608.10043v1)** | 2026-08-10 |  |
-| **[An Explainable GNN Framework for Component-Level Anomaly Diagnosis](https://arxiv.org/abs/2608.09246v1)** | 2026-08-10 |  |
-| **[A Physics-Inspired Classical Digital Twin of Cortical Dynamics: A Band-Stratified Metriplectic Port-Hamiltonian Neural Network Learned from Brain-Computer-Interface EEG](https://arxiv.org/abs/2607.10439v4)** | 2026-08-10 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
