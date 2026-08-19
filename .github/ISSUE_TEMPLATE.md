@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2026
+title: Latest 15 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training](https://arxiv.org/abs/2608.14498v1)** | 2026-08-14 | 16 pages, 10 figures |
-| **[Improving Generalization Robustness of Multimodal RLVR](https://arxiv.org/abs/2608.08802v2)** | 2026-08-14 | 32 pages, 5 figures |
-| **[Sampling-Based Coordination-Informed Multi-Objective Multi-Robot Reinforcement Learning](https://arxiv.org/abs/2606.30893v2)** | 2026-08-14 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 4 tables</p></details> |
-| **[Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View](https://arxiv.org/abs/2608.14430v1)** | 2026-08-14 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 4 tables; work in progress</p></details> |
-| **[Latent Reward Registers for Diffusion Preference Alignment](https://arxiv.org/abs/2608.03929v3)** | 2026-08-14 |  |
-| **[CoRun: Padding is Simple and Efficient for Deterministic LLM Inference](https://arxiv.org/abs/2608.14376v1)** | 2026-08-14 | 13 pages, 14 figures |
-| **[Semantically Labelled Automata for Multi-Task Reinforcement Learning with LTL Instructions](https://arxiv.org/abs/2602.06746v2)** | 2026-08-14 | IJCAI 2026 |
-| **[CORAL: Curriculum-Optimized Reward Adaptation for LiDAR-Based Goal-Directed Urban Driving](https://arxiv.org/abs/2608.14332v1)** | 2026-08-14 | 13 pages, 6 figures |
-| **[Envs-FORGE: Frontier-Optimized Reward-Grounded Environment Synthesis for Agent RL](https://arxiv.org/abs/2608.14312v1)** | 2026-08-14 | 19 pages, 5 figures |
-| **[ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning](https://arxiv.org/abs/2604.08990v2)** | 2026-08-14 | 10 pages, 7 figures |
-| **[MathForm: Scaling Mathematical Autoformalization with Knowledge Retrieval and Verification-Guided Refinement](https://arxiv.org/abs/2608.14221v1)** | 2026-08-14 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
-| **[APTER: Adaptive Post-Training with Expert-Grounded Rubrics](https://arxiv.org/abs/2608.14212v1)** | 2026-08-14 |  |
-| **[Online Inference for Quantile Temporal Difference Learning in Distributional Reinforcement Learning](https://arxiv.org/abs/2608.12973v2)** | 2026-08-14 |  |
-| **[Removing Temporal Note Redundancy Improves Multimodal Reinforcement Learning for Medicine](https://arxiv.org/abs/2608.14157v1)** | 2026-08-14 |  |
-| **[Deep Reinforcement Learning solution for pickup and delivery routing problems with time window and capacity constraints](https://arxiv.org/abs/2608.14156v1)** | 2026-08-14 |  |
+| **[Q-based Variational Inverse Reinforcement Learning](https://arxiv.org/abs/2608.16888v1)** | 2026-08-17 |  |
+| **[One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL](https://arxiv.org/abs/2608.12253v2)** | 2026-08-17 | 42 pages, 29 figures |
+| **[HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL](https://arxiv.org/abs/2608.16837v1)** | 2026-08-17 | <details><summary>Proje...</summary><p>Project page: https://grange007.github.io/HAF</p></details> |
+| **[ClawGym II: Exploring Black-Box RL on Agent Harness](https://arxiv.org/abs/2608.16798v1)** | 2026-08-17 |  |
+| **[Reward hacking in physical reinforcement learning revealed by turbulent drag reduction](https://arxiv.org/abs/2606.06227v3)** | 2026-08-17 |  |
+| **[SimWAM: A Simple World Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2608.07468v3)** | 2026-08-17 | <details><summary>The c...</summary><p>The code and model weights are available at https://github.com/H-EmbodVis/SimWAM/</p></details> |
+| **[Le Critique: Privileged Value Functions for LLM Reinforcement Learning](https://arxiv.org/abs/2608.16739v1)** | 2026-08-17 |  |
+| **[Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search](https://arxiv.org/abs/2602.05408v3)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted by the Full Research Track of CIKM-2026</p></details> |
+| **[The Ethical Decision Head: Operationalizing Normative Ethics in Autonomous Vehicles via Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2608.16710v1)** | 2026-08-17 |  |
+| **[Annealed Softmax Greedy in Many-Armed Bayesian Bandits](https://arxiv.org/abs/2605.31034v3)** | 2026-08-17 | <details><summary>Appea...</summary><p>Appeared in Reinforcement Learning Conference, 2026</p></details> |
+| **[Aletheia: What Makes RLVR For Code Verifiers Tick?](https://arxiv.org/abs/2601.12186v4)** | 2026-08-17 |  |
+| **[Delay, Plateau, or Collapse: Evaluating the Impact of Systematic Verification Error on RLVR](https://arxiv.org/abs/2605.02909v2)** | 2026-08-17 | <details><summary>COLM ...</summary><p>COLM 2026. Code: https://github.com/eth-sri/llm-verifier-noise</p></details> |
+| **[Chronocooked: A Benchmark for Implicit Interval Timing in Reinforcement Learning Agents](https://arxiv.org/abs/2608.16666v1)** | 2026-08-17 |  |
+| **[A Shop Floor Production Scheduling Case based on RFID-supported Smart Factory](https://arxiv.org/abs/2608.16626v1)** | 2026-08-17 |  |
+| **[Interactive Whole Slide Images for RL-based Tumour Segmentation](https://arxiv.org/abs/2608.16607v1)** | 2026-08-17 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection](https://arxiv.org/abs/2608.14394v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at ICONIP 2026</p></details> |
-| **[Structure-Guided Spatiotemporal Attention Graph Neural Network for Traffic Flow Prediction](https://arxiv.org/abs/2608.14177v1)** | 2026-08-14 |  |
-| **[Overcoming Shortcut Learning in Graph Neural Networks through Active Explanation Guidance](https://arxiv.org/abs/2608.14121v1)** | 2026-08-14 |  |
-| **[No Data? No Problem: Synthesizing Security Graphs for Better Intrusion Detection](https://arxiv.org/abs/2506.06226v4)** | 2026-08-14 |  |
-| **[Graph-augmented Segmentation of Complex Shapes in Laser Powder bed Fusion for Enhanced In Situ Inspection](https://arxiv.org/abs/2604.24234v2)** | 2026-08-14 | <details><summary>Submi...</summary><p>Submitted to Additive Manufacturing Frontiers</p></details> |
-| **[SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon](https://arxiv.org/abs/2608.09075v2)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted to ACM CCS 2026. 15 pages</p></details> |
-| **[HI-MeshGraphNets: Efficient and Accurate Mesh-based Physics Learning with Hierarchical Multi-scale Graph Neural Networks](https://arxiv.org/abs/2608.13827v1)** | 2026-08-13 |  |
-| **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v2)** | 2026-08-13 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
-| **[Jointly Predicting Courses and Grades Using a Transformer-Based Model](https://arxiv.org/abs/2608.13409v1)** | 2026-08-13 |  |
-| **[Causal Mediation Analysis for Network Data with Graph Neural Network](https://arxiv.org/abs/2608.13274v1)** | 2026-08-13 | 86 pages |
-| **[Novel Knowledge-Guided Generative Methods for Synthetic Transcriptomic Data](https://arxiv.org/abs/2608.13256v1)** | 2026-08-13 |  |
-| **[TANGCO: Learning Topology-Aware Capacity Allocation for Overload-driven Cascading Failures](https://arxiv.org/abs/2608.13212v1)** | 2026-08-13 |  |
-| **[EGRL: Edge generation-guided relation-aware learning for RNA-protein interaction prediction](https://arxiv.org/abs/2608.12906v1)** | 2026-08-13 |  |
-| **[Exploring Oversmoothing with Householder Matrices](https://arxiv.org/abs/2608.12514v1)** | 2026-08-12 |  |
-| **[Variational Mixture of Graph Neural Experts for Alzheimer's Disease Recognition across Frequency Bands in EEG Brain Networks](https://arxiv.org/abs/2510.11917v4)** | 2026-08-12 |  |
+| **[Unbiased Recommender Systems with Implicit Feedback](https://arxiv.org/abs/2608.16704v1)** | 2026-08-17 |  |
+| **[From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485v3)** | 2026-08-17 |  |
+| **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v1)** | 2026-08-17 |  |
+| **[DepTGL: A Parallel Framework for Memory-based TGNN Training with Adaptive Temporal Data Dependency Management](https://arxiv.org/abs/2608.16305v1)** | 2026-08-17 | 14 pages, 6 figures |
+| **[EquiPocket: an E(3)-Equivariant Geometric Graph Neural Network for Ligand Binding Site Prediction](https://arxiv.org/abs/2302.12177v4)** | 2026-08-17 | <details><summary>This ...</summary><p>This paper has been withdrawn by the authors. After further internal evaluation, we find that the technical elaboration and experimental design in the current manuscript require substantial restructuring and revision. The authors will comprehensively optimize the technical framework and reorganize the manuscript before future public release</p></details> |
+| **[Not All Neighbors Matter: Understanding the Impact of Graph Sparsification on GNN Pipelines](https://arxiv.org/abs/2603.06952v2)** | 2026-08-17 |  |
+| **[Unifying Graph Neural Networks Through a Common Layer Equation](https://arxiv.org/abs/2608.16097v1)** | 2026-08-17 | <details><summary>133 p...</summary><p>133 pages, including appendix; includes figures and tables</p></details> |
+| **[OceanLight: Efficient Global Ocean Forecasting via Geometry-Adaptive Unstructured Mesh Representation](https://arxiv.org/abs/2608.16070v1)** | 2026-08-17 | 35 pages, 21 figures |
+| **[NICE: Scale-Stable Perturbations for Graph Neural Network Explanations via Noise Corruption](https://arxiv.org/abs/2608.16038v1)** | 2026-08-17 | 17 pages, 9 figures |
+| **[Self-Supervised Learning of Graph Representations for Network Intrusion Detection](https://arxiv.org/abs/2509.16625v6)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Characterising cardiac tissue properties with graph neural networks](https://arxiv.org/abs/2608.15843v1)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accepted at The Statistical Atlases and Computational Modeling of the Heart (STACOM) workshop 2026</p></details> |
+| **[BengaliMCQ: Automatic Generation and Answer Prediction of Academic Multiple-Choice Questions in a Low-Resource Language](https://arxiv.org/abs/2608.15547v1)** | 2026-08-16 |  |
+| **[Learning Optimal Dynamic Matching via Graph Neural Networks](https://arxiv.org/abs/2607.28925v2)** | 2026-08-15 |  |
+| **[LAGS: Low-Altitude Gaussian Splatting with Groupwise Heterogeneous Graph Learning](https://arxiv.org/abs/2604.16910v3)** | 2026-08-15 | <details><summary>8 pag...</summary><p>8 pages, 12 figures, 2 tables</p></details> |
+| **[Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory](https://arxiv.org/abs/2604.09320v5)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted by The Journal of Chemical Physics. Main text: 23 pages, 11 figures, and 1 table. Supplementary Materials: 29 pages, 6 figures, 15 tables, 4 pseudo-algorithms</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
