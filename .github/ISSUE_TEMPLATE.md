@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2026
+title: Latest 15 Papers - September 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Source Retrieval and Reasoning for Legal Sentencing Prediction](https://arxiv.org/abs/2602.04690v3)** | 2026-08-31 | EMNLP 2026 main |
-| **[Three Steps at a Time: Learning Representations from Action Sequences in Contrastive RL](https://arxiv.org/abs/2608.30640v1)** | 2026-08-31 |  |
-| **[Test-time Reinforcement Learning in Imperfect Information Games](https://arxiv.org/abs/2608.30635v1)** | 2026-08-31 |  |
-| **[Vision-Based Agile Landing on Turbulent Waters](https://arxiv.org/abs/2605.23717v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L), August 2026</p></details> |
-| **[Data-to-Energy Stochastic Dynamics](https://arxiv.org/abs/2509.26364v3)** | 2026-08-31 | ICLR 2026 |
-| **[LaRA: Layer-wise Representation Analysis for Detecting Data Contamination in RL Post-Training](https://arxiv.org/abs/2605.29888v2)** | 2026-08-31 | EMNLP 2026 Findings |
-| **[GMTS: Gradient Magnitude-based Token Selection Improves RLVR Training for LLM Reasoning](https://arxiv.org/abs/2608.30632v1)** | 2026-08-31 | <details><summary>Findi...</summary><p>Findings of the 2026 Conference on Empirical Methods in Natural Language Processing</p></details> |
-| **[Discrete Compositional Generation via General Soft Operators and Robust Reinforcement Learning](https://arxiv.org/abs/2506.17007v3)** | 2026-08-31 |  |
-| **[Reinforcement Learning Can Amplify Emergent Misalignment from Harmless Rewards](https://arxiv.org/abs/2605.31328v2)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
-| **[Adaptive teachers for amortized samplers](https://arxiv.org/abs/2410.01432v3)** | 2026-08-31 | <details><summary>ICLR ...</summary><p>ICLR 2025, 27 pages, 12 figures</p></details> |
-| **[Learning diverse attacks on large language models for robust red-teaming and safety tuning](https://arxiv.org/abs/2405.18540v3)** | 2026-08-31 | <details><summary>ICLR ...</summary><p>ICLR 2025; code: https://github.com/GFNOrg/red-teaming</p></details> |
-| **[Learning Compositional Spatio-Temporal Video Grounding with Synthetic Curriculum](https://arxiv.org/abs/2608.30584v1)** | 2026-08-31 | 20 pages |
-| **[Amortizing intractable inference in large language models](https://arxiv.org/abs/2310.04363v3)** | 2026-08-31 | <details><summary>ICLR ...</summary><p>ICLR 2024; 23 pages; code: https://github.com/GFNOrg/gfn-lm-tuning</p></details> |
-| **[SPHERE: Automatic Music Upmixing via Audio Language Model Post-Training with Spatial Heuristic Rewards](https://arxiv.org/abs/2608.30559v1)** | 2026-08-31 |  |
-| **[GFlowNets and variational inference](https://arxiv.org/abs/2210.00580v4)** | 2026-08-31 | <details><summary>ICLR ...</summary><p>ICLR 2023 final version; code: https://github.com/GFNOrg/GFN_vs_HVI</p></details> |
+| **[EchoSonar-R: A Multi-View Reasoning-Enabled Model for Disease Classification and Report Generation in Echocardiography](https://arxiv.org/abs/2606.28164v2)** | 2026-09-01 |  |
+| **[Update for Decisions, Not Freshness: Goal-Oriented Status Updating and Selective Offloading at the Network Edge](https://arxiv.org/abs/2609.01082v1)** | 2026-09-01 | 16 pages, 13 figures |
+| **[World Model-Guided Reinforcement Learning via Counterfactual User Engagement Simulation](https://arxiv.org/abs/2609.01067v1)** | 2026-09-01 | EMNLP'26 |
+| **[Accelerating Reinforcement Learning via MPC Solver-Gradient Guidance for Weights-varying MPC](https://arxiv.org/abs/2609.01061v1)** | 2026-09-01 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Robotics (T-RO). 18 pages, 13 figures</p></details> |
+| **[ARISE-RL: Agentic Rubric-Grounded Iterative Self-Evolution with Reinforcement Learning](https://arxiv.org/abs/2609.01058v1)** | 2026-09-01 |  |
+| **[AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts](https://arxiv.org/abs/2609.00993v1)** | 2026-09-01 | 12 pages, 9 figures |
+| **[EVEREST:Endogenous Vision-Language Reinforcement Reasoning Exploration for Urban Socio-Semantic Segmentation](https://arxiv.org/abs/2608.24640v2)** | 2026-09-01 |  |
+| **[HiDiffTIR: Hierarchical Difficulty-Aware Policy Optimization for Multi-Turn Tool-Integrated Reasoning](https://arxiv.org/abs/2608.21863v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 (Findings)</p></details> |
+| **[Unsupervised Partner Design Enables Robust Ad-hoc Teamwork](https://arxiv.org/abs/2508.06336v3)** | 2026-09-01 |  |
+| **[CARE: Contrastive Anchor-based Rubric Evolution for Large Language Model Post-Training](https://arxiv.org/abs/2609.00892v1)** | 2026-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2026 MainConference</p></details> |
+| **[AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2512.16883v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026. Code and artifacts will be uploaded to https://github.com/MiuLab/AdaSearch</p></details> |
+| **[Reinforcement Learning Enhanced LLM Agents for Complex Vehicle Routing Problems](https://arxiv.org/abs/2609.00859v1)** | 2026-09-01 |  |
+| **[Dense Process Supervision for Search Agents via Fact Utility Estimation](https://arxiv.org/abs/2609.00833v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted in the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</p></details> |
+| **[One Policy, Any Budget: Internalizing Budget-Aware Search via Reinforcement Learning](https://arxiv.org/abs/2609.00813v1)** | 2026-09-01 |  |
+| **[AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://arxiv.org/abs/2607.21461v3)** | 2026-09-01 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials](https://arxiv.org/abs/2609.00528v1)** | 2026-09-01 |  |
+| **[Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion](https://arxiv.org/abs/2607.01777v2)** | 2026-08-31 |  |
+| **[CoMPASS: Collaborative Molecular Property Prediction via Adaptive Small-Large Model Synergy](https://arxiv.org/abs/2608.30674v1)** | 2026-08-31 | 9 pages |
 | **[MolLedger: An Additive Graph Neural Network with Chemically Grounded ADME Attributions](https://arxiv.org/abs/2608.30636v1)** | 2026-08-31 |  |
 | **[Beamforming Design Via GNN in mmWave Cell-Free Massive MIMO Using Sub-6 GHz CSI](https://arxiv.org/abs/2608.30524v1)** | 2026-08-31 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, Accepted for presentation at the 2026 IEEE 27th International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (IEEE SPAWC 2026)</p></details> |
 | **[Converse and Collision-Based Achievability for Node Localization with Hybrid Distance-Spectral Graph Positional Encodings](https://arxiv.org/abs/2608.30152v1)** | 2026-08-31 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Deep graph kernel point processes over networks](https://arxiv.org/abs/2306.11313v5)** | 2026-08-29 | <details><summary>Publi...</summary><p>Published at Journal of Computational and Graphical Statistics (JCGS), 2026. pp. 1-41</p></details> |
 | **[Toward Trustworthy Robot-Assisted Sliding Palpation for Shallow Vessel Localisation with a Calibrated Digital Twin](https://arxiv.org/abs/2608.29396v1)** | 2026-08-29 | ECCV workshop paper |
 | **[When Design Rules Break: Benchmark Composition Determines Whether Label Informativeness Predicts GNN Aggregator Choice](https://arxiv.org/abs/2606.10249v2)** | 2026-08-29 | <details><summary>We fo...</summary><p>We found an error in our training pipeline that affected the GIN-Mean results on high-degree graphs and inflated the reported GIN-Sum vs. GIN-Mean gaps. After fixing the pipeline, the main correlation is no longer significant (Spearman \r{ho} ? 0.01). We are withdrawing the paper and will upload an updated version once the ongoing study is complete</p></details> |
-| **[Graph Representational Learning: When Does More Expressivity Hurt Generalization?](https://arxiv.org/abs/2505.11298v2)** | 2026-08-29 |  |
-| **[Understanding Deep Learning via Notions of Rank](https://arxiv.org/abs/2408.02111v4)** | 2026-08-29 | PhD thesis |
-| **[Decoupled Structure-Feature Alignment via Alternating Optimization for Graph Learning](https://arxiv.org/abs/2607.11577v2)** | 2026-08-29 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
