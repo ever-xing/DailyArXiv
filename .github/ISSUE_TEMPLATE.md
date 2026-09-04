@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2026
+title: Latest 15 Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Achieving Olympiad-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning](https://arxiv.org/abs/2512.10534v4)** | 2026-09-02 |  |
-| **[Online Reinforcement Learning in the Met Office Unified Model through Distributed Model-Agent Coupling](https://arxiv.org/abs/2609.02566v1)** | 2026-09-02 | 18 pages, 13 figures |
-| **[Objective-Behavior Alignment: Diagnostics for MORL Policy Selection](https://arxiv.org/abs/2606.21321v2)** | 2026-09-02 | <details><summary>22 pa...</summary><p>22 pages, 41 figures, Accepted to Transactions on Machine Learning Research (TMLR). OpenReview: openreview.net/forum?id=hfnMLNCCYz</p></details> |
-| **[Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs](https://arxiv.org/abs/2609.02548v1)** | 2026-09-02 |  |
-| **[A Comparative Study of Graph Representations for GNN-Based Power Grid Control in L2RPN](https://arxiv.org/abs/2609.02538v1)** | 2026-09-02 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Submitted to IEEE PES International Meetings 2027</p></details> |
-| **[Cantelli Constrained Policy Optimization](https://arxiv.org/abs/2601.22993v5)** | 2026-09-02 |  |
-| **[Train at Moving Edge: Online-Verified Prompt Selection for Efficient RL Training of Large Reasoning Model](https://arxiv.org/abs/2603.25184v3)** | 2026-09-02 |  |
-| **[SpecXMaster Technical Report](https://arxiv.org/abs/2603.23101v4)** | 2026-09-02 | <details><summary>Techn...</summary><p>Technical report from DP Technology.22 pages, 7 figures</p></details> |
-| **[Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers](https://arxiv.org/abs/2609.01567v2)** | 2026-09-02 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 4 tables in the main text, 27 pages, 4 figures, 9 tables including Appendix</p></details> |
-| **[Stepwise Think-Critique: Interleaved Reasoning and Self-Critique in a Single LLM](https://arxiv.org/abs/2512.15662v4)** | 2026-09-02 | Under Review |
-| **[SEBA: Sample-Efficient Black-Box Attacks on Visual Reinforcement Learning](https://arxiv.org/abs/2511.09681v3)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[NE-R1: Enhancing Named Entity Recognition Model via Reinforcement Learning](https://arxiv.org/abs/2609.02366v1)** | 2026-09-02 | EMNLP2026 |
-| **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216v2)** | 2026-09-02 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/ZPPO-page/</p></details> |
-| **[Reinforcement Learning for Heterogeneous Sensor Selection in Maritime Surveillance](https://arxiv.org/abs/2607.22667v2)** | 2026-09-02 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted for the IEEE MetroSea 2026 Conference: Special Session 13: Object Detection, Tracking, and Sensor Fusion for Maritime Situational Awareness</p></details> |
-| **[APEx: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering](https://arxiv.org/abs/2609.02253v1)** | 2026-09-02 |  |
+| **[Neurosymbolic Reasoning with Incremental Knowledge for Sample Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/2608.02993v2)** | 2026-09-03 | <details><summary>Publi...</summary><p>Published in ECML-PKDD 2026</p></details> |
+| **[Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment](https://arxiv.org/abs/2609.03906v1)** | 2026-09-03 |  |
+| **[EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments](https://arxiv.org/abs/2609.03846v1)** | 2026-09-03 |  |
+| **[Multi-step Proximal Policy Improvement in Offline Reinforcement Learning](https://arxiv.org/abs/2609.03842v1)** | 2026-09-03 | <details><summary>Prepr...</summary><p>Preprint; 28 pages, 7 figures, and 13 tables</p></details> |
+| **[Attend to Evidence: Evidence-Anchored Spatial Attention Supervision for Multimodal RLVR](https://arxiv.org/abs/2605.30912v2)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
+| **[SVG-Score: Human-Aligned Evaluation of Text-to-SVG Generation](https://arxiv.org/abs/2609.03806v1)** | 2026-09-03 |  |
+| **[Learning Constraints-Based Adaptive Hypergraph Neural Networks for Solving Vehicle Routing Problems](https://arxiv.org/abs/2503.10421v2)** | 2026-09-03 |  |
+| **[Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning](https://arxiv.org/abs/2609.03729v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Symmetries and Causality: Causal Effect Identification Beyond IID Data](https://arxiv.org/abs/2609.03697v1)** | 2026-09-03 |  |
+| **[WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models](https://arxiv.org/abs/2609.03681v1)** | 2026-09-03 |  |
+| **[LLM4AIGQ: LLM-based AI Guidance Query Generation Framework for Multi Interest Mining](https://arxiv.org/abs/2609.03674v1)** | 2026-09-03 |  |
+| **[Out-of-Distribution Generalisation with Sequence Models in Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2609.03667v1)** | 2026-09-03 | 10 pages, 6 figures |
+| **[PFM-HR: Pose Flow Matching for Humanoid Robots](https://arxiv.org/abs/2608.03227v3)** | 2026-09-03 | 7 pages |
+| **[AIP: A Graph Representation for Learning and Governing Agent Skills](https://arxiv.org/abs/2606.04781v2)** | 2026-09-03 |  |
+| **[Safety Training Modulates Harmful Misalignment Under On-Policy RL, But Direction Depends on Environment Design](https://arxiv.org/abs/2604.12500v2)** | 2026-09-03 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Vision Meets Graphs: A Survey on Graph Reasoning and Learning](https://arxiv.org/abs/2609.03816v1)** | 2026-09-03 | <details><summary>IJCAI...</summary><p>IJCAI Survey Track, 2026</p></details> |
+| **[Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology](https://arxiv.org/abs/2609.03689v1)** | 2026-09-03 |  |
+| **[LevelSyn: Physical-Aware Logic Synthesis via Level-Asynchronous Graph Neural Networks](https://arxiv.org/abs/2609.03594v1)** | 2026-09-03 |  |
+| **[PPO-STGNN: A Proximal Policy Optimization Approach with Spatio-Temporal Graph Neural Networks for DAG Task Scheduling in Cloud-Edge-End Computing](https://arxiv.org/abs/2609.03503v1)** | 2026-09-03 |  |
+| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](https://arxiv.org/abs/2503.03313v4)** | 2026-09-02 | EMNLP 2026 |
+| **[Feasible but Not Safe: Constraint Violations and Report-Channel Attacks in Learned Cell-Free ISAC Association](https://arxiv.org/abs/2609.03147v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to the 17th ACM Workshop on Wireless of the Students, by the Students, for the Students (S3 '26) at MobiCom 2026. 4 pages, 3 figures</p></details> |
+| **[Evaluating Graph Neural Networks for Change-Criticality Classification in Maritime Navigation Charts](https://arxiv.org/abs/2609.02996v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted at IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026</p></details> |
 | **[Learning and extrapolating scale-invariant processes](https://arxiv.org/abs/2601.14810v3)** | 2026-09-02 | 31p, 24 figures |
 | **[TaLK: Text-attributed Graph Dataset Distillation via Coupling Language Model with Graph-Aware Kernel](https://arxiv.org/abs/2606.22975v3)** | 2026-09-02 | EMNLP 2026 Findings |
 | **[HyGRAIL: Cost-Aware and Evidence-Grounded Scientific Hypothesis Discovery over Knowledge Graphs](https://arxiv.org/abs/2609.02056v1)** | 2026-09-02 |  |
@@ -34,13 +41,6 @@ labels: documentation
 | **[Edge-Girth as a Structural Edge Feature for Graph Neural Networks](https://arxiv.org/abs/2609.01441v1)** | 2026-09-01 |  |
 | **[GENIE: Watermarking Graph Neural Networks for Link Prediction](https://arxiv.org/abs/2406.04805v4)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion](https://arxiv.org/abs/2607.01777v2)** | 2026-08-31 |  |
-| **[CoMPASS: Collaborative Molecular Property Prediction via Adaptive Small-Large Model Synergy](https://arxiv.org/abs/2608.30674v1)** | 2026-08-31 | 9 pages |
-| **[MolLedger: An Additive Graph Neural Network with Chemically Grounded ADME Attributions](https://arxiv.org/abs/2608.30636v1)** | 2026-08-31 |  |
-| **[Beamforming Design Via GNN in mmWave Cell-Free Massive MIMO Using Sub-6 GHz CSI](https://arxiv.org/abs/2608.30524v1)** | 2026-08-31 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, Accepted for presentation at the 2026 IEEE 27th International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (IEEE SPAWC 2026)</p></details> |
-| **[Converse and Collision-Based Achievability for Node Localization with Hybrid Distance-Spectral Graph Positional Encodings](https://arxiv.org/abs/2608.30152v1)** | 2026-08-31 |  |
-| **[Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning](https://arxiv.org/abs/2504.03610v2)** | 2026-08-31 |  |
-| **[Graph4BiLO: Graph Neural Network Approximation for Bilevel Mixed-Integer Linear Optimization](https://arxiv.org/abs/2608.30103v1)** | 2026-08-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[Spillover Effects under Network Interference When Neighbours' Treatment Effects Are Heterogeneous](https://arxiv.org/abs/2608.29882v1)** | 2026-08-30 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
