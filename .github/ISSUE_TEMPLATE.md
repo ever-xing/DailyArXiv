@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2026
+title: Latest 15 Papers - September 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR](https://arxiv.org/abs/2609.04108v1)** | 2026-09-03 |  |
+| **[DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training](https://arxiv.org/abs/2609.04094v1)** | 2026-09-03 |  |
+| **[Subspace Inference Enables Efficient Active Reward Learning from Preferences](https://arxiv.org/abs/2609.04066v1)** | 2026-09-03 | Published at TMLR |
+| **[Spurious Advantage Hidden in GRPO](https://arxiv.org/abs/2609.04063v1)** | 2026-09-03 |  |
+| **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v1)** | 2026-09-03 | EMNLP 2026 (Main) |
+| **[Reward Shaping to Mitigate Reward Hacking in RLHF](https://arxiv.org/abs/2502.18770v7)** | 2026-09-03 |  |
+| **[The Dually Flat Geometry of Planning as Inference](https://arxiv.org/abs/2609.04005v1)** | 2026-09-03 |  |
+| **[Attention Trajectories as a Diagnostic Axis for Deep Reinforcement Learning](https://arxiv.org/abs/2511.20591v3)** | 2026-09-03 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research: https://openreview.net/pdf?id=0aa9zthk7k</p></details> |
+| **[A Quantitative Comparison of Centralised and Distributed Reinforcement Learning-Based Control for Soft Robotic Arms](https://arxiv.org/abs/2511.02192v3)** | 2026-09-03 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 2 tables, accepted by RoboSoft 2026</p></details> |
+| **[FiMI Banking: A Sovereign Model for Indian Retail Banking](https://arxiv.org/abs/2609.03960v1)** | 2026-09-03 |  |
+| **[Two-Stage Reinforcement Learning for Sound and Adversarial Test Generation in Code LLMs](https://arxiv.org/abs/2609.03955v1)** | 2026-09-03 | <details><summary>21 pa...</summary><p>21 pages, 7 figures. Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
 | **[Neurosymbolic Reasoning with Incremental Knowledge for Sample Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/2608.02993v2)** | 2026-09-03 | <details><summary>Publi...</summary><p>Published in ECML-PKDD 2026</p></details> |
 | **[Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment](https://arxiv.org/abs/2609.03906v1)** | 2026-09-03 |  |
 | **[EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments](https://arxiv.org/abs/2609.03846v1)** | 2026-09-03 |  |
 | **[Multi-step Proximal Policy Improvement in Offline Reinforcement Learning](https://arxiv.org/abs/2609.03842v1)** | 2026-09-03 | <details><summary>Prepr...</summary><p>Preprint; 28 pages, 7 figures, and 13 tables</p></details> |
-| **[Attend to Evidence: Evidence-Anchored Spatial Attention Supervision for Multimodal RLVR](https://arxiv.org/abs/2605.30912v2)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
-| **[SVG-Score: Human-Aligned Evaluation of Text-to-SVG Generation](https://arxiv.org/abs/2609.03806v1)** | 2026-09-03 |  |
-| **[Learning Constraints-Based Adaptive Hypergraph Neural Networks for Solving Vehicle Routing Problems](https://arxiv.org/abs/2503.10421v2)** | 2026-09-03 |  |
-| **[Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning](https://arxiv.org/abs/2609.03729v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Symmetries and Causality: Causal Effect Identification Beyond IID Data](https://arxiv.org/abs/2609.03697v1)** | 2026-09-03 |  |
-| **[WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models](https://arxiv.org/abs/2609.03681v1)** | 2026-09-03 |  |
-| **[LLM4AIGQ: LLM-based AI Guidance Query Generation Framework for Multi Interest Mining](https://arxiv.org/abs/2609.03674v1)** | 2026-09-03 |  |
-| **[Out-of-Distribution Generalisation with Sequence Models in Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2609.03667v1)** | 2026-09-03 | 10 pages, 6 figures |
-| **[PFM-HR: Pose Flow Matching for Humanoid Robots](https://arxiv.org/abs/2608.03227v3)** | 2026-09-03 | 7 pages |
-| **[AIP: A Graph Representation for Learning and Governing Agent Skills](https://arxiv.org/abs/2606.04781v2)** | 2026-09-03 |  |
-| **[Safety Training Modulates Harmful Misalignment Under On-Policy RL, But Direction Depends on Environment Design](https://arxiv.org/abs/2604.12500v2)** | 2026-09-03 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
