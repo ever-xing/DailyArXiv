@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Complementing reinforcement learning with SFT through logit averaging in the post training of LLMs](https://arxiv.org/abs/2605.20555v2)** | 2026-09-09 |  |
-| **[TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards](https://arxiv.org/abs/2609.10315v1)** | 2026-09-09 |  |
-| **[Efficient Diversity-based Experience Replay for Deep Reinforcement Learning](https://arxiv.org/abs/2410.20487v5)** | 2026-09-09 | IJCAI2025 accepted |
-| **[Learning Terrain-Adaptive Humanoid Locomotion on Granular Terrain](https://arxiv.org/abs/2609.10286v1)** | 2026-09-09 |  |
-| **[MOSAIC: A Universal Agent-Level Interface for Cross-Paradigm Agent Mixing and Human-AI Collaboration](https://arxiv.org/abs/2603.01260v2)** | 2026-09-09 | 5 pages, 1 figures |
-| **[Hierarchical and Permutation-Invariant Feature Transformation Learning via Policy-Guided Embedding Search](https://arxiv.org/abs/2609.10225v1)** | 2026-09-09 | <details><summary>This ...</summary><p>This paper has been accepted for publication at CIKM 2026</p></details> |
-| **[tinyDSM: A Framework for Skill Modeling and Development for Resource-Constrained Millirobots](https://arxiv.org/abs/2608.17596v2)** | 2026-09-09 | <details><summary>Manus...</summary><p>Manuscript submitted to IEEE Transactions on Cognitive and Developmental Systems</p></details> |
-| **[Why Sample What You Can Enumerate? Exact Policy Optimization for Genomic Tool Selection](https://arxiv.org/abs/2609.10221v1)** | 2026-09-09 |  |
-| **[Reinforcement learning for Quantum Tiq-Taq-Toe](https://arxiv.org/abs/2411.06429v2)** | 2026-09-09 |  |
-| **[Self-Evolving Scientific Agent Designs Physically Reasoned White-Box Fluid Control](https://arxiv.org/abs/2606.08405v4)** | 2026-09-09 |  |
-| **[Static and dynamic jamming games over wireless channels with mobile strategic players](https://arxiv.org/abs/2306.10956v4)** | 2026-09-09 | <details><summary>This ...</summary><p>This work has been accepted to Information Sciences</p></details> |
-| **[Assembling Two Parts in One Hand](https://arxiv.org/abs/2609.10137v1)** | 2026-09-09 | <details><summary>To ap...</summary><p>To appear on Conference on Robot Learning (CoRL) 2026. Project website: https://ltbgbird.github.io/in-hand-assembly-page/</p></details> |
-| **[ESSA: Evolutionary Strategies for Scalable Alignment](https://arxiv.org/abs/2507.04453v4)** | 2026-09-09 |  |
-| **[Data-Centric Post-Training for Financial Reasoning: Mining, Distillation, and Verifiable Learning](https://arxiv.org/abs/2609.10113v1)** | 2026-09-09 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables. Technical report</p></details> |
-| **[Multi-dimensional Preference Alignment by Conditioning Reward Itself](https://arxiv.org/abs/2512.10237v2)** | 2026-09-09 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, ECCV2026</p></details> |
+| **[Distributed Optimization of Modular Production Systems using Model-based Reinforcement Learning with Inverse Models](https://arxiv.org/abs/2609.11615v1)** | 2026-09-10 |  |
+| **[A Short Survey of Viewing Large Language Models in Legal Aspect](https://arxiv.org/abs/2303.09136v2)** | 2026-09-10 | 8 pages |
+| **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523v1)** | 2026-09-10 |  |
+| **[SumRank: Aligning Summarization Models for Long-Document Listwise Reranking](https://arxiv.org/abs/2603.24204v2)** | 2026-09-10 |  |
+| **[Harnessing Intrinsic Subject-Aware Attention for Controllable Multi-Subject Video Generation](https://arxiv.org/abs/2609.11507v1)** | 2026-09-10 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, 4 tables</p></details> |
+| **[Progressive Agent Skill Generation via Reinforcement Learning](https://arxiv.org/abs/2608.01678v2)** | 2026-09-10 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ejhshen/skill-alpha</p></details> |
+| **[Safety-aware Skill Adaptation for Reinforcement Learning in Dynamic Environments](https://arxiv.org/abs/2609.11433v1)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted for Presentation and Publication at IEEE/RSJ International Conference on Intelligent Robots and Systems 2026</p></details> |
+| **[A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation](https://arxiv.org/abs/2605.12227v3)** | 2026-09-10 |  |
+| **[SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ](https://arxiv.org/abs/2609.11355v1)** | 2026-09-10 |  |
+| **[CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots](https://arxiv.org/abs/2603.03067v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Robotics and Automation (ICRA), 2026</p></details> |
+| **[Rhythm: Learning Interactive Whole-Body Control for Dual Humanoids](https://arxiv.org/abs/2603.02856v3)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted at Robotics: Science and Systems (RSS), 2026</p></details> |
+| **[Beyond Noise Steering: Dual-Latent Space Reinforcement Learning for Generative Robot Policy](https://arxiv.org/abs/2609.11270v1)** | 2026-09-10 |  |
+| **[Certifying cooperation: a novel approach to cooperative multi-agent task generation](https://arxiv.org/abs/2609.06586v2)** | 2026-09-10 |  |
+| **[Generative Replay Mitigates Sample Starvation in Quantum Architecture Search](https://arxiv.org/abs/2609.11248v1)** | 2026-09-10 | <details><summary>GenQA...</summary><p>GenQAS: 38 pages, 7 figures, 2 tables and 1 algorithm in main text</p></details> |
+| **[From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models](https://arxiv.org/abs/2609.11242v1)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 46 pages, 41 figures</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v1)** | 2026-09-10 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
+| **[When does a spectral prior help graph learning? Connectivity-loss estimation under road-network disruptions](https://arxiv.org/abs/2609.11166v1)** | 2026-09-10 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 7 tables. Code and data: doi:10.5281/zenodo.22307723</p></details> |
+| **[A variational physics-informed graph neural network for heterogeneous solid mechanics](https://arxiv.org/abs/2609.10983v1)** | 2026-09-10 |  |
+| **[SynCo: Synthetic Community-Aware Attributed Graph Generator for Graph Neural Network Benchmarking](https://arxiv.org/abs/2609.10742v1)** | 2026-09-09 | 15 pages |
+| **[Learning with Covariance Matrices: Principal Component Analysis Meets Learning with Graphs](https://arxiv.org/abs/2609.10490v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Signal Processing Magazine</p></details> |
+| **[GNN-Guided Graph Coarsening and Adaptive QUBO Penalties for the Capacitated Vehicle Routing Problem with Time Windows on a Quantum Annealer](https://arxiv.org/abs/2609.04593v2)** | 2026-09-09 |  |
 | **[Fidelity-Aware Scheduling of Quantum Circuits on Multi-QPU Systems](https://arxiv.org/abs/2609.09980v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at the 2nd International Workshop for Software Frameworks and Workload Management on Quantum and HPC Ecosystems (SFWM), co-located with SC26</p></details> |
 | **[ProMeta: Few-shot PROTAC-targeted degradation prediction across E3 ligases](https://arxiv.org/abs/2609.09891v1)** | 2026-09-09 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, and 2 tables. Source code and reproducibility resources are available at https://github.com/yeyufeiyyf/prometa and https://doi.org/10.5281/zenodo.21371599</p></details> |
 | **[Morphological Decoupling-Based Skeletal Classification for Clinical Assessment of Malocclusion](https://arxiv.org/abs/2609.09801v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted by Biocybernetics and Biomedical Engineering</p></details> |
@@ -35,12 +41,6 @@ labels: documentation
 | **[Spillover Effects under Network Interference When Neighbours' Treatment Effects Are Heterogeneous](https://arxiv.org/abs/2608.29882v2)** | 2026-09-08 |  |
 | **[Inductive Biases in Field-Level Cosmological Inference from Galaxy Catalogs](https://arxiv.org/abs/2609.09504v1)** | 2026-09-08 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, 5 tables. Accepted for publication in The Astrophysical Journal</p></details> |
 | **[Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion](https://arxiv.org/abs/2609.09491v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://vgpa-sfm.github.io/</p></details> |
-| **[Effects of relational graph modularity and depth on the learning performance of neural networks](https://arxiv.org/abs/2507.10005v3)** | 2026-09-08 | 12 pages, 7 figures |
-| **[Model Predictive Control of Tensegrity Robots via Contact-Aware Graph Neural Dynamics Model](https://arxiv.org/abs/2609.08958v1)** | 2026-09-08 |  |
-| **[Any-Dimensional Learning by Sampling](https://arxiv.org/abs/2607.07680v2)** | 2026-09-08 | <details><summary>Impro...</summary><p>Improved sketching rates for transformers and generalization rates for polynomials</p></details> |
-| **[HOPE: Heterophily-Aware Open-Set Node Classification with Pseudo-Extrapolation](https://arxiv.org/abs/2609.08685v1)** | 2026-09-08 |  |
-| **[Learning to build covering structures with continuous adjustments](https://arxiv.org/abs/2609.08669v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted in IROS 2026</p></details> |
-| **[Leveraging contextual events on structure-aware next activity prediction](https://arxiv.org/abs/2609.08622v1)** | 2026-09-08 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
