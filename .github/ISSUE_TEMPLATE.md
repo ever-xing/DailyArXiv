@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2026
+title: Latest 15 Papers - September 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scalable Policy Optimization for Networked Multi-Agent Reinforcement Learning with Continuous State-Action Spaces](https://arxiv.org/abs/2607.18554v2)** | 2026-09-17 | v2 |
-| **[Beyond On-Policy Exploration: Integrating External Policy Rollouts for Reinforcement Learning in Diffusion Language Models](https://arxiv.org/abs/2608.01717v2)** | 2026-09-17 |  |
-| **[Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis](https://arxiv.org/abs/2609.20124v1)** | 2026-09-17 |  |
-| **[AnyViewDex: View-Invariant Dexterous Manipulation from RGB Observations](https://arxiv.org/abs/2609.20107v1)** | 2026-09-17 |  |
-| **[Safety-Critical Scenanrio Emerges from Initial Scene](https://arxiv.org/abs/2609.20103v1)** | 2026-09-17 |  |
-| **[UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning](https://arxiv.org/abs/2609.20089v1)** | 2026-09-17 |  |
-| **[MATCH: Model-Aware Tool Learning with Curriculum Scheduling and Hierarchically Gated Rewards](https://arxiv.org/abs/2609.20082v1)** | 2026-09-17 |  |
-| **[SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification](https://arxiv.org/abs/2510.10232v2)** | 2026-09-17 |  |
-| **[Precision autotuning for linear solvers via contextual bandit-based RL](https://arxiv.org/abs/2601.00728v5)** | 2026-09-17 |  |
-| **[MAGMA-GEN: Validated Recovery Supervision from Ambiguous Failures via Counterfactual Re-Execution](https://arxiv.org/abs/2609.20056v1)** | 2026-09-17 |  |
-| **[Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation](https://arxiv.org/abs/2607.14962v2)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted at WACV 2027</p></details> |
-| **[EPIG-Tree: Compute-Optimal Branching for Gradient-Efficient Reinforcement Learning](https://arxiv.org/abs/2609.20004v1)** | 2026-09-17 | 12 pages, 8 figures |
-| **[Reinforcement Learning for Graph Generation under a Hard Assortativity Constraint](https://arxiv.org/abs/2605.23285v2)** | 2026-09-17 |  |
-| **[MAGRPO: Accelerated MARL Training for Fluid Antenna-Assisted Wireless Network Optimization](https://arxiv.org/abs/2604.17379v3)** | 2026-09-17 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication</p></details> |
-| **[Online Adaptation of Visual Odometry Frontends with Image-Conditioned Reinforcement Learning](https://arxiv.org/abs/2603.21785v2)** | 2026-09-17 |  |
+| **[Score Centering Stabilizes Off-policy Reinforcement Learning](https://arxiv.org/abs/2609.20807v1)** | 2026-09-17 |  |
+| **[Robotic Video World Models: A Survey of Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823v2)** | 2026-09-17 |  |
+| **[RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2609.20784v1)** | 2026-09-17 |  |
+| **[CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles](https://arxiv.org/abs/2607.09557v2)** | 2026-09-17 | 16 pages, 13 figures |
+| **[OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher](https://arxiv.org/abs/2609.20756v1)** | 2026-09-17 | 9 pages, 5 figures |
+| **[MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving](https://arxiv.org/abs/2609.20747v1)** | 2026-09-17 | <details><summary>Evalu...</summary><p>Evaluation video: https://www.youtube.com/watch?v=IZli3Z87URI</p></details> |
+| **[Accelerating Q-learning through Efficient Value-Sharing across Actions](https://arxiv.org/abs/2606.29806v3)** | 2026-09-17 | <details><summary>ICML ...</summary><p>ICML 2026 (Spotlight); Adaptive and Learning Agents workshop 2026 (Best paper runner-up)</p></details> |
+| **[Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL](https://arxiv.org/abs/2609.20715v1)** | 2026-09-17 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 11 tables</p></details> |
+| **[QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning](https://arxiv.org/abs/2602.04620v3)** | 2026-09-17 |  |
+| **[Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](https://arxiv.org/abs/2602.04663v3)** | 2026-09-17 | 25 pages, 11 figures |
+| **[UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising](https://arxiv.org/abs/2609.20630v1)** | 2026-09-17 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 4 tables</p></details> |
+| **[RTK-Vision PPO for Autonomous Micro UAV Recovery on an Airborne Carrier](https://arxiv.org/abs/2609.20629v1)** | 2026-09-17 | 9 pages, 6 figures |
+| **[Reasoning Quality Matters: Combating Reasoning Collapse in LLM-based Embedding Learning](https://arxiv.org/abs/2609.20563v1)** | 2026-09-17 | 30 pages, 8 figures |
+| **[Learning Slope-Adaptive Whole-Body Locomotion for Humanoid Robots in Roofing Construction](https://arxiv.org/abs/2609.20558v1)** | 2026-09-17 |  |
+| **[Mitigating Retaliatory Algorithmic Collusion in Repeated Games](https://arxiv.org/abs/2609.20548v1)** | 2026-09-17 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Fourier-Based Sparse Matrix Analysis on GPUs](https://arxiv.org/abs/2609.20483v1)** | 2026-09-17 | 13 pages, 7 figures |
 | **[Quantum Graph Convolutional Networks: Implementation and Trainability Analysis](https://arxiv.org/abs/2609.19983v1)** | 2026-09-17 |  |
 | **[EssentialGIN: a new approach for gene essentiality prediction based on graph isomorphism neural networks](https://arxiv.org/abs/2606.07700v2)** | 2026-09-17 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 8 tables</p></details> |
 | **[Adversarial Water-Filling: Theory, Algorithms, and a Domain-Specific Wireless Foundation Model](https://arxiv.org/abs/2605.26163v2)** | 2026-09-17 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Graph neural networks for exoplanet atmospheres](https://arxiv.org/abs/2609.17894v1)** | 2026-09-15 |  |
 | **[ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs](https://arxiv.org/abs/2509.24115v2)** | 2026-09-15 | <details><summary>13 to...</summary><p>13 total pages of main content, 4 of references, 5 in Appendix</p></details> |
 | **[SpecReuse: Spectral Graph Reuse for Efficient Vision GNN Inference on FPGAs](https://arxiv.org/abs/2609.17718v1)** | 2026-09-15 | IEEE HPEC 2026 |
-| **[SEMA-GUARD: Semantic and Graph-Based Vulnerability Detection in Assembly Code](https://arxiv.org/abs/2609.17254v1)** | 2026-09-15 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
