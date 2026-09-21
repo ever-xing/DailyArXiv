@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 20, 2026
+title: Latest 15 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Score Centering Stabilizes Off-policy Reinforcement Learning](https://arxiv.org/abs/2609.20807v1)** | 2026-09-17 |  |
-| **[Robotic Video World Models: A Survey of Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823v2)** | 2026-09-17 |  |
-| **[RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2609.20784v1)** | 2026-09-17 |  |
-| **[CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles](https://arxiv.org/abs/2607.09557v2)** | 2026-09-17 | 16 pages, 13 figures |
-| **[OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher](https://arxiv.org/abs/2609.20756v1)** | 2026-09-17 | 9 pages, 5 figures |
-| **[MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving](https://arxiv.org/abs/2609.20747v1)** | 2026-09-17 | <details><summary>Evalu...</summary><p>Evaluation video: https://www.youtube.com/watch?v=IZli3Z87URI</p></details> |
-| **[Accelerating Q-learning through Efficient Value-Sharing across Actions](https://arxiv.org/abs/2606.29806v3)** | 2026-09-17 | <details><summary>ICML ...</summary><p>ICML 2026 (Spotlight); Adaptive and Learning Agents workshop 2026 (Best paper runner-up)</p></details> |
-| **[Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL](https://arxiv.org/abs/2609.20715v1)** | 2026-09-17 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 11 tables</p></details> |
-| **[QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning](https://arxiv.org/abs/2602.04620v3)** | 2026-09-17 |  |
-| **[Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](https://arxiv.org/abs/2602.04663v3)** | 2026-09-17 | 25 pages, 11 figures |
-| **[UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising](https://arxiv.org/abs/2609.20630v1)** | 2026-09-17 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 4 tables</p></details> |
-| **[RTK-Vision PPO for Autonomous Micro UAV Recovery on an Airborne Carrier](https://arxiv.org/abs/2609.20629v1)** | 2026-09-17 | 9 pages, 6 figures |
-| **[Reasoning Quality Matters: Combating Reasoning Collapse in LLM-based Embedding Learning](https://arxiv.org/abs/2609.20563v1)** | 2026-09-17 | 30 pages, 8 figures |
-| **[Learning Slope-Adaptive Whole-Body Locomotion for Humanoid Robots in Roofing Construction](https://arxiv.org/abs/2609.20558v1)** | 2026-09-17 |  |
-| **[Mitigating Retaliatory Algorithmic Collusion in Repeated Games](https://arxiv.org/abs/2609.20548v1)** | 2026-09-17 |  |
+| **[From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention](https://arxiv.org/abs/2609.21788v1)** | 2026-09-18 | <details><summary>Proje...</summary><p>Project page: https://destiny000621.github.io/PARTS/</p></details> |
+| **[GEM-MPC: Balancing Exploration and Exploitation through Expert-Guided Planning](https://arxiv.org/abs/2609.21735v1)** | 2026-09-18 | Preprint |
+| **[Reward Shaping to Mitigate Reward Hacking in RLHF](https://arxiv.org/abs/2502.18770v8)** | 2026-09-18 |  |
+| **[Survival Reinforcement Learning: Toward Scalable Self-Supervised RL](https://arxiv.org/abs/2605.31273v2)** | 2026-09-18 |  |
+| **[Generalizing Beyond Suboptimality: Offline Reinforcement Learning Learns Effective Scheduling through Random Solutions](https://arxiv.org/abs/2509.10303v3)** | 2026-09-18 | Accepted in TMLR |
+| **[AgenticRL: Agentic Reinforcement Learning with Self-Refinement for Complex UAV Navigation](https://arxiv.org/abs/2606.03963v4)** | 2026-09-18 |  |
+| **[DRT: Dense Reasoning Trace for Efficient and Grounded Multimodal Reasoning](https://arxiv.org/abs/2609.21675v1)** | 2026-09-18 |  |
+| **[Safety-Critical Scenarios Emerge from Initial Scenes](https://arxiv.org/abs/2609.20103v2)** | 2026-09-18 | <details><summary>Corre...</summary><p>Correct typo in the title</p></details> |
+| **[SynthDemo-RL: Breaking the Zero-Reward Barrier in VLA Adaptation with LLM-Guided Synthetic Demonstrations](https://arxiv.org/abs/2609.21650v1)** | 2026-09-18 | Under review |
+| **[Cultural Alignment in Large Language Models Using Soft Prompt Tuning](https://arxiv.org/abs/2503.16094v2)** | 2026-09-18 |  |
+| **[Potential-Field Action Representation for Reinforcement Learning in Contact-Rich Manipulation](https://arxiv.org/abs/2609.21609v1)** | 2026-09-18 |  |
+| **[SABER: Learning Attention-based Semantic Affordance for Legged Locomotion](https://arxiv.org/abs/2609.21572v1)** | 2026-09-18 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 3 tables</p></details> |
+| **[Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms](https://arxiv.org/abs/2608.27409v2)** | 2026-09-18 |  |
+| **[MIRAGE: Multi-Perspective Creative Language Model Reasoning with Reinforcement Learning Guidance](https://arxiv.org/abs/2609.21554v1)** | 2026-09-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Accepted at the ICML 2025 Workshop on Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges and Futures (MAS-2025)</p></details> |
+| **[OneBid: A Unified Auto-Bidding Foundation Model for Diverse oCPX Advertising Scenarios](https://arxiv.org/abs/2609.21550v1)** | 2026-09-18 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Boltzmann generators for amorphous particle systems](https://arxiv.org/abs/2512.16607v3)** | 2026-09-18 | <details><summary>30 pa...</summary><p>30 pages, 10 figures. V2 considerably expands the results compared to v1. V3 accepted for publications in J. Chem. Phys</p></details> |
+| **[Continuous Spiking Graph Neural Networks](https://arxiv.org/abs/2404.01897v3)** | 2026-09-18 |  |
+| **[Learning-to-Optimize as the Missing Architectural Layer of AI-Native Networks](https://arxiv.org/abs/2609.21519v1)** | 2026-09-18 | 6 pages, conference |
+| **[DEFEAT: Stitching Fragmented File I/O Contexts for Early Ransomware Detection](https://arxiv.org/abs/2609.21426v1)** | 2026-09-18 | <details><summary>13 pa...</summary><p>13 pages. Accepted to the 42nd Annual Computer Security Applications Conference (ACSAC 2026)</p></details> |
+| **[M2G-LLM: Enhancing Clinical Prediction via Multimodal Graph Reasoning and LLM Context Injection](https://arxiv.org/abs/2609.21164v1)** | 2026-09-18 |  |
+| **[EnSol: an environment-aware graph neural network for molecular solubility prediction](https://arxiv.org/abs/2609.21151v1)** | 2026-09-17 |  |
 | **[Scaling Fourier-Based Sparse Matrix Analysis on GPUs](https://arxiv.org/abs/2609.20483v1)** | 2026-09-17 | 13 pages, 7 figures |
 | **[Quantum Graph Convolutional Networks: Implementation and Trainability Analysis](https://arxiv.org/abs/2609.19983v1)** | 2026-09-17 |  |
 | **[EssentialGIN: a new approach for gene essentiality prediction based on graph isomorphism neural networks](https://arxiv.org/abs/2606.07700v2)** | 2026-09-17 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 8 tables</p></details> |
@@ -35,12 +41,6 @@ labels: documentation
 | **[Stable Filters for Generative Modeling of Graph Signals](https://arxiv.org/abs/2609.18759v1)** | 2026-09-16 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP'27</p></details> |
 | **[ReDIL-GNN: Resynthesis Domain Incremental Learning for Circuit Graph Neural Networks](https://arxiv.org/abs/2609.18595v1)** | 2026-09-16 | 12 pages |
 | **[Interpretable Retinal Disease Prediction Using Biology-Informed Heterogeneous Graph Representations](https://arxiv.org/abs/2502.16697v3)** | 2026-09-16 |  |
-| **[Not All Nodes Are Created Equal: Homophily-Aware Stratification for Stable GNN Evaluation](https://arxiv.org/abs/2609.19210v1)** | 2026-09-16 | 10 pages |
-| **[Forecasting Individual NetFlows using a Predictive Masked Graph Autoencoder](https://arxiv.org/abs/2604.20483v3)** | 2026-09-16 | 3 figures, 6 pages |
-| **[Efficient model-order reduction via graph autoencoders and operator learning for systems with sharp gradients using a novel point cloud error metric for performance assessment](https://arxiv.org/abs/2606.23834v2)** | 2026-09-16 | 31 pages, 16 figures |
-| **[Graph neural networks for exoplanet atmospheres](https://arxiv.org/abs/2609.17894v1)** | 2026-09-15 |  |
-| **[ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs](https://arxiv.org/abs/2509.24115v2)** | 2026-09-15 | <details><summary>13 to...</summary><p>13 total pages of main content, 4 of references, 5 in Appendix</p></details> |
-| **[SpecReuse: Spectral Graph Reuse for Efficient Vision GNN Inference on FPGAs](https://arxiv.org/abs/2609.17718v1)** | 2026-09-15 | IEEE HPEC 2026 |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
