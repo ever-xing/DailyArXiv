@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,45 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention](https://arxiv.org/abs/2609.21788v1)** | 2026-09-18 | <details><summary>Proje...</summary><p>Project page: https://destiny000621.github.io/PARTS/</p></details> |
-| **[GEM-MPC: Balancing Exploration and Exploitation through Expert-Guided Planning](https://arxiv.org/abs/2609.21735v1)** | 2026-09-18 | Preprint |
-| **[Reward Shaping to Mitigate Reward Hacking in RLHF](https://arxiv.org/abs/2502.18770v8)** | 2026-09-18 |  |
-| **[Survival Reinforcement Learning: Toward Scalable Self-Supervised RL](https://arxiv.org/abs/2605.31273v2)** | 2026-09-18 |  |
-| **[Generalizing Beyond Suboptimality: Offline Reinforcement Learning Learns Effective Scheduling through Random Solutions](https://arxiv.org/abs/2509.10303v3)** | 2026-09-18 | Accepted in TMLR |
-| **[AgenticRL: Agentic Reinforcement Learning with Self-Refinement for Complex UAV Navigation](https://arxiv.org/abs/2606.03963v4)** | 2026-09-18 |  |
-| **[DRT: Dense Reasoning Trace for Efficient and Grounded Multimodal Reasoning](https://arxiv.org/abs/2609.21675v1)** | 2026-09-18 |  |
-| **[Safety-Critical Scenarios Emerge from Initial Scenes](https://arxiv.org/abs/2609.20103v2)** | 2026-09-18 | <details><summary>Corre...</summary><p>Correct typo in the title</p></details> |
-| **[SynthDemo-RL: Breaking the Zero-Reward Barrier in VLA Adaptation with LLM-Guided Synthetic Demonstrations](https://arxiv.org/abs/2609.21650v1)** | 2026-09-18 | Under review |
-| **[Cultural Alignment in Large Language Models Using Soft Prompt Tuning](https://arxiv.org/abs/2503.16094v2)** | 2026-09-18 |  |
-| **[Potential-Field Action Representation for Reinforcement Learning in Contact-Rich Manipulation](https://arxiv.org/abs/2609.21609v1)** | 2026-09-18 |  |
-| **[SABER: Learning Attention-based Semantic Affordance for Legged Locomotion](https://arxiv.org/abs/2609.21572v1)** | 2026-09-18 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 3 tables</p></details> |
-| **[Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms](https://arxiv.org/abs/2608.27409v2)** | 2026-09-18 |  |
-| **[MIRAGE: Multi-Perspective Creative Language Model Reasoning with Reinforcement Learning Guidance](https://arxiv.org/abs/2609.21554v1)** | 2026-09-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Accepted at the ICML 2025 Workshop on Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges and Futures (MAS-2025)</p></details> |
-| **[OneBid: A Unified Auto-Bidding Foundation Model for Diverse oCPX Advertising Scenarios](https://arxiv.org/abs/2609.21550v1)** | 2026-09-18 |  |
+| **[Smoothness as a Constraint for Stable Humanoid Locomotion](https://arxiv.org/abs/2609.24552v1)** | 2026-09-21 |  |
+| **[ME-VLM:A Unified VLM for Embodied Cognition and Agent Coordination](https://arxiv.org/abs/2609.24526v1)** | 2026-09-21 |  |
+| **[InsertAnything: Generalizable Contact-Rich Precision Insertion from Simulation to Reality](https://arxiv.org/abs/2609.24511v1)** | 2026-09-21 |  |
+| **[Lifted Bellman Linear Programming for Offline Reinforcement Learning](https://arxiv.org/abs/2609.24489v1)** | 2026-09-21 |  |
+| **[Fathom-Vaidya: Advancing Medical Reasoning with Rubric-Based Rewards](https://arxiv.org/abs/2609.24480v1)** | 2026-09-21 | <details><summary>18 pa...</summary><p>18 pages, 5 Figures, Correspondence to kunal.singh@fractal.ai</p></details> |
+| **[HALO-WA: Hybrid-Attention Latent-Guided Online Reinforcement Learning for World-Action Models](https://arxiv.org/abs/2607.04265v2)** | 2026-09-21 |  |
+| **[Conduit: An Experience Data Plane for Distributed Reinforcement Learning](https://arxiv.org/abs/2609.24456v1)** | 2026-09-21 | 16 pages, 17 figures |
+| **[GeCCo -- a Generalist Contact-Conditioned Policy for Loco-Manipulation Skills on Legged Robots](https://arxiv.org/abs/2509.17582v2)** | 2026-09-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
+| **[Active Inference as a Convex Markov Decision Process](https://arxiv.org/abs/2607.20152v2)** | 2026-09-21 |  |
+| **[A Unified Benchmark for Dynamic Medical Treatment Reinforcement Learning](https://arxiv.org/abs/2606.01028v2)** | 2026-09-21 |  |
+| **[Performance-Preserving Online Adaptation in Social Navigation via Diffusion Steering](https://arxiv.org/abs/2609.24317v1)** | 2026-09-21 |  |
+| **[TTSE: A Two-Track Online Self-Evolution Framework](https://arxiv.org/abs/2609.24289v1)** | 2026-09-21 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 18 tables</p></details> |
+| **[CoFlow: Coordinated Few-Step Flow for Offline Multi-Agent Decision Making](https://arxiv.org/abs/2605.01457v4)** | 2026-09-21 | <details><summary>27 pa...</summary><p>27 pages. Substantially revised manuscript with updated methodology, experiments, theoretical analysis, figures, and references</p></details> |
+| **[Reinforcement Learning Inspired Black-box Adversarial Attacks for Computer Vision](https://arxiv.org/abs/2609.24249v1)** | 2026-09-21 |  |
+| **[Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement](https://arxiv.org/abs/2609.24243v1)** | 2026-09-21 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reforge: Low-Latency Distributed GNN Serving with Selective Embedding Recomputation](https://arxiv.org/abs/2501.08547v2)** | 2026-09-21 | <details><summary>Exten...</summary><p>Extended version of the IPDPS'26 paper (https://doi.org/10.1109/IPDPS65963.2026.00071)</p></details> |
+| **[Temporal Generalization and Explanation Stability of Control Flow Graph Neural Networks for Malware Detection](https://arxiv.org/abs/2609.24280v1)** | 2026-09-21 | <details><summary>47 pa...</summary><p>47 pages, 9 figures, 17 tables. Code available at https://github.com/Ho9pe/TG-CFG</p></details> |
+| **[Learning to Maximize Energy Efficiency in 6G in-X Subnetworks](https://arxiv.org/abs/2609.24263v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted in IEEE VTC Fall 2026</p></details> |
+| **[SSP-GNN: Learning to Track via Bilevel Optimization](https://arxiv.org/abs/2407.04308v4)** | 2026-09-21 |  |
+| **[MMS-VPR: A Fine-Grained Multimodal Street-Level Visual Place Recognition Dataset and Evaluation Benchmark for Dense Pedestrian Environments](https://arxiv.org/abs/2505.12254v3)** | 2026-09-20 | 27 pages, 19 figures |
+| **[Edge-centric Brain Transformer: An Edge-centric Functional Connectivity Learning Framework for fMRI-based Brain Disorder Diagnosis](https://arxiv.org/abs/2609.23782v1)** | 2026-09-20 | 14 pages, 6 figures |
+| **[Droop-Aware Foundation Model Power Flow](https://arxiv.org/abs/2609.23723v1)** | 2026-09-20 |  |
+| **[Preserving Geometric Integrity in Graph Prompting via Measure-Constrained Optimal Transport](https://arxiv.org/abs/2609.23547v1)** | 2026-09-20 | 28 pages, 4 figures |
+| **[GNN-Based Global CSI Reconstruction for Fronthaul-Limited Distributed MIMO Systems](https://arxiv.org/abs/2609.23365v1)** | 2026-09-20 |  |
+| **[Enhancing speech representation learning with cross-modal knowledge transfer with HGNN under low resource settings: the case study of Yemba](https://arxiv.org/abs/2609.23194v1)** | 2026-09-19 |  |
+| **[Low resource cross-modal alignment using HGNN to enhance speech representation](https://arxiv.org/abs/2609.23191v1)** | 2026-09-19 |  |
+| **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](https://arxiv.org/abs/2503.24111v4)** | 2026-09-19 | 14 pages, 10 figures |
+| **[CurvFlow-DTA: dual-graph discrete Ricci curvature flow for drug--target affinity prediction](https://arxiv.org/abs/2609.22862v1)** | 2026-09-19 |  |
+| **[GNN-based Path-aware multi-view Circuit Learning for Technology Mapping](https://arxiv.org/abs/2601.14286v2)** | 2026-09-19 | <details><summary>Withd...</summary><p>Withdrawn by the authors because the manuscript was posted prematurely and requires substantial revision before further dissemination</p></details> |
 | **[Boltzmann generators for amorphous particle systems](https://arxiv.org/abs/2512.16607v3)** | 2026-09-18 | <details><summary>30 pa...</summary><p>30 pages, 10 figures. V2 considerably expands the results compared to v1. V3 accepted for publications in J. Chem. Phys</p></details> |
-| **[Continuous Spiking Graph Neural Networks](https://arxiv.org/abs/2404.01897v3)** | 2026-09-18 |  |
-| **[Learning-to-Optimize as the Missing Architectural Layer of AI-Native Networks](https://arxiv.org/abs/2609.21519v1)** | 2026-09-18 | 6 pages, conference |
-| **[DEFEAT: Stitching Fragmented File I/O Contexts for Early Ransomware Detection](https://arxiv.org/abs/2609.21426v1)** | 2026-09-18 | <details><summary>13 pa...</summary><p>13 pages. Accepted to the 42nd Annual Computer Security Applications Conference (ACSAC 2026)</p></details> |
-| **[M2G-LLM: Enhancing Clinical Prediction via Multimodal Graph Reasoning and LLM Context Injection](https://arxiv.org/abs/2609.21164v1)** | 2026-09-18 |  |
-| **[EnSol: an environment-aware graph neural network for molecular solubility prediction](https://arxiv.org/abs/2609.21151v1)** | 2026-09-17 |  |
-| **[Scaling Fourier-Based Sparse Matrix Analysis on GPUs](https://arxiv.org/abs/2609.20483v1)** | 2026-09-17 | 13 pages, 7 figures |
-| **[Quantum Graph Convolutional Networks: Implementation and Trainability Analysis](https://arxiv.org/abs/2609.19983v1)** | 2026-09-17 |  |
-| **[EssentialGIN: a new approach for gene essentiality prediction based on graph isomorphism neural networks](https://arxiv.org/abs/2606.07700v2)** | 2026-09-17 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 8 tables</p></details> |
-| **[Adversarial Water-Filling: Theory, Algorithms, and a Domain-Specific Wireless Foundation Model](https://arxiv.org/abs/2605.26163v2)** | 2026-09-17 |  |
-| **[Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks](https://arxiv.org/abs/2503.24203v3)** | 2026-09-17 | <details><summary>Updat...</summary><p>Updated version to include link to new open-source repository. The previous repo was invalidated due to institutional Github license change. The code and detailed instructions for reproduction are now hosted in a public repo</p></details> |
-| **[Learning Contact Dynamics through Touching: Action-conditional Graph Neural Networks for Robotic Peg Insertion](https://arxiv.org/abs/2509.12151v3)** | 2026-09-16 |  |
-| **[Stable Filters for Generative Modeling of Graph Signals](https://arxiv.org/abs/2609.18759v1)** | 2026-09-16 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP'27</p></details> |
-| **[ReDIL-GNN: Resynthesis Domain Incremental Learning for Circuit Graph Neural Networks](https://arxiv.org/abs/2609.18595v1)** | 2026-09-16 | 12 pages |
-| **[Interpretable Retinal Disease Prediction Using Biology-Informed Heterogeneous Graph Representations](https://arxiv.org/abs/2502.16697v3)** | 2026-09-16 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[General Collaborative Intelligence: Architecting Cognition for Resilient Multi-Agent Ecosystems](https://arxiv.org/abs/2609.22967v1)** | 2026-09-19 |  |
 | **[Sylvas: Synergistic Learning Value based Device Scheduling in Federated Continual Learning](https://arxiv.org/abs/2609.15763v1)** | 2026-09-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[ROVR-Open-Dataset: A Large-Scale Depth Dataset for Autonomous Driving](https://arxiv.org/abs/2508.13977v4)** | 2026-09-09 |  |
 | **[LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection](https://arxiv.org/abs/2607.24184v1)** | 2026-07-27 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems](https://arxiv.org/abs/2511.04388v1)** | 2025-11-06 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, published to IROS 2025</p></details> |
 | **[SafeDiver: Cooperative AUV-USV Assisted Diver Communication via Multi-agent Reinforcement Learning Approach](https://arxiv.org/abs/2509.11508v2)** | 2025-10-23 | <details><summary>Withd...</summary><p>Withdrawn to reorganize and extend the current findings in a future version</p></details> |
 | **[Navigate in Demanding Missions: Integrating Human Intelligence and Brain-Inspired Intelligence](https://arxiv.org/abs/2510.17530v1)** | 2025-10-20 |  |
-| **[A Preliminary Exploration of the Differences and Conjunction of Traditional PNT and Brain-inspired PNT](https://arxiv.org/abs/2510.16771v1)** | 2025-10-19 |  |
 
