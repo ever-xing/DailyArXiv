@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2026
+title: Latest 15 Papers - September 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Optimal Sequential Annotations for Off-Policy Evaluation](https://arxiv.org/abs/2609.26707v1)** | 2026-09-22 |  |
-| **[Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning](https://arxiv.org/abs/2609.26704v1)** | 2026-09-22 |  |
-| **[MAGIC: Mixed-Granularity Agent Graphs via Incremental Construction with Dense-Reward Reinforcement Learning](https://arxiv.org/abs/2609.26667v1)** | 2026-09-22 |  |
-| **[Continuous Delayed-Memory Stochastic Gradient Descent and Continuous-Time Reinforcement Learning from History of Astrophysical Time Series Studies](https://arxiv.org/abs/2609.20906v2)** | 2026-09-22 | <details><summary>Keywo...</summary><p>Keywords: Stochastic process, Stochastic gradient descent, Continuous-Delayed-Memory Stochastic Gradient Descent, Stochastic Delay Differential Equation, Reinforcement Learning, Adjoint method</p></details> |
-| **[GeoComposer: Geometry-Grounded Photographic Composition Instruction](https://arxiv.org/abs/2609.26620v1)** | 2026-09-22 |  |
-| **[NavSafe-$\infty$: Benchmarking Closed-Loop Driving Safety in Photorealistic Environments](https://arxiv.org/abs/2609.26618v1)** | 2026-09-22 |  |
-| **[Learning Air-Ground Motion Control with Temporal Mode Switching and Cross-Terrain Tracking](https://arxiv.org/abs/2609.26564v1)** | 2026-09-22 |  |
-| **[KwaiMind Technical Report](https://arxiv.org/abs/2609.26375v1)** | 2026-09-22 | <details><summary>KwaiM...</summary><p>KwaiMind Team, Kuaishou Group</p></details> |
-| **[PACT: From Credit Assignment to Critic Alignment](https://arxiv.org/abs/2609.26355v1)** | 2026-09-22 |  |
-| **[ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model](https://arxiv.org/abs/2609.26299v1)** | 2026-09-22 | <details><summary>9 pag...</summary><p>9 pages, 4 figures; 8 pages supplementary with 4 figures</p></details> |
-| **[Finding Kissing Numbers with Game-theoretic Reinforcement Learning](https://arxiv.org/abs/2511.13391v5)** | 2026-09-22 |  |
-| **[Reinforcement Learning for Delivery Drone-Based Participatory Sensing in Dynamic Environments](https://arxiv.org/abs/2607.18874v2)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted to ACM SIGSPATIAL 2026 (Research Paper Track)</p></details> |
-| **[GroundingVLN: Reasoning and Acting with Grounding for Vision-Language Navigation](https://arxiv.org/abs/2609.18581v2)** | 2026-09-22 |  |
-| **[MATES: Learning Multi-Agent Interactions by Transforming Observations for Frozen Single-Agent Policies](https://arxiv.org/abs/2609.26010v1)** | 2026-09-22 |  |
-| **[Informed Masking: Structure-Aware Perturbation for Reinforcement Learning in Diffusion Large Language Models](https://arxiv.org/abs/2609.25927v1)** | 2026-09-22 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, EMNLP2026 Findings</p></details> |
+| **[PCQC: Privileged Counterfactual Question Credit for Multi-Turn Medical Dialogue](https://arxiv.org/abs/2609.27987v1)** | 2026-09-23 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 13 tables</p></details> |
+| **[Categorical Internalisation of Environmental Groupoids for Generalisable POMDP Solving](https://arxiv.org/abs/2609.27745v1)** | 2026-09-23 | 12 pages, 4 figures |
+| **[Satisfaction Is Not Explanation: Auditing Vacuity and Training Influence in Temporal-Logic-Guided Reinforcement Learning](https://arxiv.org/abs/2609.27743v1)** | 2026-09-23 | <details><summary>11 pa...</summary><p>11 pages, 5 tables. Submitted to IEEE Transactions on Software Engineering</p></details> |
+| **[Limiting-Kernel Q($λ$): Bridging Short and Long Horizons](https://arxiv.org/abs/2609.27741v1)** | 2026-09-23 |  |
+| **[DeliveryGym: An RL Environment for Long-Horizon Embodied Agent Planning with Adaptive Curriculum](https://arxiv.org/abs/2609.19801v2)** | 2026-09-23 |  |
+| **[SkillGym: Internalizing Human Skills into LLMs for Real-World Problem Solving](https://arxiv.org/abs/2609.27717v1)** | 2026-09-23 |  |
+| **[ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing](https://arxiv.org/abs/2506.00520v2)** | 2026-09-23 |  |
+| **[Learning to Remember: Attentive Reinforcement Learning for Edge Serverless Autoscaling](https://arxiv.org/abs/2603.28790v2)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
+| **[Robust Adversarial Reinforcement Learning with Risk Sensitivity and Critic Consistency Regularization](https://arxiv.org/abs/2609.27667v1)** | 2026-09-23 |  |
+| **[Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence](https://arxiv.org/abs/2609.27664v1)** | 2026-09-23 |  |
+| **[A DRL-Driven Optimization of RAN Slice Resource Partitioning for V2X SLA Compliance in 5G Networks](https://arxiv.org/abs/2609.27659v1)** | 2026-09-23 |  |
+| **[From Reach to Insert: Tactile-Augmented Precision Assembly under Sub-Millimeter Tolerances](https://arxiv.org/abs/2605.04649v3)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
+| **[RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs](https://arxiv.org/abs/2603.08166v2)** | 2026-09-23 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Accepted for publication in IEEE Journal of Biomedical and Health Informatics (J-BHI)</p></details> |
+| **[DCRL: Decoupling and Coupling Reinforcement Learning via Policy-Reward Manifold Alignment](https://arxiv.org/abs/2609.27572v1)** | 2026-09-23 | Under review |
+| **[EBRL: Asynchronous Embodied RL by Multi-Grained Resource Management](https://arxiv.org/abs/2609.27547v1)** | 2026-09-23 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable Subgraph Sampling via Resistance Curvature](https://arxiv.org/abs/2609.27209v1)** | 2026-09-23 |  |
+| **[Does Graph Structure Earn Its Place in Microservice Root-Cause Analysis? A Controlled Study on RCAEval, and What the Benchmark Was Really Measuring](https://arxiv.org/abs/2609.27069v1)** | 2026-09-22 | <details><summary>17 pa...</summary><p>17 pages; preprint published at Zenodo, DOI 10.5281/zenodo.22832168</p></details> |
 | **[Diffusion-Induced Spatial Attention Overlapping Community Detection](https://arxiv.org/abs/2609.26737v1)** | 2026-09-22 |  |
 | **[PreGS: A Parameter-Transfer-Based Multi-Expert Graph Neural Network for Node Classification](https://arxiv.org/abs/2609.26310v1)** | 2026-09-22 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 7 tables</p></details> |
 | **[CacheDyG: Decoupling Temporal Propagation for Efficient Dynamic Graph Learning](https://arxiv.org/abs/2609.25814v1)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted at ADMA 2026. 17 pages, 3 figures</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[GraphToolbox: A Configurable Python Framework for Graph Neural Network Forecasting](https://arxiv.org/abs/2609.24609v1)** | 2026-09-21 |  |
 | **[SiST-GNN: Simultaneous Spatial-Temporal Message Passing for Dynamic Graph Representation Learning](https://arxiv.org/abs/2605.25548v2)** | 2026-09-21 |  |
 | **[Reforge: Low-Latency Distributed GNN Serving with Selective Embedding Recomputation](https://arxiv.org/abs/2501.08547v2)** | 2026-09-21 | <details><summary>Exten...</summary><p>Extended version of the IPDPS'26 paper (https://doi.org/10.1109/IPDPS65963.2026.00071)</p></details> |
-| **[Temporal Generalization and Explanation Stability of Control Flow Graph Neural Networks for Malware Detection](https://arxiv.org/abs/2609.24280v1)** | 2026-09-21 | <details><summary>47 pa...</summary><p>47 pages, 9 figures, 17 tables. Code available at https://github.com/Ho9pe/TG-CFG</p></details> |
-| **[Learning to Maximize Energy Efficiency in 6G in-X Subnetworks](https://arxiv.org/abs/2609.24263v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted in IEEE VTC Fall 2026</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
