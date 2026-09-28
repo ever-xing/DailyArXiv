@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 27, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning](https://arxiv.org/abs/2609.30258v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement](https://arxiv.org/abs/2608.31046v2)** | 2026-09-24 | 23 pages, 14 figures |
-| **[Learning Generalizable Behaviors for Terminal Agents](https://arxiv.org/abs/2608.22631v3)** | 2026-09-24 |  |
-| **[PoEM: Predicting RL Outcomes from Existing Policies](https://arxiv.org/abs/2609.30226v1)** | 2026-09-24 |  |
-| **[Learning the Maximum Tolerated Dose for Continuous Toxicity via Monotone Bayesian Trees](https://arxiv.org/abs/2609.30190v1)** | 2026-09-24 |  |
-| **[Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search](https://arxiv.org/abs/2609.30177v1)** | 2026-09-24 |  |
-| **[Learning and interpreting policies for simultaneous entanglement requests in quantum networks](https://arxiv.org/abs/2609.30157v1)** | 2026-09-24 |  |
-| **[Graph-Based Inference and Topology-Aware Multi-Agent Reinforcement Learning for Large-Scale Railway Network Management](https://arxiv.org/abs/2609.30150v1)** | 2026-09-24 |  |
-| **[MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilation Pipeline](https://arxiv.org/abs/2609.30104v1)** | 2026-09-24 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 1 table</p></details> |
-| **[Self-Play Pretraining with Zero Data](https://arxiv.org/abs/2609.30063v1)** | 2026-09-24 | <details><summary>AC, K...</summary><p>AC, KD, and MYL contributed equally; authors are listed alphabetically</p></details> |
-| **[Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](https://arxiv.org/abs/2606.31825v2)** | 2026-09-24 |  |
-| **[SciWalker: Synthesizing Scientific Coding Problems with Operator Graphs and Execution Feedback](https://arxiv.org/abs/2609.30054v1)** | 2026-09-24 |  |
-| **[TEMA: Evidence-Grounded Temporal Question Answering in Multi-Turn Multi-Audio Dialogs](https://arxiv.org/abs/2609.30029v1)** | 2026-09-24 | 5 pages, 2 figures |
-| **[Beyond Forgetting: Diagnosing and Harnessing Shared Reasoning in Continual RLVR](https://arxiv.org/abs/2608.18574v3)** | 2026-09-24 |  |
-| **[Res-HIL: Human-Guided Residual Reinforcement Learning for Sample-Efficient Dexterous Manipulation](https://arxiv.org/abs/2609.30023v1)** | 2026-09-24 |  |
+| **[Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](https://arxiv.org/abs/2609.31619v1)** | 2026-09-25 |  |
+| **[Critic Architecture Matters: Dual vs. Unified Critics for Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.11891v3)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted at the ICRA 2026 Workshop on Reinforcement Learning in the Era of Imitation Learning (RL4IL), Vienna. 7 pages, 2 figures. v3 fixes the workshop name and the unified run's description; with its own fingers driven, the standing-mode gap falls from 3.5x/2x to 1.3x/1.1x (speed/throughput; one re-evaluation). No retraining. https://mturan33.github.io/critic-architecture-matters/</p></details> |
+| **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642v2)** | 2026-09-25 |  |
+| **[SLMFix: Leveraging Small Language Models for Domain Specific Language Error Fixing with Reinforcement Learning](https://arxiv.org/abs/2511.19422v2)** | 2026-09-25 |  |
+| **[HySTAR: Anchored Hypergraphs for Stable Credit Assignment in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2609.31531v1)** | 2026-09-25 |  |
+| **[AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation](https://arxiv.org/abs/2609.29816v2)** | 2026-09-25 | 22 pages |
+| **[Genetic Algorithms with Optimization Guided Operators](https://arxiv.org/abs/2606.12279v2)** | 2026-09-25 | <details><summary>Added...</summary><p>Added references to the literature, other small changes</p></details> |
+| **[Topology-Driven Anti-Entanglement Control for Soft Robots](https://arxiv.org/abs/2605.05236v2)** | 2026-09-25 | <details><summary>This ...</summary><p>This submission is withdrawn by the authors for substantial revisions</p></details> |
+| **[Adaptive Switching Between Leader-Based and Leaderless BFT Protocols](https://arxiv.org/abs/2609.31388v1)** | 2026-09-25 |  |
+| **[A Support-Enhanced Granular-Jamming Gripper for RL-based Grasping with Continuum Manipulators](https://arxiv.org/abs/2609.29093v2)** | 2026-09-25 | 8 pages, 10 figures |
+| **[CODESKILL: Learning Self-Evolving Skills for Coding Agents](https://arxiv.org/abs/2605.25430v2)** | 2026-09-25 |  |
+| **[See to Reach, Feel to Grasp: Learning A Blind Grasp Reflex for Anthropomorphic Robotic Hands](https://arxiv.org/abs/2609.31323v1)** | 2026-09-25 | <details><summary>https...</summary><p>https://blindgraspreflex.github.io</p></details> |
+| **[Dynamic Sampling for Telemetry in Microservices: A Reinforcement Learning and Entropy-Based Approach](https://arxiv.org/abs/2609.31292v1)** | 2026-09-25 | <details><summary>Submi...</summary><p>Submitted to the Journal of Network and Systems Management (under review)</p></details> |
+| **[G2MAF: Test-Time Gradient Guidance for Multi-Agent Flow Policies](https://arxiv.org/abs/2609.31286v1)** | 2026-09-25 | <details><summary>24 pa...</summary><p>24 pages, including appendices. Project page: https://g2maf.github.io/</p></details> |
+| **[Q-Probe: Scaling Image Quality Assessment to High Resolution via Context-Aware Agentic Probing](https://arxiv.org/abs/2601.15356v6)** | 2026-09-25 | NeurIPS 2026 |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaffold: Support Graph Theory Based Sparsification for Graph Neural Networks](https://arxiv.org/abs/2609.31466v1)** | 2026-09-25 |  |
+| **[Supervised Deep Multimodal Matrix Factorization for Interpretable Brain Network Analysis](https://arxiv.org/abs/2605.13312v2)** | 2026-09-25 |  |
+| **[Adaptive Interaction Graphs for Particle Simulation](https://arxiv.org/abs/2609.30822v1)** | 2026-09-25 | <details><summary>6 pag...</summary><p>6 pages, 3 figures. Presented at ICML 2026 Workshop on AI for Physics</p></details> |
+| **[MolLedger: An Additive Graph Neural Network with Chemically Grounded ADME Attributions](https://arxiv.org/abs/2608.30636v2)** | 2026-09-24 |  |
+| **[Neural Networks With Dense Weights Are Not Universal Approximators](https://arxiv.org/abs/2602.07618v7)** | 2026-09-24 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Also presented at the GFM Workshop, ICML 2026</p></details> |
+| **[Predicting Transmembrane Protein Topology from 3D Structure](https://arxiv.org/abs/2609.30446v1)** | 2026-09-24 |  |
 | **[GridSFM: A Foundation Model for Solving AC Optimal Power Flow](https://arxiv.org/abs/2609.30173v1)** | 2026-09-24 | 19 pages |
 | **[Graph-Based Inference and Topology-Aware Multi-Agent Reinforcement Learning for Large-Scale Railway Network Management](https://arxiv.org/abs/2609.30150v1)** | 2026-09-24 |  |
 | **[Reachability-Based Formal Verification of Graph Neural Networks with Node and Edge Features](https://arxiv.org/abs/2609.30079v1)** | 2026-09-24 |  |
 | **[NNV3: Expanding Neural Network Verification to New Architectures and Domains](https://arxiv.org/abs/2609.30050v1)** | 2026-09-24 |  |
+| **[Learning coarse-step dynamics and internal mechanical response with graph networks](https://arxiv.org/abs/2609.30344v1)** | 2026-09-24 |  |
 | **[TinyCardioUNet: IMU-to-ECG Translation with Graph-Encoded Inter-Axis Dependencies and Tensor Decomposition-Based Parameter Reduction](https://arxiv.org/abs/2609.29322v1)** | 2026-09-24 | <details><summary>The s...</summary><p>The source code and pretrained models are available at https://github.com/ttlabtuat/TinyCardioUNet</p></details> |
 | **[TrafficFab: An Autonomic Edge-Cloud Testbed Fabric forAI-Driven Traffic Management](https://arxiv.org/abs/2609.29223v1)** | 2026-09-24 |  |
 | **[Spectral Graph Neural Networks with Hermite Polynomials: A Comprehensive Study](https://arxiv.org/abs/2609.28979v1)** | 2026-09-24 |  |
 | **[The Mechanics of Delta Learning: Target Design for Generalizable Scientific Machine Learning](https://arxiv.org/abs/2609.28782v1)** | 2026-09-23 | <details><summary>41 pa...</summary><p>41 pages, including 24 pages of Supplementary Information; 4 main-text figures</p></details> |
-| **[A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops](https://arxiv.org/abs/2309.10164v3)** | 2026-09-23 |  |
-| **[Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory](https://arxiv.org/abs/2604.09320v6)** | 2026-09-23 | <details><summary>Main ...</summary><p>Main text: 24 pages, 11 figures, and 1 table. Supplementary Materials: 27 pages, 6 figures, 15 tables, 4 pseudo-algorithms</p></details> |
-| **[Learning to Approximate Uniform Facility Location via Graph Neural Networks](https://arxiv.org/abs/2602.13155v3)** | 2026-09-23 | ICML 2026 |
-| **[Curriculum Learning with GNN-based Reinforcement Learning for Job Shop Scheduling](https://arxiv.org/abs/2609.28085v1)** | 2026-09-23 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the IEEE 10th International Conference on Computational Systems and Information Technology for Sustainable Solutions (CSITSS 2026)</p></details> |
-| **[SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion](https://arxiv.org/abs/2609.28553v1)** | 2026-09-23 |  |
-| **[Scalable Subgraph Sampling via Resistance Curvature](https://arxiv.org/abs/2609.27209v1)** | 2026-09-23 |  |
-| **[Does Graph Structure Earn Its Place in Microservice Root-Cause Analysis? A Controlled Study on RCAEval, and What the Benchmark Was Really Measuring](https://arxiv.org/abs/2609.27069v1)** | 2026-09-22 | <details><summary>17 pa...</summary><p>17 pages; preprint published at Zenodo, DOI 10.5281/zenodo.22832168</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
