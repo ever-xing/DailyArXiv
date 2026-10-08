@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[QF3: Fast Flow RL with Filtered Q-Gradients](https://arxiv.org/abs/2610.08789v1)** | 2026-10-06 | <details><summary>Proje...</summary><p>Project page: https://qf3-rl.github.io/</p></details> |
-| **[PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation](https://arxiv.org/abs/2610.08784v1)** | 2026-10-06 | <details><summary>9 pag...</summary><p>9 pages, 4 figures. Project website: https://song-kun.github.io/pears</p></details> |
-| **[IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas](https://arxiv.org/abs/2610.08781v1)** | 2026-10-06 |  |
-| **[Sherpa: Teaching LLMs to Teach Adaptively](https://arxiv.org/abs/2610.08778v1)** | 2026-10-06 | <details><summary>32 pa...</summary><p>32 pages, 6 figures. Code and model are available at https://github.com/SALT-NLP/Sherpa</p></details> |
-| **[Reinforcement Learning over Predictive Distributions for LLM Regression](https://arxiv.org/abs/2605.20740v2)** | 2026-10-06 | 27 pages, 7 figures |
-| **[Reinforcement Learning with Conformal Action Sets: An Application to Sequential Recommendation](https://arxiv.org/abs/2610.08743v1)** | 2026-10-06 |  |
-| **[Improving Diversity in LLM Short Story Generation](https://arxiv.org/abs/2610.06729v2)** | 2026-10-06 |  |
-| **[PrimitiveCAD: An LLM-Based Point-to-CAD Reconstruction with Primitive-Aware Tokenization and Operation Alignment](https://arxiv.org/abs/2610.08698v1)** | 2026-10-06 |  |
-| **[MSPR: Multi-scale Predictive Representations for Goal-conditioned Reinforcement Learning](https://arxiv.org/abs/2605.09364v2)** | 2026-10-06 |  |
-| **[Selective Transfer of RL Updates for Visual Reasoning](https://arxiv.org/abs/2610.08659v1)** | 2026-10-06 |  |
-| **[RIWANav: Recursive World-Action Models with Self-Improvement for Urban Navigation](https://arxiv.org/abs/2610.08640v1)** | 2026-10-06 |  |
-| **[Reinforcement Learning for Hierarchical Reasoning Rewards: Minimax-Optimal Rates with Transformers](https://arxiv.org/abs/2610.08561v1)** | 2026-10-06 |  |
-| **[PertMind: Eliciting Emergent Biological Reasoning in LLM via Reinforcement Learning on Cellular Perturbation Data](https://arxiv.org/abs/2608.16419v3)** | 2026-10-06 | <details><summary>Proje...</summary><p>Project page: https://shapsider.github.io/PertMind/</p></details> |
-| **[NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](https://arxiv.org/abs/2610.08430v1)** | 2026-10-06 | <details><summary>The c...</summary><p>The code is open-sourced in NVIDIA NeMo RL PR #2444 at https://github.com/NVIDIA-NeMo/RL/pull/2444</p></details> |
-| **[The Terminal Representation in Reinforcement Learning](https://arxiv.org/abs/2605.31289v3)** | 2026-10-06 |  |
+| **[Decoupling Exploration from Optimization in RLVR](https://arxiv.org/abs/2610.10536v1)** | 2026-10-07 | <details><summary>20 pa...</summary><p>20 pages, 16 figures, 9 tables. Code: https://github.com/SaifPunjwani/Exploration-Distillation. Checkpoints: https://huggingface.co/SaifPunjwani/expdis-checkpoints</p></details> |
+| **[HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion](https://arxiv.org/abs/2610.10489v1)** | 2026-10-07 |  |
+| **[MORCA: Offline-to-Online Reinforcement Learning for Adaptive Cache Reuse in Video Diffusion Acceleration](https://arxiv.org/abs/2610.10457v1)** | 2026-10-07 | 22 pages, 8 figures |
+| **[A Good Self-Teacher Meets the Student Where They Are: Joint On-Policy Learning and Teaching](https://arxiv.org/abs/2610.10447v1)** | 2026-10-07 |  |
+| **[CoTrace: Data Recipes for Training Terminal Agents with Harness-Model Co-Evolution](https://arxiv.org/abs/2610.10426v1)** | 2026-10-07 | <details><summary>Prepr...</summary><p>Preprint. 32 pages, 7 figures, 17 tables</p></details> |
+| **[SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234v2)** | 2026-10-07 | NeurIPS 2026 |
+| **[Which Rollout Taught It That? BehaviorTrace and the Limits of Training-Data Attribution in Online RL](https://arxiv.org/abs/2610.10422v1)** | 2026-10-07 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 4 tables. Code and data: https://github.com/AmitoVrito/BehaviorTrace</p></details> |
+| **[SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions](https://arxiv.org/abs/2610.10407v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Agenthon Workshop</p></details> |
+| **[Reinforcement Learning for Code Optimization](https://arxiv.org/abs/2607.25970v2)** | 2026-10-07 | 126 pages |
+| **[Average-Reward Reinforcement Learning for Multichain MDPs: A Hierarchical Decomposition Approach](https://arxiv.org/abs/2610.10326v1)** | 2026-10-07 | 60 pages, 4 figures |
+| **[Continual Graph Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2610.10302v1)** | 2026-10-07 |  |
+| **[Energy-Efficient Gait Adaptation via Hierarchical Reinforcement Learning for Quadrupedal Locomotion Across Diverse Terrains](https://arxiv.org/abs/2610.10297v1)** | 2026-10-07 | <details><summary>9 pag...</summary><p>9 pages. Submitted to IEEE ICRA 2027. Ammar Issa, Anubhav Singh, and Anton Tsaritsin contributed equally</p></details> |
+| **[OOM-RL: Out-of-Money Reinforcement Learning Market-Driven Alignment for LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2604.11477v2)** | 2026-10-07 | 14 pages, 3 figures |
+| **[Computations of the slice genus and the unknotting number of links via machine learning](https://arxiv.org/abs/2610.10206v1)** | 2026-10-07 | 72 pages, 34 figures |
+| **[VideoEvolve: Co-Evolving Memory and Retrieval for Long Video Understanding](https://arxiv.org/abs/2610.10183v1)** | 2026-10-07 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Auditing Privacy Risks in LLM-Enhanced Graph Neural Networks](https://arxiv.org/abs/2608.25727v2)** | 2026-10-07 |  |
+| **[Oscillatory Neural Dynamics over Sheaves](https://arxiv.org/abs/2610.10018v1)** | 2026-10-07 |  |
+| **[A PyTorch Library for Hyperspectral Image Models: Technical Report](https://arxiv.org/abs/2609.39871v3)** | 2026-10-07 | <details><summary>Docum...</summary><p>Documentation and benchmark library for hyperspectral image models</p></details> |
+| **[In-Context Residual Calibration for Uncertainty Quantification of Energy Time Series over Graphs](https://arxiv.org/abs/2606.31804v2)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations](https://arxiv.org/abs/2604.08295v4)** | 2026-10-07 |  |
+| **[Node-level Graph Neural Architecture Search Framework](https://arxiv.org/abs/2610.09297v1)** | 2026-10-07 |  |
+| **[EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks](https://arxiv.org/abs/2610.09059v1)** | 2026-10-06 | <details><summary>46 pa...</summary><p>46 pages, including references and appendices</p></details> |
+| **[Shared-Roadmap Generation and Evaluator for Multi-Agent Path Planning Using Heterogeneous Graph Neural Network](https://arxiv.org/abs/2610.09034v1)** | 2026-10-06 |  |
+| **[GridSFM: A Foundation Model for Solving AC Optimal Power Flow](https://arxiv.org/abs/2609.30173v2)** | 2026-10-06 | 19 pages |
 | **[Uncertainty Quantification Is Indispensable for Reliable Connectome-Based Graph Learning: A Narrative Review and Case Study](https://arxiv.org/abs/2610.08353v1)** | 2026-10-06 |  |
 | **[Which alloy composition,what process parameters? Inferring the recipe from optimized metallic microstructure and texture](https://arxiv.org/abs/2610.08165v1)** | 2026-10-06 |  |
 | **[A Critical Audit of Spatiotemporal Forecasting Benchmark Datasets and Models](https://arxiv.org/abs/2608.20980v2)** | 2026-10-06 |  |
 | **[Textual Environmental Context and Spatial Graphs for LLM-Based Regional SST Forecasting](https://arxiv.org/abs/2610.07895v1)** | 2026-10-06 | preprint |
 | **[Complementary Supervised and Self-Supervised Representations for Out-of-Distribution Graph Learning](https://arxiv.org/abs/2610.07628v1)** | 2026-10-06 |  |
 | **[Two-Sample Testing for Random Graphs without Vertex Correspondence](https://arxiv.org/abs/2610.07503v1)** | 2026-10-05 |  |
-| **[Neural Algorithmic Reasoning for Graph Saddle Point Problems](https://arxiv.org/abs/2610.07255v1)** | 2026-10-05 |  |
-| **[SeedER: Seed-Expand-Retrieve for Efficient Knowledge Graph Retrieval](https://arxiv.org/abs/2605.23753v2)** | 2026-10-05 |  |
-| **[Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs](https://arxiv.org/abs/2610.06685v1)** | 2026-10-05 |  |
-| **[Inverse Cross-spectral Neural Networks for Multivariate Time Series](https://arxiv.org/abs/2610.06630v1)** | 2026-10-05 |  |
-| **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v2)** | 2026-10-05 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
-| **[GPlaceRL: An Open-Source Graph Reinforcement Learning Framework for Detailed Placement](https://arxiv.org/abs/2610.06489v1)** | 2026-10-05 |  |
-| **[FairProp: Fair Node Representation Learning via Differentiable Propagation Layers](https://arxiv.org/abs/2610.06484v1)** | 2026-10-05 |  |
-| **[Stability-Shaped Deep Graph Learning](https://arxiv.org/abs/2610.06344v1)** | 2026-10-05 |  |
-| **[Modelling magnetic material properties with uncertainty-aware neural networks](https://arxiv.org/abs/2606.11870v2)** | 2026-10-05 | published |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
