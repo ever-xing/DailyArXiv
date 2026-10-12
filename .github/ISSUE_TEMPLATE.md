@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 11, 2026
+title: Latest 15 Papers - October 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration](https://arxiv.org/abs/2610.12470v1)** | 2026-10-08 | <details><summary>Proje...</summary><p>Project page: https://dex-one2many.github.io/</p></details> |
-| **[DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training](https://arxiv.org/abs/2610.12468v1)** | 2026-10-08 | <details><summary>proje...</summary><p>project page: https://brave-eai.github.io/DreamTrue; code: https://github.com/brave-eai/DreamTrue</p></details> |
-| **[A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](https://arxiv.org/abs/2610.12465v1)** | 2026-10-08 | <details><summary>CoRL ...</summary><p>CoRL 2026. Project website: https://sgs-rl.github.io/</p></details> |
-| **[Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation](https://arxiv.org/abs/2610.12440v1)** | 2026-10-08 |  |
-| **[MA-JEPA: Joint-Embedding World Models for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2609.33563v2)** | 2026-10-08 |  |
-| **[FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems](https://arxiv.org/abs/2610.12432v1)** | 2026-10-08 | 8 pages, 7 figures |
-| **[A Unified Bellman Operator for Safety-Critical Reinforcement Learning](https://arxiv.org/abs/2610.12420v1)** | 2026-10-08 |  |
-| **[AgentGarten: Code Worlds for Evolving Agents](https://arxiv.org/abs/2610.12374v1)** | 2026-10-08 | <details><summary>Proje...</summary><p>Project page: https://mirros-lab.github.io/agent-garten</p></details> |
-| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v2)** | 2026-10-08 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
-| **[Salesforce Koa: An Enterprise Language Model for Agentic Tool Use](https://arxiv.org/abs/2609.15066v2)** | 2026-10-08 | <details><summary>17 pa...</summary><p>17 pages, 1 figure, 11 tables</p></details> |
-| **[Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition](https://arxiv.org/abs/2610.12341v1)** | 2026-10-08 |  |
-| **[MIMESIS: Learning User Simulators as Training Environments for Interactive Agents](https://arxiv.org/abs/2610.09484v2)** | 2026-10-08 | <details><summary>Proje...</summary><p>Project page: https://viethoang1512.github.io/mimesis/</p></details> |
-| **[AgentFly: Scaling Agentic Reinforcement Learning with Unified Resource System](https://arxiv.org/abs/2507.14897v2)** | 2026-10-08 |  |
-| **[Deep reinforcement learning for optimal trading with partial information](https://arxiv.org/abs/2511.00190v2)** | 2026-10-08 |  |
-| **[HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments](https://arxiv.org/abs/2610.12274v1)** | 2026-10-08 |  |
+| **[Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning](https://arxiv.org/abs/2610.13923v1)** | 2026-10-09 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 4 tables. Presented at the 77th International Astronautical Congress (IAC 2026), Antalya, Turkey, 5-9 October 2026. Paper ID: IAC-26-B2.5.8-x113206</p></details> |
+| **[ResidencyRL: Reinforcement Learning in Simulated Clinical Environments](https://arxiv.org/abs/2608.07418v2)** | 2026-10-09 | Update references |
+| **[Partially Informed Stochastic Optimization via Zeroth-Order Residual Tracking](https://arxiv.org/abs/2610.13871v1)** | 2026-10-09 |  |
+| **[Can Language Models Learn When to Abstain? Policy Learning and Calibrated Answer Selection](https://arxiv.org/abs/2610.13821v1)** | 2026-10-09 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, 10 tables</p></details> |
+| **[Beyond State-Wise Mirror Descent: Offline Policy Optimization with Parametric Policies](https://arxiv.org/abs/2602.23811v5)** | 2026-10-09 |  |
+| **[Dream to Remember: Continual Steering of Generalist Robot Policies with World Models](https://arxiv.org/abs/2610.13816v1)** | 2026-10-09 |  |
+| **[SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models](https://arxiv.org/abs/2610.13781v1)** | 2026-10-09 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/SimVTA/</p></details> |
+| **[MARGoS: A Configuration-Driven Platform for Reproducible MARL Experiments in ARGoS](https://arxiv.org/abs/2610.13772v1)** | 2026-10-09 | <details><summary>Submi...</summary><p>Submitted version (prior to peer review) of a paper published in the VARIABILITY 2026 Satellite Events proceedings (Project Showcase Track), LNCS 17104, Springer. 11 pages, 3 figures, 3 tables</p></details> |
+| **[Multi-Harness Reinforcement Learning for Coding Agents: Training Gains and Harness Dependence](https://arxiv.org/abs/2609.04518v2)** | 2026-10-09 |  |
+| **[SafeDiSTL: Decomposing Joint Constraints for Safe Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2610.13737v1)** | 2026-10-09 |  |
+| **[Sampling-Based Safe Reinforcement Learning](https://arxiv.org/abs/2605.19469v2)** | 2026-10-09 |  |
+| **[DIA: A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming](https://arxiv.org/abs/2610.13698v1)** | 2026-10-09 |  |
+| **[Deep End-to-End Survival Analysis with Temporal Consistency](https://arxiv.org/abs/2410.06786v2)** | 2026-10-09 |  |
+| **[A Critical Look at Power Sampling when Test Time Sharpening LLMs](https://arxiv.org/abs/2610.13653v1)** | 2026-10-09 |  |
+| **[Physics-guided surrogate learning enables zero-shot control of turbulent wings](https://arxiv.org/abs/2604.09434v3)** | 2026-10-09 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Amortized Counterfactual Prediction with Graph Neural Networks](https://arxiv.org/abs/2610.13724v1)** | 2026-10-09 |  |
+| **[Hierarchical Graph Neural Network for Probabilistic Power Flow with Grid Topology Contingencies](https://arxiv.org/abs/2610.13495v1)** | 2026-10-09 |  |
+| **[Do Deep Ensembles Actually Capture Uncertainty in Graph Neural Networks?](https://arxiv.org/abs/2605.22593v2)** | 2026-10-09 |  |
+| **[Multi-Modal Graph Neural Network-Inspired Vessel Identification and Tracking for UAV-Based Maritime Surveillance](https://arxiv.org/abs/2610.13220v1)** | 2026-10-09 |  |
+| **[Mesh-Native Tokenisation: Retrofitting Foundation Models to Unstructured Data](https://arxiv.org/abs/2610.12618v1)** | 2026-10-08 |  |
 | **[How Much Does Message Passing Matter? A Drop-In Study of GNN Layers for Neural Network Graph Regression](https://arxiv.org/abs/2607.26404v2)** | 2026-10-08 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 25 tables</p></details> |
 | **[Using Weisfeiler-Leman Features for Algorithm Selection in Constraint Optimisation](https://arxiv.org/abs/2610.12119v1)** | 2026-10-08 |  |
 | **[MPGE: A Multi-Perspective Graph Explainer for Molecular Classification Explanation](https://arxiv.org/abs/2610.12039v1)** | 2026-10-08 |  |
@@ -36,11 +41,6 @@ labels: documentation
 | **[Automated Detection of Match Phases in Football from Spatio-Temporal Tracking Data Using Graph Neural Networks](https://arxiv.org/abs/2610.11571v1)** | 2026-10-08 |  |
 | **[$C_4$-Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation](https://arxiv.org/abs/2610.11549v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 workshops on Representations for the Physical Sciences and Geometric Distributional Deep Learning. 12 pages, 2 figures, 1 table</p></details> |
 | **[Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering](https://arxiv.org/abs/2610.11506v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026 Oral)</p></details> |
-| **[Topology-Aware Cooperative Beam-Hopping Scheduling for Efficient Resource Allocation in LEO Satellite Systems](https://arxiv.org/abs/2610.11103v1)** | 2026-10-08 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, accepted</p></details> |
-| **[Identifying the Group to Intervene on to Maximize Effect Under Cross-Group Interference](https://arxiv.org/abs/2603.11059v3)** | 2026-10-08 | <details><summary>10 pa...</summary><p>10 pages; ICDM 2026 camera-ready version; revised text, added real-outcome validation, and updated references</p></details> |
-| **[A Graph Neural Network for Global Daily Fire Radiative Power Prediction at Medium-Range Lead Times](https://arxiv.org/abs/2610.11022v1)** | 2026-10-08 | <details><summary>Submi...</summary><p>Submitted to Artificial Intelligence for the Earth Systems</p></details> |
-| **[NEMORA: Neural Equivariant Multipole Operators for Long-Range Atomistic Learning](https://arxiv.org/abs/2610.10776v1)** | 2026-10-07 | <details><summary>59 pa...</summary><p>59 pages, 5 figures, including supplementary material</p></details> |
-| **[Auditing Privacy Risks in LLM-Enhanced Graph Neural Networks](https://arxiv.org/abs/2608.25727v2)** | 2026-10-07 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
