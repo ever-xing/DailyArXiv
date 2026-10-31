@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 30, 2026
+title: Latest 15 Papers - October 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Timbre: Reliability-aware harmonic consensus for label-free multimodal test-time rexinforcement learning](https://arxiv.org/abs/2610.39439v1)** | 2026-10-29 |  |
-| **[Safe Multi-Objective Reinforcement Learning: Zero Constraint Violation and Primal-Averaging Convergence](https://arxiv.org/abs/2610.39409v1)** | 2026-10-29 |  |
-| **[MRC-MMAgent: Reinforcement Learning for Multi-Role Collaboration in Multimodal Tool-Using Agents](https://arxiv.org/abs/2610.39324v1)** | 2026-10-29 |  |
-| **[The Hitchhiker's Guide to System 1 Models: Fast Decision-Making Beyond LLMS](https://arxiv.org/abs/2610.33775v2)** | 2026-10-29 | <details><summary>versi...</summary><p>version 1.1 - fixes to references/some content fixes</p></details> |
-| **[There Is No Free Lunch in RLVR: Every pass@1 Gain Has a pass@k Price](https://arxiv.org/abs/2610.39295v1)** | 2026-10-29 | <details><summary>19 pa...</summary><p>19 pages, 4 figures. Code and verification package (34/34 automated checks): https://github.com/yliusci/no-free-lunch-rlvr</p></details> |
-| **[DeCoRL: Decomposed Consistency Reinforcement Learning for Multi-Image Composition](https://arxiv.org/abs/2610.39265v1)** | 2026-10-29 | NeurIPS |
-| **[Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](https://arxiv.org/abs/2610.39264v1)** | 2026-10-29 |  |
-| **[Grounding Multimodal Reasoning with Evidence-Ablated Negatives](https://arxiv.org/abs/2610.39237v1)** | 2026-10-29 | NeurIPS2026 |
-| **[A Sequential Decision Framework for Evaluating LLM-Guided Search](https://arxiv.org/abs/2610.39231v1)** | 2026-10-29 |  |
-| **[Event2Reward: Learning Robotic Rewards from Progress Relations](https://arxiv.org/abs/2610.39212v1)** | 2026-10-29 | <details><summary>44 pa...</summary><p>44 pages, including references and appendices</p></details> |
-| **[Reasoning or Pattern Exploitation? Mechanistic Insights from RL-Trained Language Models](https://arxiv.org/abs/2610.39182v1)** | 2026-10-29 |  |
-| **[STRATA: Reinforcement-driven Active Sampling with Tri-paradigm Adaptation for Efficient 3D Spatial Transcriptomics](https://arxiv.org/abs/2610.39151v1)** | 2026-10-29 |  |
-| **[Appreciation Teaches Unauthorized Execution: Self-Evolution Degrades the Robustness of Personal Agents to Indirect Prompt Injection](https://arxiv.org/abs/2610.39122v1)** | 2026-10-29 |  |
-| **[Robotic Data Inoculation](https://arxiv.org/abs/2610.39054v1)** | 2026-10-28 |  |
-| **[Reinforcement Learning for the Game of Balatro: A Fast Simulator and Two-Policy Training Approach](https://arxiv.org/abs/2610.39049v1)** | 2026-10-28 | <details><summary>Accep...</summary><p>Accepted at EXAG 2026 (AIIDE Workshop on Experimental AI in Games)</p></details> |
+| **[ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](https://arxiv.org/abs/2610.40627v1)** | 2026-10-29 |  |
+| **[One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents](https://arxiv.org/abs/2609.23377v2)** | 2026-10-29 | <details><summary>47 pa...</summary><p>47 pages, 12 figures. v2: added evaluations on SWE-bench Pro (731 tasks), SWE-bench Pro V2/Hard-51, and LiveCodeBench v6 (175 tasks); updated SWE-bench Multilingual results; added 35B-A3B student experiments. Code: https://github.com/alibaba/AgenticBigBang</p></details> |
+| **[VeriCUA: Verification as Agentic Exploration for Computer-Using Agents](https://arxiv.org/abs/2610.40578v1)** | 2026-10-29 | Work in progress |
+| **[PIVOT: Progressive Intervention via Online Teacher Correction](https://arxiv.org/abs/2610.40576v1)** | 2026-10-29 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 6 tables. Project page: https://zhihaoyang30.github.io/PIVOT/</p></details> |
+| **[Training Foundation Models with a Single Algorithm](https://arxiv.org/abs/2610.40564v1)** | 2026-10-29 | <details><summary>67 pa...</summary><p>67 pages, 31 figures, 22 tables</p></details> |
+| **[Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training](https://arxiv.org/abs/2610.07510v3)** | 2026-10-29 | EMNLP 2026 Findings |
+| **[Towards Batch-to-Streaming Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/2603.08588v3)** | 2026-10-29 |  |
+| **[Training language models in simulation for psychiatric intake](https://arxiv.org/abs/2610.40476v1)** | 2026-10-29 | <details><summary>76 pa...</summary><p>76 pages, 8 figures, 15 tables (27 pages main text, 7 main figures, 2 main tables)</p></details> |
+| **[Reinforcement learning for control of partial differential equations](https://arxiv.org/abs/2610.40449v1)** | 2026-10-29 |  |
+| **[Uncertainty-aware Feedback Loop Diagnosis: integrating reinforcement learning and conformal prediction for reliable wafer defect classification](https://arxiv.org/abs/2610.40421v1)** | 2026-10-29 |  |
+| **[BR-MoE: Budgeted Semantic Release for Privacy-Preserving Traffic Analytics](https://arxiv.org/abs/2610.27026v2)** | 2026-10-29 |  |
+| **[CALM: Decentralized Control of Cooperative Aerial Manipulation with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2610.18425v2)** | 2026-10-29 | 8 pages |
+| **[SCARL: Sequence Confidence-Aligned Reinforcement Learning](https://arxiv.org/abs/2610.40407v1)** | 2026-10-29 |  |
+| **[Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning](https://arxiv.org/abs/2604.18978v3)** | 2026-10-29 | <details><summary>2026 ...</summary><p>2026 Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
+| **[Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.12655v4)** | 2026-10-29 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Atlanta Poster</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bridging Semantics and Structure: A Theoretically Grounded Framework for Link Prediction on TAGs](https://arxiv.org/abs/2610.40192v1)** | 2026-10-29 | <details><summary>33 pa...</summary><p>33 pages. Accepted for publication in ACM Transactions on Knowledge Discovery from Data (TKDD)</p></details> |
+| **[Incorporating graph neural network into route choice model](https://arxiv.org/abs/2503.02315v3)** | 2026-10-29 |  |
+| **[MUG: Multi-human Graph Network for 3D Mesh Reconstruction from 2D Pose](https://arxiv.org/abs/2205.12583v4)** | 2026-10-29 | <details><summary>Publi...</summary><p>Published in International Journal of Computer Vision (IJCV)</p></details> |
 | **[Deciding two-variable logic with global and local Presburger quantification](https://arxiv.org/abs/2610.39108v1)** | 2026-10-29 |  |
 | **[Open-World Object Motion Anticipation via Meta-Learned Semantic Adaptation](https://arxiv.org/abs/2610.38993v1)** | 2026-10-28 | 9 pages, 7 figures |
 | **[Benchmarking Graph Neural Networks for AC Power Flow: The Role of Inductive Biases and Physical Constraints](https://arxiv.org/abs/2610.38985v1)** | 2026-10-28 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Scalable Message-Passing Quantum Graph Neural Networks in the Weisfeiler-Leman Hierarchy](https://arxiv.org/abs/2606.26873v2)** | 2026-10-27 | <details><summary>10 pa...</summary><p>10 pages, 4 figures (main text); 35 pages, 9 figures, 14 tables including Supplementary Information. Code available at https://github.com/SnehalRaj/mp-qgnns</p></details> |
 | **[Spectral Braids: A Topological Descriptor for Dynamic Directed Networks](https://arxiv.org/abs/2610.37580v1)** | 2026-10-27 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 2 tables. Accepted at the 2026 IEEE International Conference on Big Data (IEEE BigData 2026)</p></details> |
 | **[GTFormer: A Syntax-Free Graph Network Alternative to Transformers for 8192$\times$ Length Extrapolation in Linear Time](https://arxiv.org/abs/2610.37524v1)** | 2026-10-27 | 20 pages |
-| **[Graph Representation Learning via Adaptive Expectile Aggregation](https://arxiv.org/abs/2610.37450v1)** | 2026-10-27 |  |
-| **[Retrieve to Act: Motion Primitive Graph Retrieval for Robust VLA Execution](https://arxiv.org/abs/2610.37215v1)** | 2026-10-27 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 7 tables</p></details> |
-| **[Flowette: Flow Matching with Graphette Priors for Graph Generation](https://arxiv.org/abs/2602.23566v5)** | 2026-10-27 | 61 Pages |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
