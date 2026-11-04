@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2026
+title: Latest 15 Papers - November 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Direct Knowledge Transfer for Offline Q-Learning](https://arxiv.org/abs/2611.01942v1)** | 2026-11-01 |  |
-| **[Bayesian Offline Multi-Agent Reinforcement Learning with Latent World Models](https://arxiv.org/abs/2610.39576v2)** | 2026-11-01 |  |
-| **[Autonomous fixed-wing interception using reinforcement learning](https://arxiv.org/abs/2610.37470v2)** | 2026-11-01 | <details><summary>MSc t...</summary><p>MSc thesis, Faculty of Aerospace Engineering, Delft University of Technology, 2026. 24 pages, 29 figures, 4 tables</p></details> |
-| **[Don't Guess, Ask Wisely: Benchmarking and Training Proactive Elicitation in Open-Domain LLM Conversations](https://arxiv.org/abs/2611.01878v1)** | 2026-11-01 | <details><summary>26 pa...</summary><p>26 pages, 6 figures; EMNLP 2026 oral</p></details> |
-| **[MATE: Multi-Agent Traffic Engineering for Topology-Aware Distributed SRv6 Scheduling under Bursty Traffic](https://arxiv.org/abs/2611.01831v1)** | 2026-11-01 | <details><summary>16 pa...</summary><p>16 pages, 15 figures, 5 tables, and submitted to IEEE journal for potential publication</p></details> |
-| **[Silent Reward and Environment Defects in EV Charging Simulation Benchmarks: A Diagnostic Checklist](https://arxiv.org/abs/2611.01769v1)** | 2026-11-01 | <details><summary>14 pa...</summary><p>14 pages, 2 figures. Accepted for publication in Bulletin of Electrical Engineering and Informatics (BEEI), ISSN 2089-3191, e-ISSN 2302-9285 (accepted 8 September 2026; in press)</p></details> |
-| **[A Deep Reinforcement Learning Framework for Real-Time Electric Vehicle Charging Management in IoEV-Enabled Smart Cities](https://arxiv.org/abs/2611.01751v1)** | 2026-11-01 | <details><summary>17 pa...</summary><p>17 pages, 4 figures. Authors' accepted manuscript (paper ID 733916, AI2SD 2026 cycle), to appear in an indexed Springer Lecture Notes in Networks and Systems volume. Earlier preprint version deposited on Zenodo: https://doi.org/10.5281/zenodo.22208979</p></details> |
-| **[From Single-Agent Self-Discovery to Multi-Agent Adaptation: Scaling Laws of Partner Feedback and Convention Rigidity in Meta Reinforcement Learning Algorithms](https://arxiv.org/abs/2611.01742v1)** | 2026-11-01 | <details><summary>71 pa...</summary><p>71 pages, 8 figures, 28 tables</p></details> |
-| **[Agentic AI in Automated Markets](https://arxiv.org/abs/2610.22522v2)** | 2026-11-01 | 16 pages |
-| **[ODE Policy: Robot Learning via Action Dynamics, Not Actions](https://arxiv.org/abs/2611.01729v1)** | 2026-11-01 | 35 pages, 23 figures |
-| **[Mean Field Reinforcement Learning: Theory and Algorithms for Mean Field Control](https://arxiv.org/abs/2607.01525v2)** | 2026-11-01 |  |
-| **[Beyond Validation Loss: Coverage and Reliability Dynamics in Robot Policy Pretraining](https://arxiv.org/abs/2611.01565v1)** | 2026-11-01 |  |
-| **[Cross-Behavior Policy Optimization: Unified Learning from Offline Demonstrations and On- and Off-Policy Rollouts via a Shared Regression Target](https://arxiv.org/abs/2610.12830v2)** | 2026-11-01 |  |
-| **[Improved Sample Complexity Analysis For First Order Bilevel Reinforcement Learning](https://arxiv.org/abs/2611.01500v1)** | 2026-11-01 |  |
-| **[Rubric-Guided Process Reward for Stepwise Model Routing](https://arxiv.org/abs/2605.29310v3)** | 2026-11-01 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, accepted to EMNLP 2026 Main</p></details> |
+| **[Training Specialist LLMs on Your Phone: Forward-Only Optimization via Block-Spectral Coordinates](https://arxiv.org/abs/2611.04797v1)** | 2026-11-03 | <details><summary>27 pa...</summary><p>27 pages, 11 figures, 15 tables</p></details> |
+| **[Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional Sampling](https://arxiv.org/abs/2611.04792v1)** | 2026-11-03 |  |
+| **[ReSI-Math: Exploring Recoverable Capability Frontiers for Efficient Reasoning Improvement](https://arxiv.org/abs/2611.04787v1)** | 2026-11-03 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 14 tables. Project page: https://cnu-bot-group.github.io/ReSI-Math/</p></details> |
+| **[The Cost of Mismatch: Noise Amplification in Zeroth-Order Reinforcement Learning](https://arxiv.org/abs/2611.03260v2)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (Poster). Code is available at https://github.com/lianmin-chen/the_cost_of_mismatch</p></details> |
+| **[Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards](https://arxiv.org/abs/2611.04774v1)** | 2026-11-03 |  |
+| **[OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer](https://arxiv.org/abs/2611.04720v1)** | 2026-11-03 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 11 tables</p></details> |
+| **[BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery](https://arxiv.org/abs/2611.04717v1)** | 2026-11-03 |  |
+| **[Terminal Fano 4-fold Hypersurfaces via Deep Reinforcement Learning](https://arxiv.org/abs/2603.15437v2)** | 2026-11-03 | <details><summary>12 pa...</summary><p>12 pages, 11 figures, 5 tables. v2: Certified the terminality of the discovered families, added an ablation study, and revised the experimental results</p></details> |
+| **[Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation](https://arxiv.org/abs/2607.14962v3)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted to WACV 2027. 24 pages, 13 figures, 19 tables. Code: https://github.com/KuOnoda/multi-axis-maxk</p></details> |
+| **[Axion 1.0: Open Agent Foundation Models, Simplified](https://arxiv.org/abs/2611.03233v2)** | 2026-11-03 |  |
+| **[Self-Privileged Fine-Tuning](https://arxiv.org/abs/2611.04632v1)** | 2026-11-03 |  |
+| **[Large Multimodal Models for Embodied Intelligent Driving: Enabling the Next Generation of Autonomous Mobility](https://arxiv.org/abs/2601.08434v4)** | 2026-11-03 |  |
+| **[From Individual Learning to Market Equilibrium: Correcting Structural and Parametric Biases in RL Simulations of Economic Models](https://arxiv.org/abs/2507.18229v3)** | 2026-11-03 |  |
+| **[Policy Network Diffusion](https://arxiv.org/abs/2611.04614v1)** | 2026-11-03 |  |
+| **[CANDO: Conservative Action-Noise Directional Optimization for Residual Reinforcement Learning](https://arxiv.org/abs/2611.04543v1)** | 2026-11-03 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Does It Mean to Remove an Edge? Intervention-Aware Fidelity for Graph Neural Network Explanations](https://arxiv.org/abs/2611.04751v1)** | 2026-11-03 | <details><summary>15 pa...</summary><p>15 pages, 2 figures. Under review</p></details> |
+| **[Sheaf-MPNN: A Library for Sheaf Neural Networks as Message Passing](https://arxiv.org/abs/2611.04670v1)** | 2026-11-03 |  |
+| **[Leakage-free evaluation of residual graph convolutional networks for network intrusion detection](https://arxiv.org/abs/2611.04660v1)** | 2026-11-03 |  |
+| **[Theory-guided relational learning for data product pricing: An interpretable meta-path-guided graph neural network approach](https://arxiv.org/abs/2611.04508v1)** | 2026-11-03 |  |
+| **[LENS: Reliability-Aware Stock Prediction via LLM-Extracted Priors and News-Driven Semantic Graphs](https://arxiv.org/abs/2611.04217v1)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026. 12 pages, 3 figures</p></details> |
+| **[RGDM: Robust Graph Diffusion Model](https://arxiv.org/abs/2611.04146v1)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[Certifying Graph Neural Networks Against Label and Structure Poisoning](https://arxiv.org/abs/2611.03350v1)** | 2026-11-02 | <details><summary>Publi...</summary><p>Published at the International Conference on Machine Learning (ICML) 2026</p></details> |
+| **[Resilient Cell-Free MIMO ISAC Under Uncertainties: An Impairment-Aware Graph Neural Network Framework](https://arxiv.org/abs/2611.03054v1)** | 2026-11-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table, submitted to IEEE ICC 2027</p></details> |
+| **[Control Foundation Models across Changing Block Diagrams: Generalizing Time-Series Prediction to Dynamic Graphs](https://arxiv.org/abs/2611.02900v1)** | 2026-11-02 |  |
+| **[Knowledge Based Wind Turbine Gearbox Fault Detection Using Sparse Filtering and Graph Neural Networks](https://arxiv.org/abs/2303.03496v2)** | 2026-11-02 |  |
+| **[GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights](https://arxiv.org/abs/2406.16715v4)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Datasets & Benchmarks Track</p></details> |
+| **[Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction](https://arxiv.org/abs/2611.02277v1)** | 2026-11-01 |  |
 | **[Ascend-SpMM: Accelerating Sparse Matrix-Dense Matrix Multiplication on Ascend NPUs](https://arxiv.org/abs/2611.01936v1)** | 2026-11-01 |  |
+| **[Spatial-Temporal Learning-Based Distributed Routing for Dynamic LEO Satellite Networks](https://arxiv.org/abs/2605.02413v2)** | 2026-11-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables. Submitted to the IEEE International Conference on Communications (ICC) 2027</p></details> |
 | **[A Surrogate Model for Variation-Aware Clock-Mesh Analysis and Design-Space Exploration using Graph Neural Networks](https://arxiv.org/abs/2611.01473v1)** | 2026-11-01 |  |
-| **[On Sparse Graph Limits for Neural Combinatorial Optimization](https://arxiv.org/abs/2611.01069v1)** | 2026-10-31 |  |
-| **[The Interpretable and Effective Graph Neural Additive Networks](https://arxiv.org/abs/2406.01317v5)** | 2026-10-31 |  |
-| **[Towards Invariance to Node Identifiers in Graph Neural Networks](https://arxiv.org/abs/2502.13660v2)** | 2026-10-31 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2411.02271</p></details> |
-| **[HamFormer: A Hamiltonian Flow-based SE(3)-Transformer for Conformation Optimization](https://arxiv.org/abs/2611.00875v1)** | 2026-10-31 |  |
-| **[Data-free neural PDE solvers based on Graph Neural Networks and weak forms](https://arxiv.org/abs/2607.27901v2)** | 2026-10-31 |  |
-| **[Paediatric-HGNN: A Hybrid Heterogeneous Graph Neural Network for Detecting Disfluency in Children's Speech via Multiscale Acoustic Fusion](https://arxiv.org/abs/2606.08210v2)** | 2026-10-31 | <details><summary>Proce...</summary><p>Proceedings of Interspeech 2026</p></details> |
-| **[Not All Neighbors Matter: Understanding the Impact of Graph Sparsification on GNN Pipelines](https://arxiv.org/abs/2603.06952v3)** | 2026-10-30 |  |
-| **[Efficient NPN Classification for Large Functions using Graph Neural Network](https://arxiv.org/abs/2611.00339v1)** | 2026-10-30 | <details><summary>9 pag...</summary><p>9 pages, 4 figures. Accepted to ICCAD 2026</p></details> |
-| **[Deep Neural Sheaf Diffusion](https://arxiv.org/abs/2605.19021v3)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Graph Foundation Models (GFM@ICML 2026). Code available at https://github.com/remibourgerie/deep-neural-sheaf-diffusion v3: Corrected typographical errors in Eqs. (3) and (12)</p></details> |
-| **[Interpretable structural temperature scaling for calibrating graph neural networks and point-cloud segmentation](https://arxiv.org/abs/2611.00175v1)** | 2026-10-30 | <details><summary>Under...</summary><p>Under consideration at Pattern Recognition Letters. 7 pages, 6 tables, 1 figure; supplementary material in ancillary files</p></details> |
-| **[Accurate and Auditable ECG Classification via Visibility Graph Neural Networks](https://arxiv.org/abs/2610.41795v1)** | 2026-10-30 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 21 tables, including Supplementary Information</p></details> |
-| **[Query Entity-Oriented Graph Neural Networks for Knowledge Graph Completion](https://arxiv.org/abs/2606.05639v2)** | 2026-10-30 |  |
-| **[From WSIs to Bulk, Spatial and Single-Cell Transcriptomics via Multi-Scale Graph Neural Networks](https://arxiv.org/abs/2610.41692v1)** | 2026-10-30 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
