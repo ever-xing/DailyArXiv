@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 08, 2026
+title: Latest 15 Papers - November 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent RL Priors for Data-Efficient Dexterous Manipulation](https://arxiv.org/abs/2611.08458v1)** | 2026-11-05 |  |
-| **[Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO](https://arxiv.org/abs/2611.08453v1)** | 2026-11-05 |  |
-| **[Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning](https://arxiv.org/abs/2611.08414v1)** | 2026-11-05 |  |
-| **[Information Elicitation by Ordinal Agreement](https://arxiv.org/abs/2611.08366v1)** | 2026-11-05 | <details><summary>33 pa...</summary><p>33 pages, 3 figures. Accepted to the 22nd Conference on Web and Internet Economics (WINE 2026)</p></details> |
-| **[SHORE: Stability-Hybrid On-Policy Reinforcement Learning for Online Bin Packing](https://arxiv.org/abs/2611.08364v1)** | 2026-11-05 |  |
-| **[Discovering Learning Rules that Shape Others](https://arxiv.org/abs/2611.08335v1)** | 2026-11-05 |  |
-| **[Teach the Way It Thinks: Guiding LLM Post-training Data Engineering with Sparse Autoencoders](https://arxiv.org/abs/2605.27354v2)** | 2026-11-05 |  |
-| **[RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines](https://arxiv.org/abs/2611.08308v1)** | 2026-11-05 | <details><summary>20 pa...</summary><p>20 pages including appendix</p></details> |
-| **[ManimCode: Learning Visual Self-Correction for Educational Animation](https://arxiv.org/abs/2611.08294v1)** | 2026-11-05 |  |
-| **[GUARD: Sensitivity-aware Uncertainty Attribution for Safe Traditional and Learning-based Robot Control](https://arxiv.org/abs/2509.23312v2)** | 2026-11-05 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 2 tables. Substantially revised and expanded version with updated title and authors. Extended validation using model predictive control and reinforcement learning-based control</p></details> |
-| **[Accelerating Safe Reinforcement Learning with Massive Parallelism](https://arxiv.org/abs/2611.08273v1)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Value-oriented policy distillation for interpretable wind farm power control](https://arxiv.org/abs/2611.08245v1)** | 2026-11-05 |  |
-| **[FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2611.08240v1)** | 2026-11-05 | <details><summary>86pag...</summary><p>86pages, 12 figures, technical report</p></details> |
-| **[PPO in the Fisher-Rao geometry](https://arxiv.org/abs/2506.03757v3)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis](https://arxiv.org/abs/2611.08219v1)** | 2026-11-05 |  |
+| **[Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data](https://arxiv.org/abs/2601.15158v5)** | 2026-11-06 | 94 pages, 7 figures |
+| **[Generalized Intention Modeling in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.31318v3)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Not All Entropy Is Equal: Reward-Conditioned Entropy Allocation in Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2611.09448v1)** | 2026-11-06 | 8 pages, 6 figures |
+| **[Discovering Update Rules for Opponent Shaping in General-Sum Games](https://arxiv.org/abs/2611.08335v2)** | 2026-11-06 | <details><summary>v2: n...</summary><p>v2: new title, revised Section 3.2</p></details> |
+| **[Revisiting Temporal Regularization for Smooth Control in Deep Reinforcement Learning](https://arxiv.org/abs/2610.07910v3)** | 2026-11-06 | <details><summary>Submi...</summary><p>Submitted to ICRA 2027. Project page: https://dmach1ne.github.io/CATS/</p></details> |
+| **[Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning](https://arxiv.org/abs/2607.19181v2)** | 2026-11-06 | <details><summary>Code ...</summary><p>Code available at https://github.com/aixiuxiuxiu/Legal-MT-SFT-RL</p></details> |
+| **[PhyCAD: Physics-Aware Text-to-CAD Generation via Hierarchical Reinforcement Learning](https://arxiv.org/abs/2611.09401v1)** | 2026-11-06 |  |
+| **[AUTEUR: Acoustic Plan Learning for Red-Teaming Text-to-Audio Models](https://arxiv.org/abs/2611.09351v1)** | 2026-11-06 |  |
+| **[Probably Safe Sim-to-Real Transfer with Lifetime Validity](https://arxiv.org/abs/2611.09344v1)** | 2026-11-06 |  |
+| **[NoContactNoWorries: Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation](https://arxiv.org/abs/2606.24450v2)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2026</p></details> |
+| **[EpiFlow: Bridging Safety and Performance in Offline Reinforcement Learning via Epigraph-Guided Flow Matching](https://arxiv.org/abs/2602.08054v3)** | 2026-11-06 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, first two authors have contributed equally. Paper accepted at NeurIPS 2026</p></details> |
+| **[Safety-Focused Reinforcement Learning Using Risk-Sensitive Coupled Control](https://arxiv.org/abs/2611.09290v1)** | 2026-11-06 |  |
+| **[SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References](https://arxiv.org/abs/2611.09266v1)** | 2026-11-06 | <details><summary>11 pa...</summary><p>11 pages, 6 figures. Project page: https://tianshuwu.github.io/sugarv2-humanoid/</p></details> |
+| **[Dyna-Style Safety Augmented Reinforcement Learning: Staying Safe in the Face of Uncertainty](https://arxiv.org/abs/2604.25508v2)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[VLD: Visual Learned Distance as an Interface for Reinforcement Learning Navigation](https://arxiv.org/abs/2512.07976v3)** | 2026-11-06 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interpretable Context-Aware Multi-Label Retinal Classification with Dual-Hub Heterogeneous Graph Neural Network](https://arxiv.org/abs/2611.09309v1)** | 2026-11-06 |  |
+| **[Compact SO(3) Equivariant Atomistic Foundation Models via Structural Pruning](https://arxiv.org/abs/2605.08885v2)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted as NeurIPS 2026 Oral paper</p></details> |
+| **[StreamTab: Training-Free Temporal Link Prediction with Tabular Foundation Models](https://arxiv.org/abs/2611.09052v1)** | 2026-11-06 |  |
+| **[SIMBAD: Spatio-Temporal Traffic Forecasting Robust to Aperiodicity](https://arxiv.org/abs/2611.09015v1)** | 2026-11-06 | <details><summary>Total...</summary><p>Total of 30 pages, 9 figures (4 in main, 5 in appendix), accepted to NeurIPS(Neural Information Processing Systems) 2026</p></details> |
+| **[Flowette: Flow Matching with Graphette Priors for Graph Generation](https://arxiv.org/abs/2602.23566v6)** | 2026-11-06 | 61 pages |
+| **[It Takes Two to Tangram: Multi-Agent Object Centric Reinforcement Learning for Assembly](https://arxiv.org/abs/2611.08814v1)** | 2026-11-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[CrowdDirector: Runtime Orchestration of Crowd Simulation through Natural-Language Directives](https://arxiv.org/abs/2611.08763v1)** | 2026-11-05 |  |
 | **[Module-Aware Optimization for Graph Neural Networks](https://arxiv.org/abs/2611.08379v1)** | 2026-11-05 | NeurIPS 2026 |
 | **[Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment](https://arxiv.org/abs/2602.01828v3)** | 2026-11-05 | NeurIPS 2026 |
 | **[Towards Generalist Graph-Level Anomaly Detection](https://arxiv.org/abs/2611.07706v1)** | 2026-11-05 | Accepted by NIPS26 |
@@ -34,13 +41,6 @@ labels: documentation
 | **[Variable-aware representation, not relation typing, explains the performance of an event-graph model for ICU mortality prediction: temporal and external validation](https://arxiv.org/abs/2608.02663v2)** | 2026-11-05 |  |
 | **[Formalizing Heterogeneous Interaction Modeling for Multi-Agent Debate in Visual Geo-Localization](https://arxiv.org/abs/2511.00908v3)** | 2026-11-05 |  |
 | **[Spectral symmetry fingerprints in equivariant representations](https://arxiv.org/abs/2611.07410v1)** | 2026-11-05 |  |
-| **[Graph Neural Networks for Resource Allocation in Integrated Sensing and Communication](https://arxiv.org/abs/2611.07277v1)** | 2026-11-05 | <details><summary>Submi...</summary><p>Submitted to IEEE ICC 2027</p></details> |
-| **[B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data](https://arxiv.org/abs/2505.22252v2)** | 2026-11-05 | <details><summary>Publi...</summary><p>Published at NeurIPS 2026 (Evaluations & Datasets Track)</p></details> |
-| **[GraphIP-Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?](https://arxiv.org/abs/2605.12827v3)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/LabRAI/GraphIP-Bench</p></details> |
-| **[Message-passing graph persistence](https://arxiv.org/abs/2611.06801v1)** | 2026-11-04 |  |
-| **[Homomorphism Indistinguishability Beyond Graphs: Relational Weisfeiler--Leman and Hypertree Width](https://arxiv.org/abs/2607.07934v2)** | 2026-11-04 |  |
-| **[From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485v4)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted for publication in Journal of Systems and Software (JSS)</p></details> |
-| **[GNNs Meet Sequence Models Along the Shortest-Path: an Expressive Method for Link Prediction](https://arxiv.org/abs/2507.07138v2)** | 2026-11-04 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
