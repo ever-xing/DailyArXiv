@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2026
+title: Latest 15 Papers - November 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?](https://arxiv.org/abs/2611.11450v1)** | 2026-11-08 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 12 tables</p></details> |
-| **[Schrödinger--Föllmer Actor--Critic: Diffusion Policy Improvement with Finite-Sample Analysis](https://arxiv.org/abs/2609.33239v4)** | 2026-11-08 |  |
-| **[Finite-Sample Probabilistic Safety Certification for AI-Based Grid-Edge Coordination](https://arxiv.org/abs/2609.28182v2)** | 2026-11-08 |  |
-| **[LLM-based Multi-Criteria Deep Reinforcement Learning for Dynamic Efficient 5G UPF Selection](https://arxiv.org/abs/2611.11372v1)** | 2026-11-08 | <details><summary>Accep...</summary><p>Accepted at IEEE Globecom 2026 CSM</p></details> |
-| **[GradMAP: Gradient-Based Multi-Agent Proximal Learning for Grid-Edge Flexibility](https://arxiv.org/abs/2604.24549v2)** | 2026-11-08 | <details><summary>12 pa...</summary><p>12 pages; under revision for IEEE Transactions on Smart Grid</p></details> |
-| **[OPSRL-SSP: Optimistic Posterior Sampling for Stochastic Shortest Path with Minimax-Optimal Regret](https://arxiv.org/abs/2611.11337v1)** | 2026-11-08 |  |
-| **[CVaR Deep Optimal Stopping](https://arxiv.org/abs/2611.11332v1)** | 2026-11-08 | Neurips 2026 |
-| **[When Credit Turns Against Tools: Transition-Aware Credit Assignment in Agentic Reinforcement Learning](https://arxiv.org/abs/2611.11330v1)** | 2026-11-08 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Beyond Playtesting: A Generative Multi-Agent Simulation System for Massively Multiplayer Online Games](https://arxiv.org/abs/2512.02358v2)** | 2026-11-08 |  |
-| **[When Is a Game a Markov Decision Process? Correspondences Between Game Theory and Reinforcement Learning](https://arxiv.org/abs/2610.41962v2)** | 2026-11-08 |  |
-| **[Primitives and Paths: Predicting What Post-Training Can Do from What the Base Model Already Has](https://arxiv.org/abs/2611.11260v1)** | 2026-11-08 | 10 pages, 1 figure |
-| **[FISolver: Data-Driven Discovery of First Integrals via Backward Generation and Guided Reinforcement Learning](https://arxiv.org/abs/2605.21160v2)** | 2026-11-08 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 tables. Accepted at CIKM 2026. Updated to align with the published conference version, including revisions to the title, abstract, and formatting</p></details> |
-| **[The Race Is Decided Early! A Kernel Law Predicts Lock-In in Majority-Vote Test-Time RL](https://arxiv.org/abs/2611.11165v1)** | 2026-11-08 |  |
-| **[DISCOVER: Online Variance-Guided Data Discovery for Budgeted Multimodal GRPO](https://arxiv.org/abs/2611.11145v1)** | 2026-11-08 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). Project page: https://peymoon.github.io/discover/</p></details> |
-| **[ChemBART: Pre-training a Reaction Language Model for Comprehensive Synthesis Planning](https://arxiv.org/abs/2601.02915v3)** | 2026-11-08 | <details><summary>Under...</summary><p>Under peer review. 32 pages, 6 figures, 2 tables</p></details> |
+| **[Resilient Integrated Access and Backhaul Network Planning via Graph Neural Network Curriculum Learning](https://arxiv.org/abs/2611.14042v1)** | 2026-11-10 |  |
+| **[Margin-Guided Token Credit for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2611.14015v1)** | 2026-11-10 |  |
+| **[DynamAuction: A Reinforcement Learning Environment for Repeated Auctions with Dynamic Value](https://arxiv.org/abs/2611.14000v1)** | 2026-11-10 |  |
+| **[Temporal Behavior Trees for Reinforcement Learning: Specifications as Rewards, Curricula, and Diagnostics](https://arxiv.org/abs/2611.13993v1)** | 2026-11-10 |  |
+| **[Dynamic Shape Control of Soft Trunk Robots](https://arxiv.org/abs/2611.06625v2)** | 2026-11-10 |  |
+| **[Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning](https://arxiv.org/abs/2607.19181v3)** | 2026-11-10 | <details><summary>Code ...</summary><p>Code available at https://github.com/aixiuxiuxiu/Legal-MT-SFT-RL</p></details> |
+| **[EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding](https://arxiv.org/abs/2611.13907v1)** | 2026-11-10 | <details><summary>The c...</summary><p>The code, model, and datasets are available at \href{https://github.com/ChangtiWu/EVAThink}{EVAThink}</p></details> |
+| **[Integrating Action Prefix Prediction and Alignment Across Modalities for Multimodal Reinforcement Learning](https://arxiv.org/abs/2611.13782v1)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted at the Australasian Conference on Robotics and Automation (ACRA 2026)</p></details> |
+| **[Omni-JEV: Text and Dual-Stream Speech Decisions](https://arxiv.org/abs/2611.13777v1)** | 2026-11-10 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 11 tables</p></details> |
+| **[OASIS: Optimization-Aware Subgoal Inference with Safety Constraints for Autonomous Mobile Robot Navigation](https://arxiv.org/abs/2611.11996v2)** | 2026-11-10 |  |
+| **[TRUER: Test-Time Reward Correction Using an Error-Aware Rectifier for Reinforcement Learning](https://arxiv.org/abs/2611.13714v1)** | 2026-11-10 | 26 pages, 14 figures |
+| **[Broad-Persistent Advising in Interactive Reinforcement Learning via Latent State Encoding](https://arxiv.org/abs/2611.13712v1)** | 2026-11-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables, Accepted for oral presentation at the Australasian Conference on Robotics and Automation (ACRA 2026)</p></details> |
+| **[Acceptance-Aware Draft Model Training for Speculative Decoding](https://arxiv.org/abs/2609.24150v2)** | 2026-11-10 |  |
+| **[Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration](https://arxiv.org/abs/2607.00033v3)** | 2026-11-10 |  |
+| **[A Distribution Mapping Approach to Counterfactually Fair Reinforcement Learning](https://arxiv.org/abs/2608.08743v2)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Transductive Generalization for GNNs via Optimal Transport](https://arxiv.org/abs/2603.09257v2)** | 2026-11-08 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026</p></details> |
-| **[MicroSim: Contrastive Graph Neural Networks for Binary Code Similarity Detection](https://arxiv.org/abs/2611.11486v1)** | 2026-11-08 |  |
-| **[MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials](https://arxiv.org/abs/2611.11226v1)** | 2026-11-08 | NeurIPS 2026 |
-| **[Estimating Condition Number with Graph Neural Networks](https://arxiv.org/abs/2603.10277v6)** | 2026-11-08 |  |
-| **[GARDEN: Efficient GPU-Accelerated Billion-Scale GNN Training via Caching-Sampling-Batching Co-Design](https://arxiv.org/abs/2611.11043v1)** | 2026-11-08 |  |
-| **[Spectral Graph Sparsification Preserves Representation Geometry in Graph Neural Networks](https://arxiv.org/abs/2605.01136v2)** | 2026-11-07 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, Accepted Neurips 2026</p></details> |
-| **[gHAWK: Local and Global Structure Encoding for Scalable Training of Graph Neural Networks on Knowledge Graphs](https://arxiv.org/abs/2512.08274v2)** | 2026-11-07 | <details><summary>Appea...</summary><p>Appears in NeurIPS 2026</p></details> |
-| **[Universal Approximation by Equivariant Message-Passing Graph Neural Networks with a Bilinear Readout](https://arxiv.org/abs/2611.10772v1)** | 2026-11-07 |  |
-| **[Beyond Oversquashing: Understanding Signal Propagation in GNNs Via Observables](https://arxiv.org/abs/2605.13383v2)** | 2026-11-07 |  |
-| **[CONSTRAINER: Promptable Graph-Structured Optimization via Constraint Conditioning](https://arxiv.org/abs/2611.10627v1)** | 2026-11-07 |  |
-| **[Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions](https://arxiv.org/abs/2611.07520v2)** | 2026-11-07 |  |
-| **[Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?](https://arxiv.org/abs/2611.10364v1)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 32 pages, 9 figures. Code: https://github.com/tommicaste/B-ME-DD</p></details> |
-| **[Signed Graph Pre-Training and Prompt Learning](https://arxiv.org/abs/2609.25722v3)** | 2026-11-07 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, Accepted to Learning on Graphs Conference (LoG 2026)</p></details> |
-| **[Transit-Oriented Land Use Planning Using Deep Reinforcement Learning](https://arxiv.org/abs/2611.10281v1)** | 2026-11-06 | <details><summary>44 pa...</summary><p>44 pages, 15 figures, 8 tables</p></details> |
-| **[Scaling Graph Similarity Learning with Graph Neural Networks](https://arxiv.org/abs/2611.09805v1)** | 2026-11-06 |  |
+| **[Resilient Integrated Access and Backhaul Network Planning via Graph Neural Network Curriculum Learning](https://arxiv.org/abs/2611.14042v1)** | 2026-11-10 |  |
+| **[ASPIRE: Make Spectral Graph Collaborative Filtering Great Again via Adaptive Filter Learning](https://arxiv.org/abs/2604.22549v2)** | 2026-11-10 |  |
+| **[DiffeoMorph: Learning Distributed 3D Morphogenesis with Rotation-Invariant Spectral Shape Matching](https://arxiv.org/abs/2512.17129v3)** | 2026-11-10 |  |
+| **[Early Rug Pull Detection on Solana](https://arxiv.org/abs/2611.13342v1)** | 2026-11-09 |  |
+| **[Transpilation-Aware Runtime Prediction for Noisy Quantum Circuit Simulation](https://arxiv.org/abs/2609.12980v2)** | 2026-11-09 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2026 AAAI Fall Symposium Series (Second AAAI Symposium on Quantum Information & Machine Learning)</p></details> |
+| **[QT-Net: Rethinking Evaluation of AI Models in Atomic Chemical Space](https://arxiv.org/abs/2605.10458v2)** | 2026-11-09 |  |
+| **[Pricing Symbolic Rules by What GNNs Leave Unlearned](https://arxiv.org/abs/2611.12446v1)** | 2026-11-09 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 10 tables. Accepted at the GraphML Workshop (Graph Machine Learning: Foundations, Frontiers, and Applications) at the 18th Asian Conference on Machine Learning (ACML 2026), Melbourne, Australia</p></details> |
+| **[Equivariant Spherical Transformer for Efficient Molecular Modeling](https://arxiv.org/abs/2505.23086v5)** | 2026-11-09 | 31 pages, 5 figures |
+| **[Reconstructing hourly traffic on every street of a capital from a sparse counting network: a graph neural network applied to Paris](https://arxiv.org/abs/2611.12379v1)** | 2026-11-09 |  |
+| **[Interpretable Context-Aware Multi-Label Retinal Classification with Dual-Hub Heterogeneous Graph Neural Network](https://arxiv.org/abs/2611.09309v2)** | 2026-11-09 |  |
+| **[Graph-Based RL for Sequential Rendezvous Planning with Multiple Patrolling USVs](https://arxiv.org/abs/2611.12205v1)** | 2026-11-09 |  |
+| **[How Hard Is It for Message-Passing GNNs to Simulate One Step of the Weisfeiler-Lehman Test?](https://arxiv.org/abs/2410.01308v7)** | 2026-11-09 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
+| **[Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data](https://arxiv.org/abs/2611.12013v1)** | 2026-11-09 | 5 figures, 3tables |
+| **[No Triangulation Without Representation: Generalization in Topological Deep Learning](https://arxiv.org/abs/2605.06467v3)** | 2026-11-09 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS) 2026. Our code is available at https://github.com/aidos-lab/mantra-pp-benchmarks</p></details> |
+| **[MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction](https://arxiv.org/abs/2611.11839v1)** | 2026-11-09 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (Evaluations & Datasets Track)</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
